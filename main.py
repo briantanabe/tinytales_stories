@@ -45,7 +45,8 @@ def convert_json(input_file, output_file):
     for node in data['nodes']:
         node_data = {
             "ending": "yes",
-            "decisionPoint": "no"
+            "decisionPoint": "no",
+            "id": node['caption']
         }
         next_nodes = []
         options_text = []
@@ -108,7 +109,7 @@ def setup_directory(name):
     if not os.path.exists(output):
         convert_json(input, output)
 
-    folder_names = ["text", "audio"]
+    folder_names = ["text", "audio", "gentle"]
     for folder_name in folder_names:
         folder_path = os.path.join(f'stories/{name}', folder_name)
         create_folder_if_not_exists(folder_path)
