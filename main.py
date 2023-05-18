@@ -2,6 +2,7 @@ import re
 import requests
 import os
 import json
+import uuid
 
 def download_audio(url, folder, filename):
     response = requests.get(url)
@@ -46,7 +47,7 @@ def convert_json(input_file, output_file):
         node_data = {
             "ending": "yes",
             "decisionPoint": "no",
-            "id": node['caption']
+            "id": str(uuid.uuid5(uuid.NAMESPACE_DNS, node["caption"].strip().lower()))
         }
         next_nodes = []
         options_text = []
@@ -126,7 +127,7 @@ story_name = "test"
 setup_directory(story_name)
 
 # Download clip
-id = "test"
-story_name = "test"
-sample = "Despite bring over 3 inches in length, the tarantula is not large enough to have a measurable gravitational pull on the Sun."
-save_clip(id, sample, story_name)
+# id = "test"
+# story_name = "test"
+# sample = "Despite bring over 3 inches in length, the tarantula is not large enough to have a measurable gravitational pull on the Sun."
+# save_clip(id, sample, story_name)

@@ -3,6 +3,7 @@
         "Inflection Point": {
             "ending": "no",
             "decisionPoint": "yes",
+            "id": "ab9f8cd1-b529-57e0-822c-babc42a010a4",
             "next": [
                 "End 1",
                 "End 2",
@@ -16,20 +17,24 @@
         },
         "End 1": {
             "ending": "yes",
-            "decisionPoint": "no"
+            "decisionPoint": "no",
+            "id": "8c34d933-313a-512c-88c2-70d4a49ee5fc"
         },
         "Start": {
             "ending": "no",
             "decisionPoint": "no",
+            "id": "21b23243-64a2-560a-ad7d-bae476336a1a",
             "next": "Inflection Point"
         },
         "End 2": {
             "ending": "yes",
-            "decisionPoint": "no"
+            "decisionPoint": "no",
+            "id": "10b33476-ac5e-5ae3-8665-edc700bf9d0d"
         },
         "End 3": {
             "ending": "yes",
-            "decisionPoint": "no"
+            "decisionPoint": "no",
+            "id": "fa48ac48-ba3a-50f9-8f8a-ea3c02972349"
         }
     },
     "startNode": "Start"
