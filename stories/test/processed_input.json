@@ -5,7 +5,7 @@
             "decisionPoint": "yes",
             "id": "ab9f8cd1-b529-57e0-822c-babc42a010a4",
             "next": [
-                "End 1",
+                "End 1 changed",
                 "End 2",
                 "End 3"
             ],
@@ -15,10 +15,10 @@
                 "Option 3"
             ]
         },
-        "End 1": {
+        "End 1 changed": {
             "ending": "yes",
             "decisionPoint": "no",
-            "id": "8c34d933-313a-512c-88c2-70d4a49ee5fc"
+            "id": "8edfb359-4031-5888-b7f6-0ef82a723ef8"
         },
         "Start": {
             "ending": "no",

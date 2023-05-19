@@ -1,0 +1,36 @@
+{
+  "transcript": "Start",
+  "words": [
+    {
+      "alignedWord": "start",
+      "case": "success",
+      "end": 0.6,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.08,
+      "startOffset": 0,
+      "word": "Start"
+    }
+  ]
+}
