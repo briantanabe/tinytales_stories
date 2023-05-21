@@ -1,7 +1,8 @@
 {
     "stories": [
         {
-            "id": "My First Story",
+            "id": "mfs",
+            "name": "My First Story",
             "version": 1
         }
     ]
