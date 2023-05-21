@@ -64,6 +64,10 @@ def convert_arrow_json(input_file, output_file):
                 for searchNode in data['nodes']:
                     if searchNode["id"] == rel['toId']:
                         next_nodes.append(str(uuid.uuid5(uuid.NAMESPACE_DNS, searchNode["caption"].strip().lower())))
+            if rel['toId'] == node['id']:
+                for searchNode in data['nodes']:
+                    if searchNode["id"] == rel['fromId']:
+                        node_data["previous"] = str(uuid.uuid5(uuid.NAMESPACE_DNS, searchNode["caption"].strip().lower()))
         if node_data["ending"] == "no":
             if node_data["decisionPoint"] == "no":
                 node_data['next'] = next_nodes[0]

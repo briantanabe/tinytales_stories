@@ -4,6 +4,7 @@
             "ending": "no",
             "decisionPoint": "yes",
             "text": "Inflection Point",
+            "previous": "21b23243-64a2-560a-ad7d-bae476336a1a",
             "next": [
                 "8edfb359-4031-5888-b7f6-0ef82a723ef8",
                 "10b33476-ac5e-5ae3-8665-edc700bf9d0d",
@@ -18,7 +19,8 @@
         "8edfb359-4031-5888-b7f6-0ef82a723ef8": {
             "ending": "yes",
             "decisionPoint": "no",
-            "text": "End 1 changed"
+            "text": "End 1 changed",
+            "previous": "ab9f8cd1-b529-57e0-822c-babc42a010a4"
         },
         "21b23243-64a2-560a-ad7d-bae476336a1a": {
             "ending": "no",
@@ -29,12 +31,14 @@
         "10b33476-ac5e-5ae3-8665-edc700bf9d0d": {
             "ending": "yes",
             "decisionPoint": "no",
-            "text": "End 2"
+            "text": "End 2",
+            "previous": "ab9f8cd1-b529-57e0-822c-babc42a010a4"
         },
         "fa48ac48-ba3a-50f9-8f8a-ea3c02972349": {
             "ending": "yes",
             "decisionPoint": "no",
-            "text": "End 3"
+            "text": "End 3",
+            "previous": "ab9f8cd1-b529-57e0-822c-babc42a010a4"
         }
     },
     "startNode": "21b23243-64a2-560a-ad7d-bae476336a1a"
