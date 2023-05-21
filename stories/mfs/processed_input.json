@@ -1,13 +1,13 @@
 {
     "nodes": {
-        "Inflection Point": {
+        "ab9f8cd1-b529-57e0-822c-babc42a010a4": {
             "ending": "no",
             "decisionPoint": "yes",
-            "id": "ab9f8cd1-b529-57e0-822c-babc42a010a4",
+            "text": "Inflection Point",
             "next": [
-                "End 1 changed",
-                "End 2",
-                "End 3"
+                "8edfb359-4031-5888-b7f6-0ef82a723ef8",
+                "10b33476-ac5e-5ae3-8665-edc700bf9d0d",
+                "fa48ac48-ba3a-50f9-8f8a-ea3c02972349"
             ],
             "options": [
                 "Option 1",
@@ -15,27 +15,27 @@
                 "Option 3"
             ]
         },
-        "End 1 changed": {
+        "8edfb359-4031-5888-b7f6-0ef82a723ef8": {
             "ending": "yes",
             "decisionPoint": "no",
-            "id": "8edfb359-4031-5888-b7f6-0ef82a723ef8"
+            "text": "End 1 changed"
         },
-        "Start": {
+        "21b23243-64a2-560a-ad7d-bae476336a1a": {
             "ending": "no",
             "decisionPoint": "no",
-            "id": "21b23243-64a2-560a-ad7d-bae476336a1a",
-            "next": "Inflection Point"
+            "text": "Start",
+            "next": "ab9f8cd1-b529-57e0-822c-babc42a010a4"
         },
-        "End 2": {
+        "10b33476-ac5e-5ae3-8665-edc700bf9d0d": {
             "ending": "yes",
             "decisionPoint": "no",
-            "id": "10b33476-ac5e-5ae3-8665-edc700bf9d0d"
+            "text": "End 2"
         },
-        "End 3": {
+        "fa48ac48-ba3a-50f9-8f8a-ea3c02972349": {
             "ending": "yes",
             "decisionPoint": "no",
-            "id": "fa48ac48-ba3a-50f9-8f8a-ea3c02972349"
+            "text": "End 3"
         }
     },
-    "startNode": "Start"
+    "startNode": "21b23243-64a2-560a-ad7d-bae476336a1a"
 }

@@ -51,7 +51,7 @@ def convert_arrow_json(input_file, output_file):
         node_data = {
             "ending": "yes",
             "decisionPoint": "no",
-            "id": str(uuid.uuid5(uuid.NAMESPACE_DNS, node["caption"].strip().lower()))
+            "text": node['caption']
         }
         next_nodes = []
         options_text = []
@@ -63,7 +63,7 @@ def convert_arrow_json(input_file, output_file):
                     options_text.append(rel["type"])
                 for searchNode in data['nodes']:
                     if searchNode["id"] == rel['toId']:
-                        next_nodes.append(searchNode['caption'])
+                        next_nodes.append(str(uuid.uuid5(uuid.NAMESPACE_DNS, searchNode["caption"].strip().lower())))
         if node_data["ending"] == "no":
             if node_data["decisionPoint"] == "no":
                 node_data['next'] = next_nodes[0]
@@ -72,9 +72,9 @@ def convert_arrow_json(input_file, output_file):
         if len(options_text) > 0:
             node_data['options'] = options_text
         
-        nodes[node['caption']] = node_data
+        nodes[str(uuid.uuid5(uuid.NAMESPACE_DNS, node["caption"].strip().lower()))] = node_data
         if node['labels'] and node['labels'][0] == "start":
-            start_node = node['caption']
+            start_node = str(uuid.uuid5(uuid.NAMESPACE_DNS, node["caption"].strip().lower()))
         
     output_data = {'nodes': nodes}
     if start_node:
@@ -156,7 +156,7 @@ def download_story_components(name):
             "ext": "txt"
         }]
         for node in data['nodes']:
-            filenames.append(data['nodes'][node]["id"])
+            filenames.append(node)
         for directory in directories:
             for filename in os.listdir(f'stories/{name}/{directory["path"]}'):
                 if not filename.endswith(directory["ext"]) or filename.split("/")[-1].split(".")[0] not in filenames:
@@ -166,7 +166,7 @@ def download_story_components(name):
 
         print("Downloading story content")
         for node in tqdm(data['nodes']):
-            id = data['nodes'][node]["id"]
+            id = node
             text = node
             folder = name
             save_segment(id, text, folder)
@@ -177,6 +177,6 @@ def process_story(name):
 
 
 # Setup
-# story_name = input("What story are we working on: ")
-story_name = "test"
+story_name = input("What story are we working on: ")
+# story_name = "test"
 process_story(story_name)
