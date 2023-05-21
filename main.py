@@ -170,10 +170,14 @@ def download_story_components(name):
 
         print("Downloading story content")
         for node in tqdm(data['nodes']):
-            id = node
-            text = node
-            folder = name
-            save_segment(id, text, folder)
+            if "options" in data['nodes'][node].keys():
+                for option in data['nodes'][node]["options"]:
+                    u = str(uuid.uuid5(uuid.NAMESPACE_DNS, option.strip().lower()))
+                    save_segment(u, option, name)
+
+            text = data['nodes'][node]["text"]
+            save_segment(node, data['nodes'][node]["text"], name)
+            
 
 def process_story(name):
     pre_process_story(name)

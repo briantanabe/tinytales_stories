@@ -1,0 +1,1014 @@
+{
+  "nodes": [
+    {
+      "id": "n2",
+      "position": {
+        "x": 18,
+        "y": -399.00000000000006
+      },
+      "caption": "Once upon a time, there were two best friends named Lily and Max. ",
+      "labels": [
+        "start"
+      ],
+      "properties": {},
+      "style": {
+        "caption-font-size": 9
+      }
+    },
+    {
+      "id": "n6",
+      "position": {
+        "x": 18,
+        "y": -232.9934914872552
+      },
+      "caption": "They loved going on cool adventures together.",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n7",
+      "position": {
+        "x": 18,
+        "y": -66.98698297451034
+      },
+      "caption": "They explored magical forests, sailed on make-believe seas, and found hidden treasures.",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n8",
+      "position": {
+        "x": 18,
+        "y": 80.30759904891231
+      },
+      "caption": "One sunny day, Lily and Max had to choose their next adventure.",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n9",
+      "position": {
+        "x": 18,
+        "y": 221.59296066206116
+      },
+      "caption": "They stood at a crossroads where they could go left or right. ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n10",
+      "position": {
+        "x": 18,
+        "y": 368.8875426854838
+      },
+      "caption": "On the left side was a garden full of beautiful flowers and friendly animals. ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n11",
+      "position": {
+        "x": 18,
+        "y": 516.1821247089065
+      },
+      "caption": "On the right side was a mysterious cave that people said had a secret treasure inside. What should Lily and Max do?",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n12",
+      "position": {
+        "x": 477.24168846566766,
+        "y": 731.8043155221948
+      },
+      "caption": "Lily and Max bravely entered the dark cave. ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n13",
+      "position": {
+        "x": 477.24168846566766,
+        "y": 858.0679005943229
+      },
+      "caption": "They walked deeper and deeper because they wanted to find the secret treasure. ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n14",
+      "position": {
+        "x": 477.24168846566766,
+        "y": 984.3314856664509
+      },
+      "caption": "But something strange happened to Max. ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n15",
+      "position": {
+        "x": 477.24168846566766,
+        "y": 1110.5950707385791
+      },
+      "caption": "He started acting differently. ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n16",
+      "position": {
+        "x": 477.2416938604643,
+        "y": 1236.8586558107072
+      },
+      "caption": "He became grumpy and started talking in a mean tone to Lily. ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n17",
+      "position": {
+        "x": 477.24168846566766,
+        "y": 1363.1222408828353
+      },
+      "caption": "Then, he said she was a bad adventure buddy for no reason.",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n18",
+      "position": {
+        "x": 477.24168846566766,
+        "y": 1503.3949784955387
+      },
+      "caption": "It made Lily feel sad and confused. What should Lily do? ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n19",
+      "position": {
+        "x": 1006.8101451573854,
+        "y": 1780.3723991468185
+      },
+      "caption": "Lily felt sad about Max's mean behavior but chose to keep going on their adventure. ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n20",
+      "position": {
+        "x": 1006.8101451573854,
+        "y": 1902.9935711212233
+      },
+      "caption": "She hoped Max would change and be nice again. ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n21",
+      "position": {
+        "x": 1006.8101451573854,
+        "y": 2025.6147430956282
+      },
+      "caption": "But as they continued, Max continued talking to her rudely. ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n22",
+      "position": {
+        "x": 1006.8101451573854,
+        "y": 2148.235915070033
+      },
+      "caption": "Lily felt uncomfortable. ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n23",
+      "position": {
+        "x": 1006.8101451573854,
+        "y": 2270.8570870444382
+      },
+      "caption": "She had to do something about it. What should Lily do? ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n24",
+      "position": {
+        "x": 1484.8489282032926,
+        "y": 2481.160867652804
+      },
+      "caption": "Lily decided to ask a wise person for help.",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n25",
+      "position": {
+        "x": 1484.8489282032926,
+        "y": 2615.2189016229427
+      },
+      "caption": "She found someone who knew a lot of things and asked them for help. ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n26",
+      "position": {
+        "x": 1484.8489282032926,
+        "y": 2749.2769355930814
+      },
+      "caption": "The wise person listened and gave Lily good ideas. ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n27",
+      "position": {
+        "x": 1484.8489282032926,
+        "y": 2883.33496956322
+      },
+      "caption": "They said Lily should talk to Max about his meanness and tell him how it makes her feel. ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n28",
+      "position": {
+        "x": 1484.8489282032926,
+        "y": 3017.3930035333588
+      },
+      "caption": "They also reminded Lily that she deserved to have nice friends who treat her well. What should Lily do now?",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n29",
+      "position": {
+        "x": 2005.8329046921667,
+        "y": 3383.92302260162
+      },
+      "caption": "Lily was happy that she stood up for herself and had a good talk with Max. ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n30",
+      "position": {
+        "x": 2005.8329046921667,
+        "y": 3510.319908734788
+      },
+      "caption": "She said to Max, “Don’t be scared. We have each other.” ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n31",
+      "position": {
+        "x": 2005.8329046921667,
+        "y": 3636.716794867956
+      },
+      "caption": "They continued home as it was getting darker and then stumbled upon a shiny object.",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n32",
+      "position": {
+        "x": 2005.8329046921667,
+        "y": 3819.3026363305526
+      },
+      "caption": "It was a glowing gemstone that would light their way back home! ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n33",
+      "position": {
+        "x": 2005.8329046921667,
+        "y": 4001.8884777931494
+      },
+      "caption": "Lily and Max looked at each other and laughed. ",
+      "labels": [
+        "END2"
+      ],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n34",
+      "position": {
+        "x": 2005.8329046921667,
+        "y": 4184.474319255745
+      },
+      "caption": "As Lily and Max went on more adventures, they learned that good friends should always be kind to each other. They helped one another, had fun, and told each other when they felt sad or uncomfortable. Their friendship grew stronger, and they had the best time ever.",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n35",
+      "position": {
+        "x": 2005.8329046921667,
+        "y": 4313.854792365388
+      },
+      "caption": "Remember, it's important to talk about your feelings with friends and always be kind. If someone is mean to you, tell them it is not okay. Real friends should make you feel happy and loved. With these lessons, you can go on fantastic adventures and have amazing friendships! ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n36",
+      "position": {
+        "x": 51.03972668563779,
+        "y": 1780.3723991468185
+      },
+      "caption": "Lily took a deep breath and told Max, \"I don’t like how you are talking to me. It hurts my feelings and makes me feel sad. Can we be nice friends again?\" What should Max do now?",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n37",
+      "position": {
+        "x": 438.3564596873684,
+        "y": 2236.224108503232
+      },
+      "caption": "Max continued to call Lily mean names as they journeyed home. ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n38",
+      "position": {
+        "x": -592.7749574064323,
+        "y": 2236.224108503232
+      },
+      "caption": "Max listened and then got quiet.",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n39",
+      "position": {
+        "x": 438.3564596873684,
+        "y": 2373.423698871273
+      },
+      "caption": " Lily was sad that Max continued being mean even when she asked him not to.",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n40",
+      "position": {
+        "x": 438.3564596873684,
+        "y": 2510.6232892393136
+      },
+      "caption": "Once they got back, Lily said, “If you can’t play nice, I don’t want to play with you.” ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n41",
+      "position": {
+        "x": 438.3564596873684,
+        "y": 2647.8228796073545
+      },
+      "caption": "From then on, Lily did not go on adventures with Max anymore. What could Max have done differently? ",
+      "labels": [
+        "END1"
+      ],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n42",
+      "position": {
+        "x": -592.7749574064323,
+        "y": 2373.423698871273
+      },
+      "caption": " He thought about why he was acting differently. He realized that he was scared that it was getting so dark. ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n43",
+      "position": {
+        "x": -592.7749574064323,
+        "y": 2510.6232892393136
+      },
+      "caption": "He told Lily, “I’m sorry I made you feel sad. I think I’m scared that it’s dark out now.” ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n44",
+      "position": {
+        "x": -464.99661323782914,
+        "y": 731.8043155221948
+      },
+      "caption": "Lily and Max happily skipped to the pretty garden. ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n45",
+      "position": {
+        "x": -464.99661323782914,
+        "y": 878.8776728670663
+      },
+      "caption": "They saw colorful flowers and met cute animals. ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n46",
+      "position": {
+        "x": -464.99661323782914,
+        "y": 1025.951030211938
+      },
+      "caption": " They laughed and sang songs.",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n47",
+      "position": {
+        "x": -464.99661323782914,
+        "y": 1173.0243875568094
+      },
+      "caption": "They were having so much fun and felt super happy. ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n48",
+      "position": {
+        "x": 582.4155716782374,
+        "y": 3017.3930035333588
+      },
+      "caption": "Lily gathered her courage and talked to Max about his behavior. ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n49",
+      "position": {
+        "x": 582.4155716782374,
+        "y": 3220.2744301771772
+      },
+      "caption": "She said, \"I don’t feel like you’re being a good friend to me. ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n50",
+      "position": {
+        "x": 582.4155716782374,
+        "y": 3383.92302260162
+      },
+      "caption": "We were having so much fun together.",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n51",
+      "position": {
+        "x": 582.4155716782374,
+        "y": 3547.5716150260623
+      },
+      "caption": "But now you are being mean and it makes me feel sad.\"",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n52",
+      "position": {
+        "x": 582.4155716782374,
+        "y": 3711.220207450505
+      },
+      "caption": "Max listened, and then got quiet. ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n53",
+      "position": {
+        "x": 582.4155716782374,
+        "y": 3874.8687998749474
+      },
+      "caption": " Then, he said, “I didn’t know I was making you feel bad. I’m sorry. I think I was scared that it got dark.” Then, he promised to not call her mean names anymore. ",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n5",
+      "fromId": "n2",
+      "toId": "n6",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n6",
+      "fromId": "n6",
+      "toId": "n7",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n7",
+      "fromId": "n7",
+      "toId": "n8",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n8",
+      "fromId": "n9",
+      "toId": "n10",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n9",
+      "fromId": "n8",
+      "toId": "n9",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n10",
+      "fromId": "n10",
+      "toId": "n11",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n11",
+      "fromId": "n11",
+      "toId": "n12",
+      "type": "Lily and Max should explore the dark cave",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n12",
+      "fromId": "n12",
+      "toId": "n13",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n13",
+      "fromId": "n13",
+      "toId": "n14",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n14",
+      "fromId": "n14",
+      "toId": "n15",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n15",
+      "fromId": "n15",
+      "toId": "n16",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n16",
+      "fromId": "n16",
+      "toId": "n17",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n17",
+      "fromId": "n17",
+      "toId": "n18",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n18",
+      "fromId": "n18",
+      "toId": "n19",
+      "type": "Lily should keep going and hope Max changes",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n19",
+      "fromId": "n19",
+      "toId": "n20",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n20",
+      "fromId": "n20",
+      "toId": "n21",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n21",
+      "fromId": "n21",
+      "toId": "n22",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n22",
+      "fromId": "n22",
+      "toId": "n23",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n23",
+      "fromId": "n23",
+      "toId": "n24",
+      "type": "Lily should ask for help from a wise person",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n24",
+      "fromId": "n24",
+      "toId": "n25",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n25",
+      "fromId": "n25",
+      "toId": "n26",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n26",
+      "fromId": "n26",
+      "toId": "n27",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n27",
+      "fromId": "n27",
+      "toId": "n28",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n28",
+      "fromId": "n28",
+      "toId": "n29",
+      "type": "Lily should try to do what the wise person said to do",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n29",
+      "fromId": "n29",
+      "toId": "n30",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n30",
+      "fromId": "n30",
+      "toId": "n31",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n31",
+      "fromId": "n31",
+      "toId": "n32",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n32",
+      "fromId": "n32",
+      "toId": "n33",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n33",
+      "fromId": "n33",
+      "toId": "n34",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n34",
+      "fromId": "n34",
+      "toId": "n35",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n35",
+      "fromId": "n18",
+      "toId": "n36",
+      "type": "Lily Should talk to Max",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n36",
+      "fromId": "n36",
+      "toId": "n37",
+      "type": "Max should ignore Lily and continue being mean",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n37",
+      "fromId": "n36",
+      "toId": "n38",
+      "type": "Max should think about what made him start acting differently",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n38",
+      "fromId": "n37",
+      "toId": "n39",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n39",
+      "fromId": "n39",
+      "toId": "n40",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n40",
+      "fromId": "n40",
+      "toId": "n41",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n41",
+      "fromId": "n38",
+      "toId": "n42",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n42",
+      "fromId": "n42",
+      "toId": "n43",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n43",
+      "fromId": "n43",
+      "toId": "n29",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n44",
+      "fromId": "n11",
+      "toId": "n44",
+      "type": "Lily and Max should go to the pretty garden",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n45",
+      "fromId": "n44",
+      "toId": "n45",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n46",
+      "fromId": "n45",
+      "toId": "n46",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n47",
+      "fromId": "n46",
+      "toId": "n47",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n48",
+      "fromId": "n47",
+      "toId": "n36",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n49",
+      "fromId": "n23",
+      "toId": "n48",
+      "type": "Lily should talk to Max about his behavior",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n50",
+      "fromId": "n48",
+      "toId": "n49",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n51",
+      "fromId": "n49",
+      "toId": "n50",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n52",
+      "fromId": "n50",
+      "toId": "n51",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n53",
+      "fromId": "n51",
+      "toId": "n52",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n54",
+      "fromId": "n52",
+      "toId": "n53",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n55",
+      "fromId": "n53",
+      "toId": "n29",
+      "type": "",
+      "properties": {},
+      "style": {}
+    }
+  ],
+  "style": {
+    "font-family": "Nunito Sans",
+    "background-color": "#F2F2F2",
+    "background-image": "",
+    "background-size": "100%",
+    "node-color": "#4C8EDA",
+    "border-width": 0,
+    "border-color": "#000000",
+    "radius": 75,
+    "node-padding": 5,
+    "node-margin": 2,
+    "outside-position": "auto",
+    "node-icon-image": "",
+    "node-background-image": "",
+    "icon-position": "inside",
+    "icon-size": 64,
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#ffffff",
+    "caption-font-size": 20,
+    "caption-font-weight": "normal",
+    "label-position": "inside",
+    "label-display": "bare",
+    "label-color": "#ffffff",
+    "label-background-color": "#848484",
+    "label-border-color": "#848484",
+    "label-border-width": 3,
+    "label-font-size": 20,
+    "label-padding": 5,
+    "label-margin": 4,
+    "directionality": "directed",
+    "detail-position": "above",
+    "detail-orientation": "parallel",
+    "arrow-width": 3,
+    "arrow-color": "#848484",
+    "margin-start": 5,
+    "margin-end": 5,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "relationship-icon-image": "",
+    "type-color": "#848484",
+    "type-background-color": "#F2F2F2",
+    "type-border-color": "#848484",
+    "type-border-width": 0,
+    "type-font-size": 21,
+    "type-padding": 5,
+    "property-position": "outside",
+    "property-alignment": "colon",
+    "property-color": "#848484",
+    "property-font-size": 20,
+    "property-font-weight": "normal"
+  }
+}

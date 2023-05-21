@@ -4,7 +4,7 @@
             "ending": "no",
             "decisionPoint": "yes",
             "text": "Inflection Point",
-            "previous": "21b23243-64a2-560a-ad7d-bae476336a1a",
+            "previous": "32bc68be-e4d2-5808-bea9-a96389134ebc",
             "next": [
                 "8edfb359-4031-5888-b7f6-0ef82a723ef8",
                 "10b33476-ac5e-5ae3-8665-edc700bf9d0d",
@@ -22,10 +22,10 @@
             "text": "End 1 changed",
             "previous": "ab9f8cd1-b529-57e0-822c-babc42a010a4"
         },
-        "21b23243-64a2-560a-ad7d-bae476336a1a": {
+        "32bc68be-e4d2-5808-bea9-a96389134ebc": {
             "ending": "no",
             "decisionPoint": "no",
-            "text": "Start",
+            "text": "This is the start of the story!",
             "next": "ab9f8cd1-b529-57e0-822c-babc42a010a4"
         },
         "10b33476-ac5e-5ae3-8665-edc700bf9d0d": {
@@ -41,5 +41,5 @@
             "previous": "ab9f8cd1-b529-57e0-822c-babc42a010a4"
         }
     },
-    "startNode": "21b23243-64a2-560a-ad7d-bae476336a1a"
+    "startNode": "32bc68be-e4d2-5808-bea9-a96389134ebc"
 }

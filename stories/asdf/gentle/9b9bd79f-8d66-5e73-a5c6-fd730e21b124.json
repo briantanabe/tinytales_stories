@@ -1,0 +1,51 @@
+{
+  "transcript": "Option 1",
+  "words": [
+    {
+      "alignedWord": "option",
+      "case": "success",
+      "end": 0.68,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.16,
+      "startOffset": 0,
+      "word": "Option"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.19,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.95,
+      "startOffset": 7,
+      "word": "1"
+    }
+  ]
+}
