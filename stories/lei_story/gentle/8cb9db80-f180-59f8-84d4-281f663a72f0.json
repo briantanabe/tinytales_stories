@@ -1,0 +1,225 @@
+{
+  "transcript": "They saw colorful flowers and met cute animals. ",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 0.29,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.0,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "saw",
+      "case": "success",
+      "end": 0.55,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ao_E"
+        }
+      ],
+      "start": 0.29,
+      "startOffset": 5,
+      "word": "saw"
+    },
+    {
+      "alignedWord": "colorful",
+      "case": "success",
+      "end": 1.06,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.57,
+      "startOffset": 9,
+      "word": "colorful"
+    },
+    {
+      "alignedWord": "flowers",
+      "case": "success",
+      "end": 1.85,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.06,
+      "startOffset": 18,
+      "word": "flowers"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.23,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.06,
+      "startOffset": 26,
+      "word": "and"
+    },
+    {
+      "alignedWord": "met",
+      "case": "success",
+      "end": 2.6,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.24,
+      "startOffset": 30,
+      "word": "met"
+    },
+    {
+      "alignedWord": "cute",
+      "case": "success",
+      "end": 3.0300000000000002,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.62,
+      "startOffset": 34,
+      "word": "cute"
+    },
+    {
+      "alignedWord": "animals",
+      "case": "success",
+      "end": 3.88,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.09,
+      "startOffset": 39,
+      "word": "animals"
+    }
+  ]
+}

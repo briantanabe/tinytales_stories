@@ -55,12 +55,14 @@ def convert_arrow_json(input_file, output_file):
         }
         next_nodes = []
         options_text = []
+        options_id = []
         for rel in data['relationships']:
             if rel['fromId'] == node['id']:
                 node_data["ending"] = "no"
                 if rel["type"] != "":
                     node_data["decisionPoint"] = "yes"
                     options_text.append(rel["type"])
+                    options_id.append(str(uuid.uuid5(uuid.NAMESPACE_DNS, rel["type"].strip().lower())))
                 for searchNode in data['nodes']:
                     if searchNode["id"] == rel['toId']:
                         next_nodes.append(str(uuid.uuid5(uuid.NAMESPACE_DNS, searchNode["caption"].strip().lower())))
@@ -75,6 +77,7 @@ def convert_arrow_json(input_file, output_file):
                 node_data['next'] = next_nodes
         if len(options_text) > 0:
             node_data['options'] = options_text
+            node_data['optionIDs'] = options_id
         
         nodes[str(uuid.uuid5(uuid.NAMESPACE_DNS, node["caption"].strip().lower()))] = node_data
         if node['labels'] and node['labels'][0] == "start":
@@ -161,6 +164,9 @@ def download_story_components(name):
         }]
         for node in data['nodes']:
             filenames.append(node)
+            if data["nodes"][node]["decisionPoint"] == "yes":
+                for option in data["nodes"][node]["optionIDs"]:
+                    filenames.append(option)
         for directory in directories:
             for filename in os.listdir(f'stories/{name}/{directory["path"]}'):
                 if not filename.endswith(directory["ext"]) or filename.split("/")[-1].split(".")[0] not in filenames:

@@ -1,0 +1,423 @@
+{
+  "transcript": "They said Lily should talk to Max about his meanness and tell him how it makes her feel. ",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 0.35000000000000003,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.08,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "said",
+      "case": "success",
+      "end": 0.85,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.35,
+      "startOffset": 5,
+      "word": "said"
+    },
+    {
+      "alignedWord": "lily",
+      "case": "success",
+      "end": 1.48,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.07,
+      "startOffset": 10,
+      "word": "Lily"
+    },
+    {
+      "alignedWord": "should",
+      "case": "success",
+      "end": 1.72,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.49,
+      "startOffset": 15,
+      "word": "should"
+    },
+    {
+      "alignedWord": "talk",
+      "case": "success",
+      "end": 2.09,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.74,
+      "startOffset": 22,
+      "word": "talk"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.2199999999999998,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 2.09,
+      "startOffset": 27,
+      "word": "to"
+    },
+    {
+      "alignedWord": "max",
+      "case": "success",
+      "end": 2.6300000000000003,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.22,
+      "startOffset": 30,
+      "word": "Max"
+    },
+    {
+      "alignedWord": "about",
+      "case": "success",
+      "end": 2.92,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.63,
+      "startOffset": 34,
+      "word": "about"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 3.1,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.93,
+      "startOffset": 40,
+      "word": "his"
+    },
+    {
+      "alignedWord": "meanness",
+      "case": "success",
+      "end": 3.84,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.11,
+      "startOffset": 44,
+      "word": "meanness"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 4.27,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.05,
+      "startOffset": 53,
+      "word": "and"
+    },
+    {
+      "alignedWord": "tell",
+      "case": "success",
+      "end": 4.52,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 4.27,
+      "startOffset": 57,
+      "word": "tell"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 4.67,
+      "endOffset": 65,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_E"
+        }
+      ],
+      "start": 4.52,
+      "startOffset": 62,
+      "word": "him"
+    },
+    {
+      "alignedWord": "how",
+      "case": "success",
+      "end": 4.84,
+      "endOffset": 69,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 4.67,
+      "startOffset": 66,
+      "word": "how"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 4.96,
+      "endOffset": 72,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.84,
+      "startOffset": 70,
+      "word": "it"
+    },
+    {
+      "alignedWord": "makes",
+      "case": "success",
+      "end": 5.23,
+      "endOffset": 78,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_E"
+        }
+      ],
+      "start": 4.96,
+      "startOffset": 73,
+      "word": "makes"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 5.37,
+      "endOffset": 82,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 5.23,
+      "startOffset": 79,
+      "word": "her"
+    },
+    {
+      "alignedWord": "feel",
+      "case": "success",
+      "end": 5.58,
+      "endOffset": 87,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_E"
+        }
+      ],
+      "start": 5.37,
+      "startOffset": 83,
+      "word": "feel"
+    }
+  ]
+}

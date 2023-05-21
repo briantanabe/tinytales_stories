@@ -1,0 +1,220 @@
+{
+  "transcript": "Lily and Max looked at each other and laughed. ",
+  "words": [
+    {
+      "alignedWord": "lily",
+      "case": "success",
+      "end": 0.53,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.16,
+      "startOffset": 0,
+      "word": "Lily"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 0.62,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.53,
+      "startOffset": 5,
+      "word": "and"
+    },
+    {
+      "alignedWord": "max",
+      "case": "success",
+      "end": 1.06,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.63,
+      "startOffset": 9,
+      "word": "Max"
+    },
+    {
+      "alignedWord": "looked",
+      "case": "success",
+      "end": 1.3900000000000001,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.07,
+      "startOffset": 13,
+      "word": "looked"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 1.5099999999999998,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.39,
+      "startOffset": 20,
+      "word": "at"
+    },
+    {
+      "alignedWord": "each",
+      "case": "success",
+      "end": 1.67,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 1.51,
+      "startOffset": 23,
+      "word": "each"
+    },
+    {
+      "alignedWord": "other",
+      "case": "success",
+      "end": 1.89,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.67,
+      "startOffset": 28,
+      "word": "other"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.07,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.89,
+      "startOffset": 34,
+      "word": "and"
+    },
+    {
+      "alignedWord": "laughed",
+      "case": "success",
+      "end": 2.4,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.07,
+      "startOffset": 38,
+      "word": "laughed"
+    }
+  ]
+}

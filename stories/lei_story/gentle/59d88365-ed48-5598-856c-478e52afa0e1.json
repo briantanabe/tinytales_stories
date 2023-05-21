@@ -1,0 +1,430 @@
+{
+  "transcript": "He told Lily, \u201cI\u2019m sorry I made you feel sad. I think I\u2019m scared that it\u2019s dark out now.\u201d ",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.2,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.04,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "told",
+      "case": "success",
+      "end": 0.51,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.2,
+      "startOffset": 3,
+      "word": "told"
+    },
+    {
+      "alignedWord": "lily",
+      "case": "success",
+      "end": 0.8400000000000001,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.51,
+      "startOffset": 8,
+      "word": "Lily"
+    },
+    {
+      "alignedWord": "i'm",
+      "case": "success",
+      "end": 1.3199999999999998,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.14,
+      "startOffset": 15,
+      "word": "I\u2019m"
+    },
+    {
+      "alignedWord": "sorry",
+      "case": "success",
+      "end": 1.69,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.32,
+      "startOffset": 19,
+      "word": "sorry"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.75,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.69,
+      "startOffset": 25,
+      "word": "I"
+    },
+    {
+      "alignedWord": "made",
+      "case": "success",
+      "end": 2.0,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 27,
+      "word": "made"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 2.1,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.0,
+      "startOffset": 32,
+      "word": "you"
+    },
+    {
+      "alignedWord": "feel",
+      "case": "success",
+      "end": 2.35,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.1,
+      "startOffset": 36,
+      "word": "feel"
+    },
+    {
+      "alignedWord": "sad",
+      "case": "success",
+      "end": 2.7800000000000002,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.35,
+      "startOffset": 41,
+      "word": "sad"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 3.14,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 2.99,
+      "startOffset": 46,
+      "word": "I"
+    },
+    {
+      "alignedWord": "think",
+      "case": "success",
+      "end": 3.4,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_E"
+        }
+      ],
+      "start": 3.15,
+      "startOffset": 48,
+      "word": "think"
+    },
+    {
+      "alignedWord": "i'm",
+      "case": "success",
+      "end": 3.54,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "m_E"
+        }
+      ],
+      "start": 3.4,
+      "startOffset": 54,
+      "word": "I\u2019m"
+    },
+    {
+      "alignedWord": "scared",
+      "case": "success",
+      "end": 4.0,
+      "endOffset": 64,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.55,
+      "startOffset": 58,
+      "word": "scared"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 4.1,
+      "endOffset": 69,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.0,
+      "startOffset": 65,
+      "word": "that"
+    },
+    {
+      "alignedWord": "it's",
+      "case": "success",
+      "end": 4.29,
+      "endOffset": 74,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_E"
+        }
+      ],
+      "start": 4.1,
+      "startOffset": 70,
+      "word": "it\u2019s"
+    },
+    {
+      "alignedWord": "dark",
+      "case": "success",
+      "end": 4.64,
+      "endOffset": 79,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_E"
+        }
+      ],
+      "start": 4.29,
+      "startOffset": 75,
+      "word": "dark"
+    },
+    {
+      "alignedWord": "out",
+      "case": "success",
+      "end": 4.87,
+      "endOffset": 83,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.64,
+      "startOffset": 80,
+      "word": "out"
+    },
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 5.17,
+      "endOffset": 87,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 4.87,
+      "startOffset": 84,
+      "word": "now"
+    }
+  ]
+}

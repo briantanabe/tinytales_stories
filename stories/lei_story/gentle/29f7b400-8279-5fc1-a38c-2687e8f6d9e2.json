@@ -1,0 +1,228 @@
+{
+  "transcript": "Lily decided to ask a wise person for help.",
+  "words": [
+    {
+      "alignedWord": "lily",
+      "case": "success",
+      "end": 0.5,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.1,
+      "startOffset": 0,
+      "word": "Lily"
+    },
+    {
+      "alignedWord": "decided",
+      "case": "success",
+      "end": 1.0699999999999998,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.5,
+      "startOffset": 5,
+      "word": "decided"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.19,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.07,
+      "startOffset": 13,
+      "word": "to"
+    },
+    {
+      "alignedWord": "ask",
+      "case": "success",
+      "end": 1.56,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 16,
+      "word": "ask"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.7000000000000002,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 20,
+      "word": "a"
+    },
+    {
+      "alignedWord": "wise",
+      "case": "success",
+      "end": 2.25,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.27,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.7,
+      "startOffset": 22,
+      "word": "wise"
+    },
+    {
+      "alignedWord": "person",
+      "case": "success",
+      "end": 2.65,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.28,
+      "startOffset": 27,
+      "word": "person"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 2.82,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.65,
+      "startOffset": 34,
+      "word": "for"
+    },
+    {
+      "alignedWord": "help",
+      "case": "success",
+      "end": 3.21,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "p_E"
+        }
+      ],
+      "start": 2.82,
+      "startOffset": 38,
+      "word": "help"
+    }
+  ]
+}

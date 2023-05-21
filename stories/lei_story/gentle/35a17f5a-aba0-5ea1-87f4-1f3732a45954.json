@@ -1,0 +1,124 @@
+{
+  "transcript": "Lily Should talk to Max",
+  "words": [
+    {
+      "alignedWord": "lily",
+      "case": "success",
+      "end": 0.71,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "Lily"
+    },
+    {
+      "alignedWord": "should",
+      "case": "success",
+      "end": 1.1099999999999999,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.86,
+      "startOffset": 5,
+      "word": "Should"
+    },
+    {
+      "alignedWord": "talk",
+      "case": "success",
+      "end": 1.37,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 12,
+      "word": "talk"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.4900000000000002,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 1.37,
+      "startOffset": 17,
+      "word": "to"
+    },
+    {
+      "alignedWord": "max",
+      "case": "success",
+      "end": 1.88,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.49,
+      "startOffset": 20,
+      "word": "Max"
+    }
+  ]
+}

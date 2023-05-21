@@ -1,0 +1,294 @@
+{
+  "transcript": "Lily gathered her courage and talked to Max about his behavior. ",
+  "words": [
+    {
+      "alignedWord": "lily",
+      "case": "success",
+      "end": 0.56,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.16,
+      "startOffset": 0,
+      "word": "Lily"
+    },
+    {
+      "alignedWord": "gathered",
+      "case": "success",
+      "end": 1.03,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.57,
+      "startOffset": 5,
+      "word": "gathered"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 1.19,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.03,
+      "startOffset": 14,
+      "word": "her"
+    },
+    {
+      "alignedWord": "courage",
+      "case": "success",
+      "end": 1.74,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 1.19,
+      "startOffset": 18,
+      "word": "courage"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.97,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.74,
+      "startOffset": 26,
+      "word": "and"
+    },
+    {
+      "alignedWord": "talked",
+      "case": "success",
+      "end": 2.3499999999999996,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.03,
+      "startOffset": 30,
+      "word": "talked"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.48,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 2.36,
+      "startOffset": 37,
+      "word": "to"
+    },
+    {
+      "alignedWord": "max",
+      "case": "success",
+      "end": 2.85,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.48,
+      "startOffset": 40,
+      "word": "Max"
+    },
+    {
+      "alignedWord": "about",
+      "case": "success",
+      "end": 3.1,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.85,
+      "startOffset": 44,
+      "word": "about"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 3.25,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.1,
+      "startOffset": 50,
+      "word": "his"
+    },
+    {
+      "alignedWord": "behavior",
+      "case": "success",
+      "end": 3.88,
+      "endOffset": 62,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "hh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.25,
+      "startOffset": 54,
+      "word": "behavior"
+    }
+  ]
+}

@@ -4,11 +4,11 @@
     {
       "alignedWord": "option",
       "case": "success",
-      "end": 0.68,
+      "end": 0.65,
       "endOffset": 6,
       "phones": [
         {
-          "duration": 0.11,
+          "duration": 0.12,
           "phone": "aa_B"
         },
         {
@@ -16,7 +16,7 @@
           "phone": "p_I"
         },
         {
-          "duration": 0.06,
+          "duration": 0.07,
           "phone": "sh_I"
         },
         {
@@ -24,26 +24,26 @@
           "phone": "ah_I"
         },
         {
-          "duration": 0.2,
+          "duration": 0.18,
           "phone": "n_E"
         }
       ],
-      "start": 0.16,
+      "start": 0.13,
       "startOffset": 0,
       "word": "Option"
     },
     {
       "alignedWord": "<unk>",
       "case": "success",
-      "end": 1.19,
+      "end": 1.44,
       "endOffset": 8,
       "phones": [
         {
-          "duration": 0.24,
+          "duration": 0.23,
           "phone": "oov_S"
         }
       ],
-      "start": 0.95,
+      "start": 1.21,
       "startOffset": 7,
       "word": "1"
     }

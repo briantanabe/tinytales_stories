@@ -53,6 +53,10 @@
             "options": [
                 "Lily and Max should explore the dark cave",
                 "Lily and Max should go to the pretty garden"
+            ],
+            "optionIDs": [
+                "44e3ae6c-437c-5c38-b48f-4606c3887469",
+                "5e0fbccf-74c9-58eb-a0fb-ca1f96a83f12"
             ]
         },
         "4161a28a-98ed-5ce7-a742-1d67120d1a84": {
@@ -109,6 +113,10 @@
             "options": [
                 "Lily should keep going and hope Max changes",
                 "Lily Should talk to Max"
+            ],
+            "optionIDs": [
+                "aeef096c-4a91-5ea9-a351-f796c2d2f5bf",
+                "35a17f5a-aba0-5ea1-87f4-1f3732a45954"
             ]
         },
         "d1f6465c-bbd6-5015-b319-812e8feff6e5": {
@@ -151,6 +159,10 @@
             "options": [
                 "Lily should ask for help from a wise person",
                 "Lily should talk to Max about his behavior"
+            ],
+            "optionIDs": [
+                "638d0de6-bbad-5afa-b11a-40bc677d1c13",
+                "81660242-f423-520f-b138-2203340a2d7e"
             ]
         },
         "29f7b400-8279-5fc1-a38c-2687e8f6d9e2": {
@@ -191,6 +203,9 @@
             ],
             "options": [
                 "Lily should try to do what the wise person said to do"
+            ],
+            "optionIDs": [
+                "c175429b-8a0a-5b1e-9ebc-85176b571ffc"
             ]
         },
         "36f8ac2a-cdbf-5198-80db-562f71655608": {
@@ -253,6 +268,10 @@
             "options": [
                 "Max should ignore Lily and continue being mean",
                 "Max should think about what made him start acting differently"
+            ],
+            "optionIDs": [
+                "7daac809-dd00-5e08-9a92-c7a4d936bb0e",
+                "7398557f-775b-5d66-b068-bf23f27a9761"
             ]
         },
         "b6906f70-316e-5c8a-a7aa-754913bcfbc0": {
