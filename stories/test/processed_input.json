@@ -1,0 +1,50 @@
+{
+    "nodes": {
+        "19db3471-5fab-5374-b3a3-5194adae0ad6": {
+            "ending": "no",
+            "decisionPoint": "yes",
+            "text": "What would you rather do?",
+            "previous": "32bc68be-e4d2-5808-bea9-a96389134ebc",
+            "next": [
+                "53f2ebc3-d7ea-5e6a-a485-812d40c3ff18",
+                "64af3f14-a134-5cf7-818b-b1268e48f028",
+                "ea0b83b8-b28a-566c-8f88-6c8434101f89"
+            ],
+            "options": [
+                "Go skiing?",
+                "Order postmates?",
+                "Or brew kombucha."
+            ],
+            "optionIDs": [
+                "9d3c61e9-431d-536e-a523-c1d087e22c99",
+                "2c72b3a8-49aa-5c3d-9507-2f3e5fe19e36",
+                "56abfe96-77cb-5175-8eab-45afd026b509"
+            ]
+        },
+        "53f2ebc3-d7ea-5e6a-a485-812d40c3ff18": {
+            "ending": "yes",
+            "decisionPoint": "no",
+            "text": "You seem pretty sporty. I love it!",
+            "previous": "19db3471-5fab-5374-b3a3-5194adae0ad6"
+        },
+        "32bc68be-e4d2-5808-bea9-a96389134ebc": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "This is the start of the story!",
+            "next": "19db3471-5fab-5374-b3a3-5194adae0ad6"
+        },
+        "64af3f14-a134-5cf7-818b-b1268e48f028": {
+            "ending": "yes",
+            "decisionPoint": "no",
+            "text": "I feel the same way, I'm pretty hungry right now!",
+            "previous": "19db3471-5fab-5374-b3a3-5194adae0ad6"
+        },
+        "ea0b83b8-b28a-566c-8f88-6c8434101f89": {
+            "ending": "yes",
+            "decisionPoint": "no",
+            "text": "Weird, but I bet you'd have a lot of fun!",
+            "previous": "19db3471-5fab-5374-b3a3-5194adae0ad6"
+        }
+    },
+    "startNode": "32bc68be-e4d2-5808-bea9-a96389134ebc"
+}

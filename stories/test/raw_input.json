@@ -56,21 +56,21 @@
     {
       "id": "n0",
       "position": {
-        "x": 18,
-        "y": -143
+        "x": 404.4218060221313,
+        "y": 306.00000000000006
       },
-      "caption": "Inflection Point",
-      "style": {},
+      "caption": "What would you rather do?",
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n1",
       "position": {
-        "x": -311.4218060221313,
-        "y": 124.46117892254034
+        "x": 75,
+        "y": 573.4611789225404
       },
-      "caption": "End 1 changed",
+      "caption": "You seem pretty sporty. I love it!",
       "labels": [],
       "properties": {},
       "style": {}
@@ -78,8 +78,8 @@
     {
       "id": "n2",
       "position": {
-        "x": 18,
-        "y": -399.00000000000006
+        "x": 404.4218060221313,
+        "y": 50
       },
       "caption": "This is the start of the story!",
       "labels": [
@@ -91,30 +91,30 @@
     {
       "id": "n3",
       "position": {
-        "x": 18,
-        "y": 124.46117892254028
+        "x": 404.4218060221313,
+        "y": 573.4611789225403
       },
-      "caption": "End 2",
-      "style": {},
+      "caption": "I feel the same way, I'm pretty hungry right now!",
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n4",
       "position": {
-        "x": 347.42180602213136,
-        "y": 124.46117892254028
+        "x": 733.8436120442627,
+        "y": 573.4611789225403
       },
-      "caption": "End 3",
-      "style": {},
+      "caption": "Weird, but I bet you'd have a lot of fun!",
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     }
   ],
   "relationships": [
     {
       "id": "n0",
-      "type": "Option 1",
+      "type": "Go skiing?",
       "style": {
         "detail-orientation": "horizontal"
       },
@@ -124,15 +124,15 @@
     },
     {
       "id": "n1",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n2",
-      "toId": "n0"
+      "toId": "n0",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n2",
-      "type": "Option 2",
+      "type": "Order postmates?",
       "style": {
         "detail-orientation": "horizontal"
       },
@@ -142,7 +142,7 @@
     },
     {
       "id": "n3",
-      "type": "Option 3",
+      "type": "Or brew kombucha.",
       "style": {
         "detail-orientation": "horizontal"
       },

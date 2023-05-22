@@ -1,13 +1,13 @@
 {
     "stories": [
         {
-            "id": "asdf",
-            "title": "My First Story",
+            "id": "test",
+            "title": "Diagnostic",
             "version": 1
         },
         {
             "id": "lei_story",
-            "title": "Lei's Story",
+            "title": "Max and Lily",
             "version": 1
         }
     ]
