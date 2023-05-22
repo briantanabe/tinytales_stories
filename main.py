@@ -125,7 +125,7 @@ def pre_process_story(name):
     
     convert_arrow_json(input, output)
 
-    folder_names = ["text", "audio", "gentle"]
+    folder_names = ["text", "audio", "gentle", "schedule", "readalong"]
     for folder_name in folder_names:
         folder_path = os.path.join(f'stories/{name}', folder_name)
         create_folder_if_not_exists(folder_path)
@@ -136,12 +136,24 @@ def save_segment(id, text, folder):
         download_audio(get_audio_link(text), f'stories/{story_name}/audio', f'{id}.mp3')
 
     if new_file or not os.path.exists(f'stories/{story_name}/gentle/{id}.json'):
-        command = ['python', 'gentle/align.py', f'stories/{story_name}/audio/{id}.mp3', f'stories/{story_name}/text/{id}.txt', '-o', f'stories/{story_name}/gentle/{id}.json']
+        
+        # Gentle phonemes
+        command1 = ['python', 'gentle/align.py', f'stories/{story_name}/audio/{id}.mp3', f'stories/{story_name}/text/{id}.txt', '-o', f'stories/{story_name}/gentle/{id}.json']
         try:
-            subprocess.run(command, check=True)
+            subprocess.run(command1, check=True)
             # print("Alignment completed successfully.")
         except subprocess.CalledProcessError as e:
             print("Alignment failed with error:", e)
+
+        # # Schedule them?
+        # command2 = ['python', 'scheduler.py', '--input_txt', f'stories/{story_name}/text/{id}.txt', '--input_json', f'stories/{story_name}/gentle/{id}.json', '--output_location', f'stories/{story_name}/schedule/{id}.csv']
+        # try:
+        #     subprocess.run(command2, check=True)
+        #     # print("Alignment completed successfully.")
+        # except subprocess.CalledProcessError as e:
+        #     print("Alignment failed with error:", e)
+
+        # Reinterpret combine gentle json and scheduled CSV into easily used thingy
 
 def download_story_components(name):
     story_json = f"stories/{name}/processed_input.json"

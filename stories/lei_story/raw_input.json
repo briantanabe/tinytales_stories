@@ -320,7 +320,7 @@
       },
       "caption": "Lily and Max looked at each other and laughed. ",
       "labels": [
-        "END2"
+        "END1"
       ],
       "properties": {},
       "style": {}
@@ -361,8 +361,8 @@
     {
       "id": "n37",
       "position": {
-        "x": 438.3564596873684,
-        "y": 2236.224108503232
+        "x": 388.46673560334403,
+        "y": 2270.8570870444382
       },
       "caption": "Max continued to call Lily mean names as they journeyed home. ",
       "labels": [],
@@ -383,8 +383,8 @@
     {
       "id": "n39",
       "position": {
-        "x": 438.3564596873684,
-        "y": 2373.423698871273
+        "x": 388.46673560334403,
+        "y": 2408.056677412479
       },
       "caption": " Lily was sad that Max continued being mean even when she asked him not to.",
       "labels": [],
@@ -394,24 +394,11 @@
     {
       "id": "n40",
       "position": {
-        "x": 438.3564596873684,
-        "y": 2510.6232892393136
+        "x": 388.46673560334403,
+        "y": 2545.25626778052
       },
-      "caption": "Once they got back, Lily said, “If you can’t play nice, I don’t want to play with you.” ",
+      "caption": "Once they got back, Lily said, “If you can’t play nice, I don’t want to play with you.” What should Max do now?",
       "labels": [],
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n41",
-      "position": {
-        "x": 438.3564596873684,
-        "y": 2647.8228796073545
-      },
-      "caption": "From then on, Lily did not go on adventures with Max anymore. What could Max have done differently? ",
-      "labels": [
-        "END1"
-      ],
       "properties": {},
       "style": {}
     },
@@ -544,6 +531,87 @@
       },
       "caption": " Then, he said, “I didn’t know I was making you feel bad. I’m sorry. I think I was scared that it got dark.” Then, he promised to not call her mean names anymore. ",
       "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n54",
+      "position": {
+        "x": -464.99661323782914,
+        "y": 3220.2744301771772
+      },
+      "caption": "Once they got back from their adventures, Lily decided that she wouldn’t go on adventures with Max anymore.",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n55",
+      "position": {
+        "x": -464.99661323782914,
+        "y": 3357.474020545218
+      },
+      "caption": "Now Max had no adventure buddy and lost a best friend.",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n57",
+      "position": {
+        "x": -464.99661323782914,
+        "y": 3494.673610913259
+      },
+      "caption": "What could Max have done differently? ",
+      "labels": [
+        "END2"
+      ],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n58",
+      "position": {
+        "x": 1032.9828802120321,
+        "y": 4184.474319255745
+      },
+      "caption": "The entire journey back, Max continued calling Lily names.",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n59",
+      "position": {
+        "x": 1032.9828802120321,
+        "y": 4313.854792365388
+      },
+      "caption": "Lily felt so hurt by Max’s behavior.",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n60",
+      "position": {
+        "x": 1032.9828802120321,
+        "y": 4443.23526547503
+      },
+      "caption": "Even when they got back, he continued treating her that way.",
+      "labels": [],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n61",
+      "position": {
+        "x": 1032.9828802120321,
+        "y": 4572.615738584673
+      },
+      "caption": "What could have Lily done differently? ",
+      "labels": [
+        "END3"
+      ],
       "properties": {},
       "style": {}
     }
@@ -830,14 +898,6 @@
       "style": {}
     },
     {
-      "id": "n40",
-      "fromId": "n40",
-      "toId": "n41",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
       "id": "n41",
       "fromId": "n38",
       "toId": "n42",
@@ -953,6 +1013,70 @@
       "id": "n55",
       "fromId": "n53",
       "toId": "n29",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n56",
+      "fromId": "n54",
+      "toId": "n55",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n59",
+      "fromId": "n40",
+      "toId": "n38",
+      "type": "Max should think about what made him start acting differently",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n60",
+      "fromId": "n40",
+      "toId": "n54",
+      "type": "Max should ignore Lily and continue being mean",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n61",
+      "fromId": "n55",
+      "toId": "n57",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n62",
+      "fromId": "n28",
+      "toId": "n58",
+      "type": "Lily should ignore the wise person's advice and do nothing. ",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n63",
+      "fromId": "n58",
+      "toId": "n59",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n64",
+      "fromId": "n59",
+      "toId": "n60",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n65",
+      "fromId": "n60",
+      "toId": "n61",
       "type": "",
       "properties": {},
       "style": {}

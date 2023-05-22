@@ -199,13 +199,16 @@
             "text": "They also reminded Lily that she deserved to have nice friends who treat her well. What should Lily do now?",
             "previous": "4f9547b7-1df9-5e9b-86f4-1b7baaf1ec74",
             "next": [
-                "36f8ac2a-cdbf-5198-80db-562f71655608"
+                "36f8ac2a-cdbf-5198-80db-562f71655608",
+                "b24ae07a-a09a-5781-88d8-aa84eb31d250"
             ],
             "options": [
-                "Lily should try to do what the wise person said to do"
+                "Lily should try to do what the wise person said to do",
+                "Lily should ignore the wise person's advice and do nothing. "
             ],
             "optionIDs": [
-                "c175429b-8a0a-5b1e-9ebc-85176b571ffc"
+                "c175429b-8a0a-5b1e-9ebc-85176b571ffc",
+                "e7c7deba-bc3c-5186-a8b1-7aec145597e7"
             ]
         },
         "36f8ac2a-cdbf-5198-80db-562f71655608": {
@@ -285,7 +288,7 @@
             "ending": "no",
             "decisionPoint": "no",
             "text": "Max listened and then got quiet.",
-            "previous": "cb64abb3-07a4-5006-90dd-9cfd5eb2bdaa",
+            "previous": "dfd9b124-b96d-593a-ad5c-c768487ba74b",
             "next": "b1dcc348-8a6a-504c-92dd-5723122db0e4"
         },
         "9a16d576-e60d-5aaf-9edb-8afe857cf3fe": {
@@ -293,20 +296,25 @@
             "decisionPoint": "no",
             "text": " Lily was sad that Max continued being mean even when she asked him not to.",
             "previous": "b6906f70-316e-5c8a-a7aa-754913bcfbc0",
-            "next": "4a2f313e-0c10-5d5d-b134-e5873c6dd254"
+            "next": "dfd9b124-b96d-593a-ad5c-c768487ba74b"
         },
-        "4a2f313e-0c10-5d5d-b134-e5873c6dd254": {
+        "dfd9b124-b96d-593a-ad5c-c768487ba74b": {
             "ending": "no",
-            "decisionPoint": "no",
-            "text": "Once they got back, Lily said, \u201cIf you can\u2019t play nice, I don\u2019t want to play with you.\u201d ",
+            "decisionPoint": "yes",
+            "text": "Once they got back, Lily said, \u201cIf you can\u2019t play nice, I don\u2019t want to play with you.\u201d What should Max do now?",
             "previous": "9a16d576-e60d-5aaf-9edb-8afe857cf3fe",
-            "next": "a8ab34b6-ce46-512d-ae84-565c8c53eecb"
-        },
-        "a8ab34b6-ce46-512d-ae84-565c8c53eecb": {
-            "ending": "yes",
-            "decisionPoint": "no",
-            "text": "From then on, Lily did not go on adventures with Max anymore. What could Max have done differently? ",
-            "previous": "4a2f313e-0c10-5d5d-b134-e5873c6dd254"
+            "next": [
+                "06c66776-9357-55ca-8f7f-1bff4196ef3f",
+                "ce3ffbe2-79d5-5ead-922b-129c0ff916be"
+            ],
+            "options": [
+                "Max should think about what made him start acting differently",
+                "Max should ignore Lily and continue being mean"
+            ],
+            "optionIDs": [
+                "7398557f-775b-5d66-b068-bf23f27a9761",
+                "7daac809-dd00-5e08-9a92-c7a4d936bb0e"
+            ]
         },
         "b1dcc348-8a6a-504c-92dd-5723122db0e4": {
             "ending": "no",
@@ -391,6 +399,53 @@
             "text": " Then, he said, \u201cI didn\u2019t know I was making you feel bad. I\u2019m sorry. I think I was scared that it got dark.\u201d Then, he promised to not call her mean names anymore. ",
             "previous": "f1471a57-68bd-5c4a-aece-f74c4d9625bf",
             "next": "36f8ac2a-cdbf-5198-80db-562f71655608"
+        },
+        "ce3ffbe2-79d5-5ead-922b-129c0ff916be": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Once they got back from their adventures, Lily decided that she wouldn\u2019t go on adventures with Max anymore.",
+            "previous": "dfd9b124-b96d-593a-ad5c-c768487ba74b",
+            "next": "76dad16b-6d0c-5aae-86c6-4addc780ab4d"
+        },
+        "76dad16b-6d0c-5aae-86c6-4addc780ab4d": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Now Max had no adventure buddy and lost a best friend.",
+            "previous": "ce3ffbe2-79d5-5ead-922b-129c0ff916be",
+            "next": "22054d8d-293b-58d0-976b-5abcbb908967"
+        },
+        "22054d8d-293b-58d0-976b-5abcbb908967": {
+            "ending": "yes",
+            "decisionPoint": "no",
+            "text": "What could Max have done differently? ",
+            "previous": "76dad16b-6d0c-5aae-86c6-4addc780ab4d"
+        },
+        "b24ae07a-a09a-5781-88d8-aa84eb31d250": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "The entire journey back, Max continued calling Lily names.",
+            "previous": "bdc75e47-c31e-58f5-aed9-057d8f545a52",
+            "next": "6b162b87-07ea-5107-bda1-14fcb1117193"
+        },
+        "6b162b87-07ea-5107-bda1-14fcb1117193": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Lily felt so hurt by Max\u2019s behavior.",
+            "previous": "b24ae07a-a09a-5781-88d8-aa84eb31d250",
+            "next": "1023d802-0785-5290-bd5b-60429b321798"
+        },
+        "1023d802-0785-5290-bd5b-60429b321798": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Even when they got back, he continued treating her that way.",
+            "previous": "6b162b87-07ea-5107-bda1-14fcb1117193",
+            "next": "5514ecc1-63fe-5eaf-9154-1af55488b5b4"
+        },
+        "5514ecc1-63fe-5eaf-9154-1af55488b5b4": {
+            "ending": "yes",
+            "decisionPoint": "no",
+            "text": "What could have Lily done differently? ",
+            "previous": "1023d802-0785-5290-bd5b-60429b321798"
         }
     },
     "startNode": "cb80c9bc-b46a-5130-835e-75a3b5d0e9ea"

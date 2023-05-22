@@ -1,0 +1,282 @@
+{
+  "transcript": "Even when they got back, he continued treating her that way.",
+  "words": [
+    {
+      "alignedWord": "even",
+      "case": "success",
+      "end": 0.44999999999999996,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.1,
+      "startOffset": 0,
+      "word": "Even"
+    },
+    {
+      "alignedWord": "when",
+      "case": "success",
+      "end": 0.6,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.45,
+      "startOffset": 5,
+      "word": "when"
+    },
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 0.73,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.6,
+      "startOffset": 10,
+      "word": "they"
+    },
+    {
+      "alignedWord": "got",
+      "case": "success",
+      "end": 0.95,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.73,
+      "startOffset": 15,
+      "word": "got"
+    },
+    {
+      "alignedWord": "back",
+      "case": "success",
+      "end": 1.49,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.96,
+      "startOffset": 19,
+      "word": "back"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.8299999999999998,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.65,
+      "startOffset": 25,
+      "word": "he"
+    },
+    {
+      "alignedWord": "continued",
+      "case": "success",
+      "end": 2.58,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.83,
+      "startOffset": 28,
+      "word": "continued"
+    },
+    {
+      "alignedWord": "treating",
+      "case": "success",
+      "end": 3.15,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.61,
+      "startOffset": 38,
+      "word": "treating"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 3.33,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.16,
+      "startOffset": 47,
+      "word": "her"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 3.56,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.33,
+      "startOffset": 51,
+      "word": "that"
+    },
+    {
+      "alignedWord": "way",
+      "case": "success",
+      "end": 3.81,
+      "endOffset": 59,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 3.56,
+      "startOffset": 56,
+      "word": "way"
+    }
+  ]
+}
