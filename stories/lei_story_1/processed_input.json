@@ -10,6 +10,7 @@
             "ending": "no",
             "decisionPoint": "yes",
             "text": "What should Lily and Max do?",
+            "previous": "cd9930c1-6682-5006-88fa-13274af96837",
             "next": [
                 "4161a28a-98ed-5ce7-a742-1d67120d1a84",
                 "138a1d61-2f6c-58cd-9515-00f558ca7256"
@@ -757,10 +758,11 @@
             "next": "cd9930c1-6682-5006-88fa-13274af96837"
         },
         "cd9930c1-6682-5006-88fa-13274af96837": {
-            "ending": "yes",
+            "ending": "no",
             "decisionPoint": "no",
             "text": "On the right side was a mysterious cave that legend said had a secret treasure inside. ",
-            "previous": "9c38d62d-ba71-5671-bf15-9ac7b5d63456"
+            "previous": "9c38d62d-ba71-5671-bf15-9ac7b5d63456",
+            "next": "26cd8c59-2f23-5be5-b3a5-5c7ad95b06c7"
         },
         "82a3652c-4359-5174-a87b-3baa2791fc17": {
             "ending": "no",
