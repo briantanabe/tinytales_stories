@@ -1,0 +1,371 @@
+{
+  "transcript": "Lily took a deep breath and told Max, \"I don\u2019t like how you are talking to me.\" ",
+  "words": [
+    {
+      "alignedWord": "lily",
+      "case": "success",
+      "end": 0.5,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "Lily"
+    },
+    {
+      "alignedWord": "took",
+      "case": "success",
+      "end": 0.71,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.5,
+      "startOffset": 5,
+      "word": "took"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.78,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.71,
+      "startOffset": 10,
+      "word": "a"
+    },
+    {
+      "alignedWord": "deep",
+      "case": "success",
+      "end": 1.11,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "p_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 12,
+      "word": "deep"
+    },
+    {
+      "alignedWord": "breath",
+      "case": "success",
+      "end": 1.5100000000000002,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.12,
+      "startOffset": 17,
+      "word": "breath"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.66,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.51,
+      "startOffset": 24,
+      "word": "and"
+    },
+    {
+      "alignedWord": "told",
+      "case": "success",
+      "end": 1.95,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.66,
+      "startOffset": 28,
+      "word": "told"
+    },
+    {
+      "alignedWord": "max",
+      "case": "success",
+      "end": 2.4699999999999998,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.95,
+      "startOffset": 33,
+      "word": "Max"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 3.1,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 2.97,
+      "startOffset": 39,
+      "word": "I"
+    },
+    {
+      "alignedWord": "don't",
+      "case": "success",
+      "end": 3.33,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.1,
+      "startOffset": 41,
+      "word": "don\u2019t"
+    },
+    {
+      "alignedWord": "like",
+      "case": "success",
+      "end": 3.67,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_E"
+        }
+      ],
+      "start": 3.34,
+      "startOffset": 47,
+      "word": "like"
+    },
+    {
+      "alignedWord": "how",
+      "case": "success",
+      "end": 3.79,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 3.67,
+      "startOffset": 52,
+      "word": "how"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 4.01,
+      "endOffset": 59,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 3.79,
+      "startOffset": 56,
+      "word": "you"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 4.08,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "er_S"
+        }
+      ],
+      "start": 4.01,
+      "startOffset": 60,
+      "word": "are"
+    },
+    {
+      "alignedWord": "talking",
+      "case": "success",
+      "end": 4.55,
+      "endOffset": 71,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 4.08,
+      "startOffset": 64,
+      "word": "talking"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 4.64,
+      "endOffset": 74,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 4.55,
+      "startOffset": 72,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 77,
+      "startOffset": 75,
+      "word": "me"
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "transcript": "They lived in a magical land and loved going on cool adventures together. ",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 0.30000000000000004,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.1,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "lived",
+      "case": "success",
+      "end": 0.6499999999999999,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.3,
+      "startOffset": 5,
+      "word": "lived"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 0.8700000000000001,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.68,
+      "startOffset": 11,
+      "word": "in"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.9299999999999999,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ey_S"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 14,
+      "word": "a"
+    },
+    {
+      "alignedWord": "magical",
+      "case": "success",
+      "end": 1.6,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.93,
+      "startOffset": 16,
+      "word": "magical"
+    },
+    {
+      "alignedWord": "land",
+      "case": "success",
+      "end": 2.06,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 24,
+      "word": "land"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.31,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.11,
+      "startOffset": 29,
+      "word": "and"
+    },
+    {
+      "alignedWord": "loved",
+      "case": "success",
+      "end": 2.76,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.32,
+      "startOffset": 33,
+      "word": "loved"
+    },
+    {
+      "alignedWord": "going",
+      "case": "success",
+      "end": 3.2,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.77,
+      "startOffset": 39,
+      "word": "going"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 3.4200000000000004,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.2,
+      "startOffset": 45,
+      "word": "on"
+    },
+    {
+      "alignedWord": "cool",
+      "case": "success",
+      "end": 3.88,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.46,
+      "startOffset": 48,
+      "word": "cool"
+    },
+    {
+      "alignedWord": "adventures",
+      "case": "success",
+      "end": 4.5,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.88,
+      "startOffset": 53,
+      "word": "adventures"
+    },
+    {
+      "alignedWord": "together",
+      "case": "success",
+      "end": 4.96,
+      "endOffset": 72,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.5,
+      "startOffset": 64,
+      "word": "together"
+    }
+  ]
+}

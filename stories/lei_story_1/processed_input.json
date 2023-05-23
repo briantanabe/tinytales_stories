@@ -4,48 +4,12 @@
             "ending": "no",
             "decisionPoint": "no",
             "text": "Once upon a time, there were two best friends named Lily and Max. ",
-            "next": "3c19fb69-9fcf-5091-9589-6b2e58ed30df"
+            "next": "dbec4cad-640d-5a9e-8b3b-b76353a8cb25"
         },
-        "3c19fb69-9fcf-5091-9589-6b2e58ed30df": {
-            "ending": "no",
-            "decisionPoint": "no",
-            "text": "They loved going on cool adventures together.",
-            "previous": "cb80c9bc-b46a-5130-835e-75a3b5d0e9ea",
-            "next": "76b3f3ab-a96c-53b0-8acf-0aff5a67c2e8"
-        },
-        "76b3f3ab-a96c-53b0-8acf-0aff5a67c2e8": {
-            "ending": "no",
-            "decisionPoint": "no",
-            "text": "They explored magical forests, sailed on make-believe seas, and found hidden treasures.",
-            "previous": "3c19fb69-9fcf-5091-9589-6b2e58ed30df",
-            "next": "d823a054-7e42-51dd-bde1-2953725b19c4"
-        },
-        "d823a054-7e42-51dd-bde1-2953725b19c4": {
-            "ending": "no",
-            "decisionPoint": "no",
-            "text": "One sunny day, Lily and Max had to choose their next adventure.",
-            "previous": "76b3f3ab-a96c-53b0-8acf-0aff5a67c2e8",
-            "next": "2a649737-1feb-50d3-be33-45769666c6ae"
-        },
-        "2a649737-1feb-50d3-be33-45769666c6ae": {
-            "ending": "no",
-            "decisionPoint": "no",
-            "text": "They stood at a crossroads where they could go left or right. ",
-            "previous": "d823a054-7e42-51dd-bde1-2953725b19c4",
-            "next": "06f0e605-15e1-5ba9-8fc2-141db046f9e7"
-        },
-        "06f0e605-15e1-5ba9-8fc2-141db046f9e7": {
-            "ending": "no",
-            "decisionPoint": "no",
-            "text": "On the left side was a garden full of beautiful flowers and friendly animals. ",
-            "previous": "2a649737-1feb-50d3-be33-45769666c6ae",
-            "next": "e96bd543-cd25-5862-ad3a-4c1618b2e902"
-        },
-        "e96bd543-cd25-5862-ad3a-4c1618b2e902": {
+        "26cd8c59-2f23-5be5-b3a5-5c7ad95b06c7": {
             "ending": "no",
             "decisionPoint": "yes",
-            "text": "On the right side was a mysterious cave that people said had a secret treasure inside. What should Lily and Max do?",
-            "previous": "06f0e605-15e1-5ba9-8fc2-141db046f9e7",
+            "text": "What should Lily and Max do?",
             "next": [
                 "4161a28a-98ed-5ce7-a742-1d67120d1a84",
                 "138a1d61-2f6c-58cd-9515-00f558ca7256"
@@ -63,7 +27,7 @@
             "ending": "no",
             "decisionPoint": "no",
             "text": "Lily and Max bravely entered the dark cave. ",
-            "previous": "e96bd543-cd25-5862-ad3a-4c1618b2e902",
+            "previous": "26cd8c59-2f23-5be5-b3a5-5c7ad95b06c7",
             "next": "13ad0281-be1d-532e-a913-0cb53ed7358a"
         },
         "13ad0281-be1d-532e-a913-0cb53ed7358a": {
@@ -108,11 +72,11 @@
             "previous": "77f07c2e-f67e-57ee-9a20-aa7d752608fd",
             "next": [
                 "d1f6465c-bbd6-5015-b319-812e8feff6e5",
-                "cb64abb3-07a4-5006-90dd-9cfd5eb2bdaa"
+                "e6afcab4-2e86-5809-aed9-fb9627192167"
             ],
             "options": [
                 "Lily should keep going and hope Max changes",
-                "Lily Should talk to Max"
+                "Lily should talk to Max"
             ],
             "optionIDs": [
                 "aeef096c-4a91-5ea9-a351-f796c2d2f5bf",
@@ -138,84 +102,84 @@
             "decisionPoint": "no",
             "text": "But as they continued, Max continued talking to her rudely. ",
             "previous": "0681d376-3ff3-5f3b-a29a-24c946f84b4f",
-            "next": "e3c9ff9d-ef5f-5b9f-8309-b88a80945e10"
+            "next": "a2c301fb-2c53-5767-b785-da604383cf59"
         },
-        "e3c9ff9d-ef5f-5b9f-8309-b88a80945e10": {
+        "a2c301fb-2c53-5767-b785-da604383cf59": {
             "ending": "no",
             "decisionPoint": "no",
-            "text": "Lily felt uncomfortable. ",
+            "text": "Lily wasn't sure what to do. ",
             "previous": "8728f5d8-9521-5daf-af73-b59e54485dec",
-            "next": "da35362d-a094-5009-9847-d49f8e612fde"
+            "next": "1342fd6c-bdcc-5dc4-bbf2-82a6c1cf45bf"
         },
-        "da35362d-a094-5009-9847-d49f8e612fde": {
+        "1342fd6c-bdcc-5dc4-bbf2-82a6c1cf45bf": {
             "ending": "no",
             "decisionPoint": "yes",
-            "text": "She had to do something about it. What should Lily do? ",
-            "previous": "e3c9ff9d-ef5f-5b9f-8309-b88a80945e10",
+            "text": "What do you think Lily should do? ",
+            "previous": "a2c301fb-2c53-5767-b785-da604383cf59",
             "next": [
-                "29f7b400-8279-5fc1-a38c-2687e8f6d9e2",
-                "2236804f-68e3-5d5f-b7f8-817c42a8c9e8"
+                "52e68097-5db9-5e38-8a08-77ac71484975",
+                "2b216bd9-934f-5a39-82be-0b46479c6669"
             ],
             "options": [
-                "Lily should ask for help from a wise person",
-                "Lily should talk to Max about his behavior"
+                "Lily should ask Wise Willow for help",
+                "Lily should just hope Max changes without saying anything "
             ],
             "optionIDs": [
-                "638d0de6-bbad-5afa-b11a-40bc677d1c13",
-                "81660242-f423-520f-b138-2203340a2d7e"
+                "e1037225-5253-5776-bc71-a091192263a0",
+                "54c46e98-6ec6-55b5-89a3-36f57f9338d3"
             ]
         },
-        "29f7b400-8279-5fc1-a38c-2687e8f6d9e2": {
+        "52e68097-5db9-5e38-8a08-77ac71484975": {
             "ending": "no",
             "decisionPoint": "no",
-            "text": "Lily decided to ask a wise person for help.",
-            "previous": "da35362d-a094-5009-9847-d49f8e612fde",
-            "next": "4e5280b9-835d-5a70-8a92-ad4cd5823ffc"
+            "text": "Lily decided to ask Wise Willow for wisdom. ",
+            "previous": "8a09bf68-7f62-5e6a-b23d-62d5d628ef21",
+            "next": "e51bb2e6-fa99-5824-ad9f-43b299edbb80"
         },
-        "4e5280b9-835d-5a70-8a92-ad4cd5823ffc": {
+        "49d176d7-eeb8-553d-8f78-2f8a4404e7dd": {
             "ending": "no",
             "decisionPoint": "no",
-            "text": "She found someone who knew a lot of things and asked them for help. ",
-            "previous": "29f7b400-8279-5fc1-a38c-2687e8f6d9e2",
-            "next": "5c05ffda-b343-5261-9665-4f2f0dfebe9a"
-        },
-        "5c05ffda-b343-5261-9665-4f2f0dfebe9a": {
-            "ending": "no",
-            "decisionPoint": "no",
-            "text": "The wise person listened and gave Lily good ideas. ",
-            "previous": "4e5280b9-835d-5a70-8a92-ad4cd5823ffc",
+            "text": "Wise Willow listened and gave Lily good ideas.",
+            "previous": "0c55d1ec-bccb-53d2-800f-5f924ecc57db",
             "next": "4f9547b7-1df9-5e9b-86f4-1b7baaf1ec74"
         },
         "4f9547b7-1df9-5e9b-86f4-1b7baaf1ec74": {
             "ending": "no",
             "decisionPoint": "no",
-            "text": "They said Lily should talk to Max about his meanness and tell him how it makes her feel. ",
-            "previous": "5c05ffda-b343-5261-9665-4f2f0dfebe9a",
-            "next": "bdc75e47-c31e-58f5-aed9-057d8f545a52"
+            "text": " They said Lily should talk to Max about his meanness and tell him how it makes her feel. ",
+            "previous": "49d176d7-eeb8-553d-8f78-2f8a4404e7dd",
+            "next": "2a429d6c-3d2b-59e6-b5dc-df853855a364"
         },
-        "bdc75e47-c31e-58f5-aed9-057d8f545a52": {
+        "2a429d6c-3d2b-59e6-b5dc-df853855a364": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "They also reminded Lily that she deserved to have nice friends who treat her well. ",
+            "previous": "4f9547b7-1df9-5e9b-86f4-1b7baaf1ec74",
+            "next": "c9e124b6-2255-505f-954c-764913a248d7"
+        },
+        "c9e124b6-2255-505f-954c-764913a248d7": {
             "ending": "no",
             "decisionPoint": "yes",
-            "text": "They also reminded Lily that she deserved to have nice friends who treat her well. What should Lily do now?",
-            "previous": "4f9547b7-1df9-5e9b-86f4-1b7baaf1ec74",
+            "text": "What should Lily do now?",
+            "previous": "2a429d6c-3d2b-59e6-b5dc-df853855a364",
             "next": [
                 "36f8ac2a-cdbf-5198-80db-562f71655608",
-                "b24ae07a-a09a-5781-88d8-aa84eb31d250"
+                "2b216bd9-934f-5a39-82be-0b46479c6669"
             ],
             "options": [
-                "Lily should try to do what the wise person said to do",
-                "Lily should ignore the wise person's advice and do nothing. "
+                "Lily should try to do what the Wise Willow said to do",
+                "Lily should ignore Wise Willow\u2019s advice and do nothing"
             ],
             "optionIDs": [
-                "c175429b-8a0a-5b1e-9ebc-85176b571ffc",
-                "e7c7deba-bc3c-5186-a8b1-7aec145597e7"
+                "5b2f9f8b-940d-5cba-8f8c-0fb66e54cf8b",
+                "143c9959-8ddd-549f-baa5-c37fe017e18f"
             ]
         },
         "36f8ac2a-cdbf-5198-80db-562f71655608": {
             "ending": "no",
             "decisionPoint": "no",
             "text": "Lily was happy that she stood up for herself and had a good talk with Max. ",
-            "previous": "eb500131-0518-5e1b-95db-f5b8aaab5c0e",
+            "previous": "61d0408d-5749-5404-b641-ad2bbab2ca44",
             "next": "efbf8117-9305-567b-99fe-ed8d8c454efe"
         },
         "efbf8117-9305-567b-99fe-ed8d8c454efe": {
@@ -244,26 +208,20 @@
             "decisionPoint": "no",
             "text": "Lily and Max looked at each other and laughed. ",
             "previous": "e7cf3d8d-cc30-5f9e-8a32-e9e5a47e3548",
-            "next": "3446d81b-8e0a-59a9-b76c-6f92fde1f23c"
+            "next": "caf414f7-d3d6-50b4-8c08-0c4885d0c32b"
         },
-        "3446d81b-8e0a-59a9-b76c-6f92fde1f23c": {
+        "caf414f7-d3d6-50b4-8c08-0c4885d0c32b": {
             "ending": "no",
             "decisionPoint": "no",
-            "text": "As Lily and Max went on more adventures, they learned that good friends should always be kind to each other. They helped one another, had fun, and told each other when they felt sad or uncomfortable. Their friendship grew stronger, and they had the best time ever.",
+            "text": "As Lily and Max went on more adventures, they learned that good friends should always be kind to each other. ",
             "previous": "d99af213-3c8f-52af-9f55-08113a0ba078",
-            "next": "a8f442a1-cb06-5dfe-9a81-f4f193026286"
+            "next": "aca05d6a-1831-5bd2-abb4-97c5f60b4d1f"
         },
-        "a8f442a1-cb06-5dfe-9a81-f4f193026286": {
-            "ending": "yes",
-            "decisionPoint": "no",
-            "text": "Remember, it's important to talk about your feelings with friends and always be kind. If someone is mean to you, tell them it is not okay. Real friends should make you feel happy and loved. With these lessons, you can go on fantastic adventures and have amazing friendships! ",
-            "previous": "3446d81b-8e0a-59a9-b76c-6f92fde1f23c"
-        },
-        "cb64abb3-07a4-5006-90dd-9cfd5eb2bdaa": {
+        "87837488-5a4c-5e04-a2a1-9edd6cbb7e02": {
             "ending": "no",
             "decisionPoint": "yes",
-            "text": "Lily took a deep breath and told Max, \"I don\u2019t like how you are talking to me. It hurts my feelings and makes me feel sad. Can we be nice friends again?\" What should Max do now?",
-            "previous": "65c833bd-e688-5acf-9fcb-ab2d816fcdc3",
+            "text": "What should Max do now?",
+            "previous": "766a595c-5eb2-5539-8f1c-225deeb14920",
             "next": [
                 "b6906f70-316e-5c8a-a7aa-754913bcfbc0",
                 "06c66776-9357-55ca-8f7f-1bff4196ef3f"
@@ -281,7 +239,7 @@
             "ending": "no",
             "decisionPoint": "no",
             "text": "Max continued to call Lily mean names as they journeyed home. ",
-            "previous": "cb64abb3-07a4-5006-90dd-9cfd5eb2bdaa",
+            "previous": "87837488-5a4c-5e04-a2a1-9edd6cbb7e02",
             "next": "9a16d576-e60d-5aaf-9edb-8afe857cf3fe"
         },
         "06c66776-9357-55ca-8f7f-1bff4196ef3f": {
@@ -289,7 +247,7 @@
             "decisionPoint": "no",
             "text": "Max listened and then got quiet.",
             "previous": "dfd9b124-b96d-593a-ad5c-c768487ba74b",
-            "next": "b1dcc348-8a6a-504c-92dd-5723122db0e4"
+            "next": "ecd90509-85a0-5c71-b541-35c252309fad"
         },
         "9a16d576-e60d-5aaf-9edb-8afe857cf3fe": {
             "ending": "no",
@@ -305,7 +263,7 @@
             "previous": "9a16d576-e60d-5aaf-9edb-8afe857cf3fe",
             "next": [
                 "06c66776-9357-55ca-8f7f-1bff4196ef3f",
-                "ce3ffbe2-79d5-5ead-922b-129c0ff916be"
+                "b8e80988-8ccb-51f2-a268-eb1bed71cc9d"
             ],
             "options": [
                 "Max should think about what made him start acting differently",
@@ -316,25 +274,11 @@
                 "7daac809-dd00-5e08-9a92-c7a4d936bb0e"
             ]
         },
-        "b1dcc348-8a6a-504c-92dd-5723122db0e4": {
-            "ending": "no",
-            "decisionPoint": "no",
-            "text": " He thought about why he was acting differently. He realized that he was scared that it was getting so dark. ",
-            "previous": "06c66776-9357-55ca-8f7f-1bff4196ef3f",
-            "next": "59d88365-ed48-5598-856c-478e52afa0e1"
-        },
-        "59d88365-ed48-5598-856c-478e52afa0e1": {
-            "ending": "no",
-            "decisionPoint": "no",
-            "text": "He told Lily, \u201cI\u2019m sorry I made you feel sad. I think I\u2019m scared that it\u2019s dark out now.\u201d ",
-            "previous": "b1dcc348-8a6a-504c-92dd-5723122db0e4",
-            "next": "36f8ac2a-cdbf-5198-80db-562f71655608"
-        },
         "138a1d61-2f6c-58cd-9515-00f558ca7256": {
             "ending": "no",
             "decisionPoint": "no",
             "text": "Lily and Max happily skipped to the pretty garden. ",
-            "previous": "e96bd543-cd25-5862-ad3a-4c1618b2e902",
+            "previous": "26cd8c59-2f23-5be5-b3a5-5c7ad95b06c7",
             "next": "8cb9db80-f180-59f8-84d4-281f663a72f0"
         },
         "8cb9db80-f180-59f8-84d4-281f663a72f0": {
@@ -356,13 +300,13 @@
             "decisionPoint": "no",
             "text": "They were having so much fun and felt super happy. ",
             "previous": "4f622283-b5bb-5e9f-9748-fde661bcbebb",
-            "next": "cb64abb3-07a4-5006-90dd-9cfd5eb2bdaa"
+            "next": "4f914a74-16bc-5bfe-9c35-fab76661f7b6"
         },
         "2236804f-68e3-5d5f-b7f8-817c42a8c9e8": {
             "ending": "no",
             "decisionPoint": "no",
             "text": "Lily gathered her courage and talked to Max about his behavior. ",
-            "previous": "da35362d-a094-5009-9847-d49f8e612fde",
+            "previous": "8a09bf68-7f62-5e6a-b23d-62d5d628ef21",
             "next": "95ef00c1-fcb8-5da8-9823-66f70d131c0f"
         },
         "95ef00c1-fcb8-5da8-9823-66f70d131c0f": {
@@ -404,7 +348,7 @@
             "ending": "no",
             "decisionPoint": "no",
             "text": "Once they got back from their adventures, Lily decided that she wouldn\u2019t go on adventures with Max anymore.",
-            "previous": "dfd9b124-b96d-593a-ad5c-c768487ba74b",
+            "previous": "b8e80988-8ccb-51f2-a268-eb1bed71cc9d",
             "next": "76dad16b-6d0c-5aae-86c6-4addc780ab4d"
         },
         "76dad16b-6d0c-5aae-86c6-4addc780ab4d": {
@@ -415,23 +359,24 @@
             "next": "22054d8d-293b-58d0-976b-5abcbb908967"
         },
         "22054d8d-293b-58d0-976b-5abcbb908967": {
-            "ending": "yes",
-            "decisionPoint": "no",
-            "text": "What could Max have done differently? ",
-            "previous": "76dad16b-6d0c-5aae-86c6-4addc780ab4d"
-        },
-        "b24ae07a-a09a-5781-88d8-aa84eb31d250": {
             "ending": "no",
             "decisionPoint": "no",
-            "text": "The entire journey back, Max continued calling Lily names.",
-            "previous": "bdc75e47-c31e-58f5-aed9-057d8f545a52",
+            "text": "What could Max have done differently? ",
+            "previous": "76dad16b-6d0c-5aae-86c6-4addc780ab4d",
+            "next": "4c854cb2-e963-55fb-80b2-6a08bdcc4150"
+        },
+        "469cf6a3-f116-5a1d-9910-4f3e67cc1e32": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Max continued calling Lily names.",
+            "previous": "2b216bd9-934f-5a39-82be-0b46479c6669",
             "next": "6b162b87-07ea-5107-bda1-14fcb1117193"
         },
         "6b162b87-07ea-5107-bda1-14fcb1117193": {
             "ending": "no",
             "decisionPoint": "no",
             "text": "Lily felt so hurt by Max\u2019s behavior.",
-            "previous": "b24ae07a-a09a-5781-88d8-aa84eb31d250",
+            "previous": "469cf6a3-f116-5a1d-9910-4f3e67cc1e32",
             "next": "1023d802-0785-5290-bd5b-60429b321798"
         },
         "1023d802-0785-5290-bd5b-60429b321798": {
@@ -442,10 +387,408 @@
             "next": "5514ecc1-63fe-5eaf-9154-1af55488b5b4"
         },
         "5514ecc1-63fe-5eaf-9154-1af55488b5b4": {
-            "ending": "yes",
+            "ending": "no",
             "decisionPoint": "no",
             "text": "What could have Lily done differently? ",
-            "previous": "1023d802-0785-5290-bd5b-60429b321798"
+            "previous": "1023d802-0785-5290-bd5b-60429b321798",
+            "next": "5488d5e6-c605-5bcc-a97b-550cddfd8021"
+        },
+        "4f914a74-16bc-5bfe-9c35-fab76661f7b6": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "As Lily and Max explored the pretty garden, they collected flowers, solved mazes, and talked to the friendly critters. ",
+            "previous": "65c833bd-e688-5acf-9fcb-ab2d816fcdc3",
+            "next": "a22de27d-66a0-50b6-8722-4ac3463e123a"
+        },
+        "a22de27d-66a0-50b6-8722-4ac3463e123a": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Then, it started getting dark as night came and Max started acting differently. ",
+            "previous": "4f914a74-16bc-5bfe-9c35-fab76661f7b6",
+            "next": "82a3652c-4359-5174-a87b-3baa2791fc17"
+        },
+        "8a09bf68-7f62-5e6a-b23d-62d5d628ef21": {
+            "ending": "no",
+            "decisionPoint": "yes",
+            "text": "What should Lily do? ",
+            "previous": "faf25a15-fc5c-5fc7-9b7c-207d3d63261b",
+            "next": [
+                "2236804f-68e3-5d5f-b7f8-817c42a8c9e8",
+                "52e68097-5db9-5e38-8a08-77ac71484975"
+            ],
+            "options": [
+                "Lily should talk to Max about his behavior",
+                "Lily should ask Wise Willow for help"
+            ],
+            "optionIDs": [
+                "81660242-f423-520f-b138-2203340a2d7e",
+                "e1037225-5253-5776-bc71-a091192263a0"
+            ]
+        },
+        "2b216bd9-934f-5a39-82be-0b46479c6669": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "The whole journey, Lily didn't say anything to Max even though he was being mean. ",
+            "previous": "1342fd6c-bdcc-5dc4-bbf2-82a6c1cf45bf",
+            "next": "469cf6a3-f116-5a1d-9910-4f3e67cc1e32"
+        },
+        "5488d5e6-c605-5bcc-a97b-550cddfd8021": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Sometimes people hurt us even when they don\u2019t mean to. ",
+            "previous": "5514ecc1-63fe-5eaf-9154-1af55488b5b4",
+            "next": "8534ad93-696d-5f03-88b6-2d0ad4e6d8eb"
+        },
+        "8534ad93-696d-5f03-88b6-2d0ad4e6d8eb": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Talking to someone about how you feel might be scary and hard. ",
+            "previous": "5488d5e6-c605-5bcc-a97b-550cddfd8021",
+            "next": "5981e589-a2d1-5410-a2f7-a648008a905a"
+        },
+        "5981e589-a2d1-5410-a2f7-a648008a905a": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "But they might not know that you are hurt unless you say something. ",
+            "previous": "8534ad93-696d-5f03-88b6-2d0ad4e6d8eb",
+            "next": "24a7b82e-5415-55d7-b49e-b01944cd8444"
+        },
+        "24a7b82e-5415-55d7-b49e-b01944cd8444": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "If Lily told Max how he was making her feel, he might have changed his behavior and been nicer. ",
+            "previous": "5981e589-a2d1-5410-a2f7-a648008a905a",
+            "next": "4bb6ddd7-866c-5008-aa89-e4e0ccea9638"
+        },
+        "4bb6ddd7-866c-5008-aa89-e4e0ccea9638": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Remember, if someone is mean to you, it\u2019s important to tell them how you feel and that it is not okay. ",
+            "previous": "24a7b82e-5415-55d7-b49e-b01944cd8444",
+            "next": "4b398aa2-a13d-552c-82d6-b4d195e20c45"
+        },
+        "4b398aa2-a13d-552c-82d6-b4d195e20c45": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "If someone still doesn't listen and you don\u2019t feel safe talking to them, make sure to find someone like Wise Willow who you can trust. ",
+            "previous": "4bb6ddd7-866c-5008-aa89-e4e0ccea9638",
+            "next": "3107357d-2fcb-5f35-bed8-c38d82c647a1"
+        },
+        "3107357d-2fcb-5f35-bed8-c38d82c647a1": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Real friends should make you feel happy and loved. ",
+            "previous": "78b773fb-c636-5fb8-a635-854d71ce6be2",
+            "next": "4794d1f2-6934-5b48-9e46-361b4b985cab"
+        },
+        "aca05d6a-1831-5bd2-abb4-97c5f60b4d1f": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "They helped one another, had fun, and told each other when they felt sad, hurt, or uncomfortable. ",
+            "previous": "caf414f7-d3d6-50b4-8c08-0c4885d0c32b",
+            "next": "98a26f67-ce2f-5b59-84f1-c029a9d7672e"
+        },
+        "98a26f67-ce2f-5b59-84f1-c029a9d7672e": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Their friendship grew stronger, and they had the best time ever.",
+            "previous": "aca05d6a-1831-5bd2-abb4-97c5f60b4d1f",
+            "next": "a3ab4e70-5cd8-5113-a921-d9d2398af507"
+        },
+        "a3ab4e70-5cd8-5113-a921-d9d2398af507": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Remember, it's important to talk about your feelings with friends and always be kind. ",
+            "previous": "98a26f67-ce2f-5b59-84f1-c029a9d7672e",
+            "next": "78b773fb-c636-5fb8-a635-854d71ce6be2"
+        },
+        "78b773fb-c636-5fb8-a635-854d71ce6be2": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "If someone is mean to you, tell them it is not okay. ",
+            "previous": "a3ab4e70-5cd8-5113-a921-d9d2398af507",
+            "next": "3107357d-2fcb-5f35-bed8-c38d82c647a1"
+        },
+        "4794d1f2-6934-5b48-9e46-361b4b985cab": {
+            "ending": "yes",
+            "decisionPoint": "no",
+            "text": "With these lessons, you can go on fantastic adventures and have amazing friendships!",
+            "previous": "3107357d-2fcb-5f35-bed8-c38d82c647a1"
+        },
+        "4c854cb2-e963-55fb-80b2-6a08bdcc4150": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Because Max ignored Lily's feelings and continued being mean, Lily decided she didn't want to be friends with him anymore. ",
+            "previous": "22054d8d-293b-58d0-976b-5abcbb908967",
+            "next": "a930efec-eb09-5926-bb32-70aa0b6e35fd"
+        },
+        "a930efec-eb09-5926-bb32-70aa0b6e35fd": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "But Max could have made a different choice. ",
+            "previous": "4c854cb2-e963-55fb-80b2-6a08bdcc4150",
+            "next": "e5c5678d-e566-554f-bae8-a5c9481f4de1"
+        },
+        "e5c5678d-e566-554f-bae8-a5c9481f4de1": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "He could have been kind to Lily and listened to how his words were hurting her. ",
+            "previous": "a930efec-eb09-5926-bb32-70aa0b6e35fd",
+            "next": "2c88ea35-a45b-5445-bf02-ba5bfddd7f42"
+        },
+        "2c88ea35-a45b-5445-bf02-ba5bfddd7f42": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Sometimes, we don't know why we act a certain way, and that's okay. ",
+            "previous": "e5c5678d-e566-554f-bae8-a5c9481f4de1",
+            "next": "6fc9a3e7-24a1-5bc5-af52-4e8446a4011c"
+        },
+        "6fc9a3e7-24a1-5bc5-af52-4e8446a4011c": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "It's important to try to understand our feelings and ask for help when we need it. ",
+            "previous": "2c88ea35-a45b-5445-bf02-ba5bfddd7f42",
+            "next": "903df2a4-107d-5368-b31c-e1948c21e9cc"
+        },
+        "903df2a4-107d-5368-b31c-e1948c21e9cc": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "And when we make mistakes and hurt others, it's important to apologize and try to make things right. ",
+            "previous": "6fc9a3e7-24a1-5bc5-af52-4e8446a4011c",
+            "next": "bdcc0929-2a1f-55f8-a120-e44ad6db9cad"
+        },
+        "bdcc0929-2a1f-55f8-a120-e44ad6db9cad": {
+            "ending": "yes",
+            "decisionPoint": "no",
+            "text": "Remember, real friends are kind and treat each other with respect and care!",
+            "previous": "903df2a4-107d-5368-b31c-e1948c21e9cc"
+        },
+        "ecd90509-85a0-5c71-b541-35c252309fad": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "He was trying to think about why he was acting differently, but was not sure why. ",
+            "previous": "06c66776-9357-55ca-8f7f-1bff4196ef3f",
+            "next": "35255e7b-04e4-5bcf-b32a-dce2d0e12ea0"
+        },
+        "35255e7b-04e4-5bcf-b32a-dce2d0e12ea0": {
+            "ending": "no",
+            "decisionPoint": "yes",
+            "text": "What should Max do?",
+            "previous": "ecd90509-85a0-5c71-b541-35c252309fad",
+            "next": [
+                "b8e80988-8ccb-51f2-a268-eb1bed71cc9d",
+                "6283fe41-69d8-5c55-a6c9-10cafb529afc"
+            ],
+            "options": [
+                "Max should give up and continue being mean to Lily",
+                "Max should ask Wise Willow for help"
+            ],
+            "optionIDs": [
+                "3d702e2a-cfe9-58b9-b87a-9cd5c405ad7f",
+                "349e62e0-e667-57a9-b98d-80fc7776b062"
+            ]
+        },
+        "b8e80988-8ccb-51f2-a268-eb1bed71cc9d": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Max continued being mean all the way home.",
+            "previous": "35255e7b-04e4-5bcf-b32a-dce2d0e12ea0",
+            "next": "ce3ffbe2-79d5-5ead-922b-129c0ff916be"
+        },
+        "6283fe41-69d8-5c55-a6c9-10cafb529afc": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Max decided to ask Wise Willow for wisdom. ",
+            "previous": "35255e7b-04e4-5bcf-b32a-dce2d0e12ea0",
+            "next": "db958519-d085-55f6-ad44-3c8987bf1525"
+        },
+        "db958519-d085-55f6-ad44-3c8987bf1525": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "He whispered, \"Summon Wise Willow, oh so wise!\" ",
+            "previous": "6283fe41-69d8-5c55-a6c9-10cafb529afc",
+            "next": "c1872f59-c13a-5b37-871b-11dcb5b46515"
+        },
+        "c1872f59-c13a-5b37-871b-11dcb5b46515": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": " And just like magic, Wise Willow appeared. ",
+            "previous": "e51bb2e6-fa99-5824-ad9f-43b299edbb80",
+            "next": "0c55d1ec-bccb-53d2-800f-5f924ecc57db"
+        },
+        "b9d77e80-cf73-5b23-b052-9c9ff5b77cbe": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Max told Wise Willow that Lily said he was being mean to her and something did feel different inside him. ",
+            "previous": "c1872f59-c13a-5b37-871b-11dcb5b46515",
+            "next": "ebda4258-269a-5dff-919b-fb62e30b6c17"
+        },
+        "ebda4258-269a-5dff-919b-fb62e30b6c17": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Wise Willow shared a secret with Max. ",
+            "previous": "b9d77e80-cf73-5b23-b052-9c9ff5b77cbe",
+            "next": "670a4350-7df1-5f39-9e3f-9118236efa45"
+        },
+        "670a4350-7df1-5f39-9e3f-9118236efa45": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Wise Willow said, \u201cWhen we're not sure why we act a certain way, we can look inside ourselves.\" ",
+            "previous": "ebda4258-269a-5dff-919b-fb62e30b6c17",
+            "next": "a0fad399-e321-566d-ab0e-91584d8b5995"
+        },
+        "e6afcab4-2e86-5809-aed9-fb9627192167": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Lily took a deep breath and told Max, \"I don\u2019t like how you are talking to me.\" ",
+            "previous": "ab886b5b-e2b6-5dba-8520-054e323a1d4f",
+            "next": "766a595c-5eb2-5539-8f1c-225deeb14920"
+        },
+        "766a595c-5eb2-5539-8f1c-225deeb14920": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Lily continued, \"It hurts my feelings and makes me feel sad. Can we be nice friends again?\" ",
+            "previous": "e6afcab4-2e86-5809-aed9-fb9627192167",
+            "next": "87837488-5a4c-5e04-a2a1-9edd6cbb7e02"
+        },
+        "a0fad399-e321-566d-ab0e-91584d8b5995": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "\"Follow my lead. Close your eyes. Notice how you feel inside.\" ",
+            "previous": "670a4350-7df1-5f39-9e3f-9118236efa45",
+            "next": "48985e80-2734-50c4-9319-ca020397fbd3"
+        },
+        "48985e80-2734-50c4-9319-ca020397fbd3": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "\"Take three slow deep breaths. Breathe in\u2026Breathe out\u2026Breathe in\u2026Breathe out\u2026Breathe in\u2026Breathe out\u2026\u201d ",
+            "previous": "a0fad399-e321-566d-ab0e-91584d8b5995",
+            "next": "badcaa8f-93c5-5336-9aed-8a5105320514"
+        },
+        "badcaa8f-93c5-5336-9aed-8a5105320514": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Listening to Wise Willow, Max discovered tension in his body. ",
+            "previous": "48985e80-2734-50c4-9319-ca020397fbd3",
+            "next": "b91e5977-2b3d-5659-92f1-8d7d3726f75a"
+        },
+        "b91e5977-2b3d-5659-92f1-8d7d3726f75a": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "He realized he felt scared because it was getting dark outside.. ",
+            "previous": "badcaa8f-93c5-5336-9aed-8a5105320514",
+            "next": "caeed832-191d-59e1-8c62-f296f9f97c71"
+        },
+        "caeed832-191d-59e1-8c62-f296f9f97c71": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Suddenly, Wise Willow disappeared, and Max turned to Lily. ",
+            "previous": "b91e5977-2b3d-5659-92f1-8d7d3726f75a",
+            "next": "61d0408d-5749-5404-b641-ad2bbab2ca44"
+        },
+        "61d0408d-5749-5404-b641-ad2bbab2ca44": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "He apologized, saying, \"I'm sorry for making you sad. I think I'm scared of the dark.\"",
+            "previous": "caeed832-191d-59e1-8c62-f296f9f97c71",
+            "next": "36f8ac2a-cdbf-5198-80db-562f71655608"
+        },
+        "dbec4cad-640d-5a9e-8b3b-b76353a8cb25": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "They lived in a magical land and loved going on cool adventures together. ",
+            "previous": "cb80c9bc-b46a-5130-835e-75a3b5d0e9ea",
+            "next": "d53cddc4-bbf4-5b01-be36-d4b71be09493"
+        },
+        "d53cddc4-bbf4-5b01-be36-d4b71be09493": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "They explored enchanting forests, sailed on sparkling seas, and even found hidden treasures. ",
+            "previous": "dbec4cad-640d-5a9e-8b3b-b76353a8cb25",
+            "next": "53f25160-8b8e-5bd4-8ea5-723012cb5c7d"
+        },
+        "53f25160-8b8e-5bd4-8ea5-723012cb5c7d": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Max and Lily had a friend named Wise Willow who they could always count on to offer good advice no matter where they were. ",
+            "previous": "d53cddc4-bbf4-5b01-be36-d4b71be09493",
+            "next": "e916cfa3-106b-5fdf-8e3f-4f76a5245ff3"
+        },
+        "e916cfa3-106b-5fdf-8e3f-4f76a5245ff3": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "As long as they chanted, \u201cWhispering winds and twinkling skies, summon Wise Willow, oh so wise!\",  Wise Willow would appear to help. ",
+            "previous": "53f25160-8b8e-5bd4-8ea5-723012cb5c7d",
+            "next": "1437ea4b-2e62-5f21-b189-6ab26a893b1a"
+        },
+        "1437ea4b-2e62-5f21-b189-6ab26a893b1a": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "One sunny day, Lily and Max couldn\u2019t decide on their next adventure. ",
+            "previous": "e916cfa3-106b-5fdf-8e3f-4f76a5245ff3",
+            "next": "3d9f27a1-6c86-536d-a94a-ac89bcd346a6"
+        },
+        "3d9f27a1-6c86-536d-a94a-ac89bcd346a6": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "They both looked at each other and chanted, \u201cWhispering winds and twinkling skies, summon Wise Willow, oh so wise!\" ",
+            "previous": "1437ea4b-2e62-5f21-b189-6ab26a893b1a",
+            "next": "1bbb3301-9647-5e62-bc2c-b7195ec11e11"
+        },
+        "1bbb3301-9647-5e62-bc2c-b7195ec11e11": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "With a rustle of leaves and a shimmer of light, Wise Willow appeared, casting a magical glow in the air. ",
+            "previous": "3d9f27a1-6c86-536d-a94a-ac89bcd346a6",
+            "next": "a338a5d3-478f-5948-8a94-acd4d1099e8a"
+        },
+        "a338a5d3-478f-5948-8a94-acd4d1099e8a": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "With their enchanted branches, Wise Willow showed Lily and Max two paths. ",
+            "previous": "1bbb3301-9647-5e62-bc2c-b7195ec11e11",
+            "next": "9c38d62d-ba71-5671-bf15-9ac7b5d63456"
+        },
+        "9c38d62d-ba71-5671-bf15-9ac7b5d63456": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "On the left side was a lovely garden full of beautiful flowers and friendly animals. ",
+            "previous": "a338a5d3-478f-5948-8a94-acd4d1099e8a",
+            "next": "cd9930c1-6682-5006-88fa-13274af96837"
+        },
+        "cd9930c1-6682-5006-88fa-13274af96837": {
+            "ending": "yes",
+            "decisionPoint": "no",
+            "text": "On the right side was a mysterious cave that legend said had a secret treasure inside. ",
+            "previous": "9c38d62d-ba71-5671-bf15-9ac7b5d63456"
+        },
+        "82a3652c-4359-5174-a87b-3baa2791fc17": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "He started becoming grumpy and calling Lily mean names.",
+            "previous": "a22de27d-66a0-50b6-8722-4ac3463e123a",
+            "next": "faf25a15-fc5c-5fc7-9b7c-207d3d63261b"
+        },
+        "faf25a15-fc5c-5fc7-9b7c-207d3d63261b": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Lily felt hurt by Max. ",
+            "previous": "82a3652c-4359-5174-a87b-3baa2791fc17",
+            "next": "8a09bf68-7f62-5e6a-b23d-62d5d628ef21"
+        },
+        "e51bb2e6-fa99-5824-ad9f-43b299edbb80": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "She whispered, \"Summon Wise Willow, oh so wise!\"",
+            "previous": "52e68097-5db9-5e38-8a08-77ac71484975",
+            "next": "c1872f59-c13a-5b37-871b-11dcb5b46515"
+        },
+        "0c55d1ec-bccb-53d2-800f-5f924ecc57db": {
+            "ending": "no",
+            "decisionPoint": "no",
+            "text": "Lily told Wise Willow that Max was being mean to her and she wasn\u2019t sure what to do.",
+            "previous": "c1872f59-c13a-5b37-871b-11dcb5b46515",
+            "next": "49d176d7-eeb8-553d-8f78-2f8a4404e7dd"
         }
     },
     "startNode": "cb80c9bc-b46a-5130-835e-75a3b5d0e9ea"

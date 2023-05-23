@@ -1,0 +1,238 @@
+{
+  "transcript": "Max should give up and continue being mean to Lily",
+  "words": [
+    {
+      "alignedWord": "max",
+      "case": "success",
+      "end": 0.75,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.08,
+      "startOffset": 0,
+      "word": "Max"
+    },
+    {
+      "alignedWord": "should",
+      "case": "success",
+      "end": 1.17,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.85,
+      "startOffset": 4,
+      "word": "should"
+    },
+    {
+      "alignedWord": "give",
+      "case": "success",
+      "end": 1.48,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 11,
+      "word": "give"
+    },
+    {
+      "alignedWord": "up",
+      "case": "success",
+      "end": 1.85,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "p_E"
+        }
+      ],
+      "start": 1.48,
+      "startOffset": 16,
+      "word": "up"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.33,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.11,
+      "startOffset": 19,
+      "word": "and"
+    },
+    {
+      "alignedWord": "continue",
+      "case": "success",
+      "end": 2.98,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.33,
+      "startOffset": 23,
+      "word": "continue"
+    },
+    {
+      "alignedWord": "being",
+      "case": "success",
+      "end": 3.41,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.98,
+      "startOffset": 32,
+      "word": "being"
+    },
+    {
+      "alignedWord": "mean",
+      "case": "success",
+      "end": 3.88,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.41,
+      "startOffset": 38,
+      "word": "mean"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 4.11,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.88,
+      "startOffset": 43,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 50,
+      "startOffset": 46,
+      "word": "Lily"
+    }
+  ]
+}

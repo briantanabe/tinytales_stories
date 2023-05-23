@@ -1,0 +1,344 @@
+{
+  "transcript": "Remember, real friends are kind and treat each other with respect and care!",
+  "words": [
+    {
+      "alignedWord": "remember",
+      "case": "success",
+      "end": 0.6000000000000001,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.06,
+      "startOffset": 0,
+      "word": "Remember"
+    },
+    {
+      "alignedWord": "real",
+      "case": "success",
+      "end": 1.18,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.74,
+      "startOffset": 10,
+      "word": "real"
+    },
+    {
+      "alignedWord": "friends",
+      "case": "success",
+      "end": 1.67,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 15,
+      "word": "friends"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 1.91,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.69,
+      "startOffset": 23,
+      "word": "are"
+    },
+    {
+      "alignedWord": "kind",
+      "case": "success",
+      "end": 2.56,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.28,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.91,
+      "startOffset": 27,
+      "word": "kind"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.97,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.79,
+      "startOffset": 32,
+      "word": "and"
+    },
+    {
+      "alignedWord": "treat",
+      "case": "success",
+      "end": 3.41,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.0,
+      "startOffset": 36,
+      "word": "treat"
+    },
+    {
+      "alignedWord": "each",
+      "case": "success",
+      "end": 3.7300000000000004,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 3.45,
+      "startOffset": 42,
+      "word": "each"
+    },
+    {
+      "alignedWord": "other",
+      "case": "success",
+      "end": 3.98,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.73,
+      "startOffset": 47,
+      "word": "other"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 4.19,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "th_E"
+        }
+      ],
+      "start": 3.98,
+      "startOffset": 53,
+      "word": "with"
+    },
+    {
+      "alignedWord": "respect",
+      "case": "success",
+      "end": 4.99,
+      "endOffset": 65,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.24,
+      "startOffset": 58,
+      "word": "respect"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 5.49,
+      "endOffset": 69,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_E"
+        }
+      ],
+      "start": 5.23,
+      "startOffset": 66,
+      "word": "and"
+    },
+    {
+      "alignedWord": "care",
+      "case": "success",
+      "end": 5.930000000000001,
+      "endOffset": 74,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_E"
+        }
+      ],
+      "start": 5.49,
+      "startOffset": 70,
+      "word": "care"
+    }
+  ]
+}

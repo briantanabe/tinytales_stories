@@ -1,0 +1,142 @@
+{
+  "transcript": "Lily wasn't sure what to do. ",
+  "words": [
+    {
+      "alignedWord": "lily",
+      "case": "success",
+      "end": 0.52,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.18,
+      "startOffset": 0,
+      "word": "Lily"
+    },
+    {
+      "alignedWord": "wasn't",
+      "case": "success",
+      "end": 0.87,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.52,
+      "startOffset": 5,
+      "word": "wasn't"
+    },
+    {
+      "alignedWord": "sure",
+      "case": "success",
+      "end": 1.49,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.26,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 12,
+      "word": "sure"
+    },
+    {
+      "alignedWord": "what",
+      "case": "success",
+      "end": 1.93,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.67,
+      "startOffset": 17,
+      "word": "what"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.37,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.39,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.93,
+      "startOffset": 22,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 27,
+      "startOffset": 25,
+      "word": "do"
+    }
+  ]
+}

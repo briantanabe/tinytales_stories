@@ -1,0 +1,190 @@
+{
+  "transcript": " And just like magic, Wise Willow appeared. ",
+  "words": [
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 0.31,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.13,
+      "startOffset": 1,
+      "word": "And"
+    },
+    {
+      "alignedWord": "just",
+      "case": "success",
+      "end": 0.72,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.32,
+      "startOffset": 5,
+      "word": "just"
+    },
+    {
+      "alignedWord": "like",
+      "case": "success",
+      "end": 0.9299999999999999,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.72,
+      "startOffset": 10,
+      "word": "like"
+    },
+    {
+      "alignedWord": "magic",
+      "case": "success",
+      "end": 1.51,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.95,
+      "startOffset": 15,
+      "word": "magic"
+    },
+    {
+      "alignedWord": "wise",
+      "case": "success",
+      "end": 2.22,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.76,
+      "startOffset": 22,
+      "word": "Wise"
+    },
+    {
+      "alignedWord": "willow",
+      "case": "success",
+      "end": 2.6,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 2.25,
+      "startOffset": 27,
+      "word": "Willow"
+    },
+    {
+      "alignedWord": "appeared",
+      "case": "success",
+      "end": 2.95,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.6,
+      "startOffset": 34,
+      "word": "appeared"
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "transcript": "They both looked at each other and chanted, \u201cWhispering winds and twinkling skies, summon Wise Willow, oh so wise!\" ",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 0.21,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.06,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "both",
+      "case": "success",
+      "end": 0.48,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "th_E"
+        }
+      ],
+      "start": 0.21,
+      "startOffset": 5,
+      "word": "both"
+    },
+    {
+      "alignedWord": "looked",
+      "case": "success",
+      "end": 0.88,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.5,
+      "startOffset": 10,
+      "word": "looked"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.88,
+      "startOffset": 17,
+      "word": "at"
+    },
+    {
+      "alignedWord": "each",
+      "case": "success",
+      "end": 1.25,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 20,
+      "word": "each"
+    },
+    {
+      "alignedWord": "other",
+      "case": "success",
+      "end": 1.51,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.25,
+      "startOffset": 25,
+      "word": "other"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.68,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.51,
+      "startOffset": 31,
+      "word": "and"
+    },
+    {
+      "alignedWord": "chanted",
+      "case": "success",
+      "end": 2.31,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.68,
+      "startOffset": 35,
+      "word": "chanted"
+    },
+    {
+      "alignedWord": "whispering",
+      "case": "success",
+      "end": 3.46,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.6,
+      "startOffset": 45,
+      "word": "Whispering"
+    },
+    {
+      "alignedWord": "winds",
+      "case": "success",
+      "end": 3.9699999999999998,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.46,
+      "startOffset": 56,
+      "word": "winds"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 4.17,
+      "endOffset": 65,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.97,
+      "startOffset": 62,
+      "word": "and"
+    },
+    {
+      "alignedWord": "twinkling",
+      "case": "success",
+      "end": 4.77,
+      "endOffset": 75,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 4.17,
+      "startOffset": 66,
+      "word": "twinkling"
+    },
+    {
+      "alignedWord": "skies",
+      "case": "success",
+      "end": 5.4799999999999995,
+      "endOffset": 81,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.33,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.77,
+      "startOffset": 76,
+      "word": "skies"
+    },
+    {
+      "alignedWord": "summon",
+      "case": "success",
+      "end": 6.4399999999999995,
+      "endOffset": 89,
+      "phones": [
+        {
+          "duration": 0.26,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "n_E"
+        }
+      ],
+      "start": 5.77,
+      "startOffset": 83,
+      "word": "summon"
+    },
+    {
+      "alignedWord": "wise",
+      "case": "success",
+      "end": 6.98,
+      "endOffset": 94,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.26,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 6.44,
+      "startOffset": 90,
+      "word": "Wise"
+    },
+    {
+      "alignedWord": "willow",
+      "case": "success",
+      "end": 7.57,
+      "endOffset": 101,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 7.01,
+      "startOffset": 95,
+      "word": "Willow"
+    },
+    {
+      "alignedWord": "oh",
+      "case": "success",
+      "end": 8.2,
+      "endOffset": 105,
+      "phones": [
+        {
+          "duration": 0.39,
+          "phone": "ow_S"
+        }
+      ],
+      "start": 7.81,
+      "startOffset": 103,
+      "word": "oh"
+    },
+    {
+      "alignedWord": "so",
+      "case": "success",
+      "end": 8.88,
+      "endOffset": 108,
+      "phones": [
+        {
+          "duration": 0.28,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.35,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 8.25,
+      "startOffset": 106,
+      "word": "so"
+    },
+    {
+      "alignedWord": "wise",
+      "case": "success",
+      "end": 9.639999,
+      "endOffset": 113,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.35,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "z_E"
+        }
+      ],
+      "start": 8.889999,
+      "startOffset": 109,
+      "word": "wise"
+    }
+  ]
+}

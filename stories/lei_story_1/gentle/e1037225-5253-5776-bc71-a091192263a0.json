@@ -1,0 +1,174 @@
+{
+  "transcript": "Lily should ask Wise Willow for help",
+  "words": [
+    {
+      "alignedWord": "lily",
+      "case": "success",
+      "end": 0.47,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.05,
+      "startOffset": 0,
+      "word": "Lily"
+    },
+    {
+      "alignedWord": "should",
+      "case": "success",
+      "end": 0.73,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.47,
+      "startOffset": 5,
+      "word": "should"
+    },
+    {
+      "alignedWord": "ask",
+      "case": "success",
+      "end": 1.15,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 12,
+      "word": "ask"
+    },
+    {
+      "alignedWord": "wise",
+      "case": "success",
+      "end": 1.6099999999999999,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.16,
+      "startOffset": 16,
+      "word": "Wise"
+    },
+    {
+      "alignedWord": "willow",
+      "case": "success",
+      "end": 2.09,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.62,
+      "startOffset": 21,
+      "word": "Willow"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 2.49,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.23,
+      "startOffset": 28,
+      "word": "for"
+    },
+    {
+      "alignedWord": "help",
+      "case": "success",
+      "end": 2.72,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "p_E"
+        }
+      ],
+      "start": 2.49,
+      "startOffset": 32,
+      "word": "help"
+    }
+  ]
+}

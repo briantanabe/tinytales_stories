@@ -1,0 +1,413 @@
+{
+  "transcript": "It's important to try to understand our feelings and ask for help when we need it. ",
+  "words": [
+    {
+      "alignedWord": "it's",
+      "case": "success",
+      "end": 0.28,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.1,
+      "startOffset": 0,
+      "word": "It's"
+    },
+    {
+      "alignedWord": "important",
+      "case": "success",
+      "end": 0.89,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.28,
+      "startOffset": 5,
+      "word": "important"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.08,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 0.94,
+      "startOffset": 15,
+      "word": "to"
+    },
+    {
+      "alignedWord": "try",
+      "case": "success",
+      "end": 1.3800000000000001,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 18,
+      "word": "try"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.5,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.38,
+      "startOffset": 22,
+      "word": "to"
+    },
+    {
+      "alignedWord": "understand",
+      "case": "success",
+      "end": 2.31,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.55,
+      "startOffset": 25,
+      "word": "understand"
+    },
+    {
+      "alignedWord": "our",
+      "case": "success",
+      "end": 2.45,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.31,
+      "startOffset": 36,
+      "word": "our"
+    },
+    {
+      "alignedWord": "feelings",
+      "case": "success",
+      "end": 3.0300000000000002,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.45,
+      "startOffset": 40,
+      "word": "feelings"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.19,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.03,
+      "startOffset": 49,
+      "word": "and"
+    },
+    {
+      "alignedWord": "ask",
+      "case": "success",
+      "end": 3.56,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_E"
+        }
+      ],
+      "start": 3.22,
+      "startOffset": 53,
+      "word": "ask"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 3.73,
+      "endOffset": 60,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.56,
+      "startOffset": 57,
+      "word": "for"
+    },
+    {
+      "alignedWord": "help",
+      "case": "success",
+      "end": 4.08,
+      "endOffset": 65,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_E"
+        }
+      ],
+      "start": 3.73,
+      "startOffset": 61,
+      "word": "help"
+    },
+    {
+      "alignedWord": "when",
+      "case": "success",
+      "end": 4.23,
+      "endOffset": 70,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.08,
+      "startOffset": 66,
+      "word": "when"
+    },
+    {
+      "alignedWord": "we",
+      "case": "success",
+      "end": 4.4,
+      "endOffset": 73,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.23,
+      "startOffset": 71,
+      "word": "we"
+    },
+    {
+      "alignedWord": "need",
+      "case": "success",
+      "end": 4.680000000000001,
+      "endOffset": 78,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.4,
+      "startOffset": 74,
+      "word": "need"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 4.91,
+      "endOffset": 81,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.68,
+      "startOffset": 79,
+      "word": "it"
+    }
+  ]
+}

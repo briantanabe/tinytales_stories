@@ -1,0 +1,182 @@
+{
+  "transcript": "Wise Willow shared a secret with Max. ",
+  "words": [
+    {
+      "alignedWord": "wise",
+      "case": "success",
+      "end": 0.85,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.31,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.08,
+      "startOffset": 0,
+      "word": "Wise"
+    },
+    {
+      "alignedWord": "willow",
+      "case": "success",
+      "end": 1.4900000000000002,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.12,
+      "startOffset": 5,
+      "word": "Willow"
+    },
+    {
+      "alignedWord": "shared",
+      "case": "success",
+      "end": 1.8599999999999999,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.5,
+      "startOffset": 12,
+      "word": "shared"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.9400000000000002,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.86,
+      "startOffset": 19,
+      "word": "a"
+    },
+    {
+      "alignedWord": "secret",
+      "case": "success",
+      "end": 2.4299999999999997,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.94,
+      "startOffset": 21,
+      "word": "secret"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 2.62,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "th_E"
+        }
+      ],
+      "start": 2.43,
+      "startOffset": 28,
+      "word": "with"
+    },
+    {
+      "alignedWord": "max",
+      "case": "success",
+      "end": 3.1500000000000004,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.62,
+      "startOffset": 33,
+      "word": "Max"
+    }
+  ]
+}

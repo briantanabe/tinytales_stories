@@ -1,0 +1,301 @@
+{
+  "transcript": "With their enchanted branches, Wise Willow showed Lily and Max two paths. ",
+  "words": [
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 0.35,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "th_E"
+        }
+      ],
+      "start": 0.09,
+      "startOffset": 0,
+      "word": "With"
+    },
+    {
+      "alignedWord": "their",
+      "case": "success",
+      "end": 0.54,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.35,
+      "startOffset": 5,
+      "word": "their"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.1400000000000001,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.6,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.54,
+      "startOffset": 11,
+      "word": "enchanted"
+    },
+    {
+      "alignedWord": "branches",
+      "case": "success",
+      "end": 1.95,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.15,
+      "startOffset": 21,
+      "word": "branches"
+    },
+    {
+      "alignedWord": "wise",
+      "case": "success",
+      "end": 2.74,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.24,
+      "startOffset": 31,
+      "word": "Wise"
+    },
+    {
+      "alignedWord": "willow",
+      "case": "success",
+      "end": 3.11,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 2.77,
+      "startOffset": 36,
+      "word": "Willow"
+    },
+    {
+      "alignedWord": "showed",
+      "case": "success",
+      "end": 3.52,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.11,
+      "startOffset": 43,
+      "word": "showed"
+    },
+    {
+      "alignedWord": "lily",
+      "case": "success",
+      "end": 3.94,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.52,
+      "startOffset": 50,
+      "word": "Lily"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 4.14,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.96,
+      "startOffset": 55,
+      "word": "and"
+    },
+    {
+      "alignedWord": "max",
+      "case": "success",
+      "end": 4.76,
+      "endOffset": 62,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "s_E"
+        }
+      ],
+      "start": 4.14,
+      "startOffset": 59,
+      "word": "Max"
+    },
+    {
+      "alignedWord": "two",
+      "case": "success",
+      "end": 5.140000000000001,
+      "endOffset": 66,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 4.86,
+      "startOffset": 63,
+      "word": "two"
+    },
+    {
+      "alignedWord": "paths",
+      "case": "success",
+      "end": 5.569999999999999,
+      "endOffset": 72,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "th_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 5.14,
+      "startOffset": 67,
+      "word": "paths"
+    }
+  ]
+}

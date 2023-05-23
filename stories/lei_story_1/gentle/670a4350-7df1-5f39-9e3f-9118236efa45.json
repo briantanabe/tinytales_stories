@@ -1,0 +1,427 @@
+{
+  "transcript": "Wise Willow said, \u201cWhen we're not sure why we act a certain way, we can look inside ourselves.\" ",
+  "words": [
+    {
+      "alignedWord": "wise",
+      "case": "success",
+      "end": 0.5900000000000001,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.05,
+      "startOffset": 0,
+      "word": "Wise"
+    },
+    {
+      "alignedWord": "willow",
+      "case": "success",
+      "end": 0.97,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.62,
+      "startOffset": 5,
+      "word": "Willow"
+    },
+    {
+      "alignedWord": "said",
+      "case": "success",
+      "end": 1.46,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.97,
+      "startOffset": 12,
+      "word": "said"
+    },
+    {
+      "alignedWord": "when",
+      "case": "success",
+      "end": 1.92,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.69,
+      "startOffset": 19,
+      "word": "When"
+    },
+    {
+      "alignedWord": "we're",
+      "case": "success",
+      "end": 2.03,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.92,
+      "startOffset": 24,
+      "word": "we're"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 2.3,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.03,
+      "startOffset": 30,
+      "word": "not"
+    },
+    {
+      "alignedWord": "sure",
+      "case": "success",
+      "end": 2.65,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.3,
+      "startOffset": 34,
+      "word": "sure"
+    },
+    {
+      "alignedWord": "why",
+      "case": "success",
+      "end": 2.9499999999999997,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 2.65,
+      "startOffset": 39,
+      "word": "why"
+    },
+    {
+      "alignedWord": "we",
+      "case": "success",
+      "end": 3.2,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.95,
+      "startOffset": 43,
+      "word": "we"
+    },
+    {
+      "alignedWord": "act",
+      "case": "success",
+      "end": 3.53,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.23,
+      "startOffset": 46,
+      "word": "act"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.61,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.53,
+      "startOffset": 50,
+      "word": "a"
+    },
+    {
+      "alignedWord": "certain",
+      "case": "success",
+      "end": 4.06,
+      "endOffset": 59,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.61,
+      "startOffset": 52,
+      "word": "certain"
+    },
+    {
+      "alignedWord": "way",
+      "case": "success",
+      "end": 4.52,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.34,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 4.06,
+      "startOffset": 60,
+      "word": "way"
+    },
+    {
+      "alignedWord": "we",
+      "case": "success",
+      "end": 5.09,
+      "endOffset": 67,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.89,
+      "startOffset": 65,
+      "word": "we"
+    },
+    {
+      "alignedWord": "can",
+      "case": "success",
+      "end": 5.28,
+      "endOffset": 71,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 5.09,
+      "startOffset": 68,
+      "word": "can"
+    },
+    {
+      "alignedWord": "look",
+      "case": "success",
+      "end": 5.5,
+      "endOffset": 76,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_E"
+        }
+      ],
+      "start": 5.28,
+      "startOffset": 72,
+      "word": "look"
+    },
+    {
+      "alignedWord": "inside",
+      "case": "success",
+      "end": 6.02,
+      "endOffset": 83,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 5.5,
+      "startOffset": 77,
+      "word": "inside"
+    },
+    {
+      "alignedWord": "ourselves",
+      "case": "success",
+      "end": 6.6,
+      "endOffset": 93,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 6.02,
+      "startOffset": 84,
+      "word": "ourselves"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "transcript": "But Max could have made a different choice. ",
+  "words": [
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 0.4,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.16,
+      "startOffset": 0,
+      "word": "But"
+    },
+    {
+      "alignedWord": "max",
+      "case": "success",
+      "end": 1.13,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.26,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.41,
+      "startOffset": 4,
+      "word": "Max"
+    },
+    {
+      "alignedWord": "could",
+      "case": "success",
+      "end": 1.53,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 8,
+      "word": "could"
+    },
+    {
+      "alignedWord": "have",
+      "case": "success",
+      "end": 1.6,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 14,
+      "word": "have"
+    },
+    {
+      "alignedWord": "made",
+      "case": "success",
+      "end": 1.84,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.6,
+      "startOffset": 19,
+      "word": "made"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.9200000000000002,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.84,
+      "startOffset": 24,
+      "word": "a"
+    },
+    {
+      "alignedWord": "different",
+      "case": "success",
+      "end": 2.35,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.92,
+      "startOffset": 26,
+      "word": "different"
+    },
+    {
+      "alignedWord": "choice",
+      "case": "success",
+      "end": 2.77,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.35,
+      "startOffset": 36,
+      "word": "choice"
+    }
+  ]
+}

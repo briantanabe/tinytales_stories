@@ -1,0 +1,217 @@
+{
+  "transcript": "Max decided to ask Wise Willow for wisdom. ",
+  "words": [
+    {
+      "alignedWord": "max",
+      "case": "success",
+      "end": 0.54,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.16,
+      "startOffset": 0,
+      "word": "Max"
+    },
+    {
+      "alignedWord": "decided",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.54,
+      "startOffset": 4,
+      "word": "decided"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.1500000000000001,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 12,
+      "word": "to"
+    },
+    {
+      "alignedWord": "ask",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 15,
+      "word": "ask"
+    },
+    {
+      "alignedWord": "wise",
+      "case": "success",
+      "end": 1.9300000000000002,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 19,
+      "word": "Wise"
+    },
+    {
+      "alignedWord": "willow",
+      "case": "success",
+      "end": 2.28,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.95,
+      "startOffset": 24,
+      "word": "Willow"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 2.4699999999999998,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.28,
+      "startOffset": 31,
+      "word": "for"
+    },
+    {
+      "alignedWord": "wisdom",
+      "case": "success",
+      "end": 3.0200000000000005,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.47,
+      "startOffset": 35,
+      "word": "wisdom"
+    }
+  ]
+}

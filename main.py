@@ -125,7 +125,7 @@ def pre_process_story(name):
     
     convert_arrow_json(input, output)
 
-    folder_names = ["text", "audio", "gentle", "schedule", "readalong"]
+    folder_names = ["text", "audio", "gentle"]
     for folder_name in folder_names:
         folder_path = os.path.join(f'stories/{name}', folder_name)
         create_folder_if_not_exists(folder_path)

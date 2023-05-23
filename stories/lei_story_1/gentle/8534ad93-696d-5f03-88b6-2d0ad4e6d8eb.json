@@ -1,0 +1,301 @@
+{
+  "transcript": "Talking to someone about how you feel might be scary and hard. ",
+  "words": [
+    {
+      "alignedWord": "talking",
+      "case": "success",
+      "end": 0.64,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.09,
+      "startOffset": 0,
+      "word": "Talking"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 0.75,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 0.64,
+      "startOffset": 8,
+      "word": "to"
+    },
+    {
+      "alignedWord": "someone",
+      "case": "success",
+      "end": 1.1400000000000001,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.75,
+      "startOffset": 11,
+      "word": "someone"
+    },
+    {
+      "alignedWord": "about",
+      "case": "success",
+      "end": 1.4899999999999998,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.14,
+      "startOffset": 19,
+      "word": "about"
+    },
+    {
+      "alignedWord": "how",
+      "case": "success",
+      "end": 1.9,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 1.68,
+      "startOffset": 25,
+      "word": "how"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 2.09,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.9,
+      "startOffset": 29,
+      "word": "you"
+    },
+    {
+      "alignedWord": "feel",
+      "case": "success",
+      "end": 2.78,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.09,
+      "startOffset": 33,
+      "word": "feel"
+    },
+    {
+      "alignedWord": "might",
+      "case": "success",
+      "end": 3.1999999999999997,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.84,
+      "startOffset": 38,
+      "word": "might"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 3.3600000000000003,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.2,
+      "startOffset": 44,
+      "word": "be"
+    },
+    {
+      "alignedWord": "scary",
+      "case": "success",
+      "end": 4.07,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.37,
+      "startOffset": 47,
+      "word": "scary"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 4.23,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.08,
+      "startOffset": 53,
+      "word": "and"
+    },
+    {
+      "alignedWord": "hard",
+      "case": "success",
+      "end": 4.73,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.26,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.24,
+      "startOffset": 57,
+      "word": "hard"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "transcript": "What should Lily do? ",
+  "words": [
+    {
+      "alignedWord": "what",
+      "case": "success",
+      "end": 0.47,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.06,
+      "startOffset": 0,
+      "word": "What"
+    },
+    {
+      "alignedWord": "should",
+      "case": "success",
+      "end": 0.74,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.47,
+      "startOffset": 5,
+      "word": "should"
+    },
+    {
+      "alignedWord": "lily",
+      "case": "success",
+      "end": 1.08,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.74,
+      "startOffset": 12,
+      "word": "Lily"
+    },
+    {
+      "alignedWord": "do",
+      "case": "success",
+      "end": 1.44,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.26,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 17,
+      "word": "do"
+    }
+  ]
+}

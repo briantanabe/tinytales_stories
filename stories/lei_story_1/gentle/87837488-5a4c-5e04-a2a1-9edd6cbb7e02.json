@@ -1,0 +1,120 @@
+{
+  "transcript": "What should Max do now?",
+  "words": [
+    {
+      "alignedWord": "what",
+      "case": "success",
+      "end": 0.42,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.06,
+      "startOffset": 0,
+      "word": "What"
+    },
+    {
+      "alignedWord": "should",
+      "case": "success",
+      "end": 0.6799999999999999,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.42,
+      "startOffset": 5,
+      "word": "should"
+    },
+    {
+      "alignedWord": "max",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.69,
+      "startOffset": 12,
+      "word": "Max"
+    },
+    {
+      "alignedWord": "do",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 16,
+      "word": "do"
+    },
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 1.61,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.23,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 19,
+      "word": "now"
+    }
+  ]
+}
