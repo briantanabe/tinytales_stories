@@ -67,11 +67,13 @@
     {
       "id": "n1",
       "position": {
-        "x": 75,
-        "y": 573.4611789225404
+        "x": 136.96062709959116,
+        "y": 573.4611789225403
       },
-      "caption": "You seem pretty sporty. I love it!",
-      "labels": [],
+      "caption": "Tell me about a particularly happy memory!",
+      "labels": [
+        "collect_response"
+      ],
       "properties": {},
       "style": {}
     },
@@ -89,23 +91,12 @@
       "style": {}
     },
     {
-      "id": "n3",
-      "position": {
-        "x": 404.4218060221313,
-        "y": 573.4611789225403
-      },
-      "caption": "I feel the same way, I'm pretty hungry right now!",
-      "labels": [],
-      "properties": {},
-      "style": {}
-    },
-    {
       "id": "n4",
       "position": {
-        "x": 733.8436120442627,
+        "x": 671.8829849446716,
         "y": 573.4611789225403
       },
-      "caption": "Weird, but I bet you'd have a lot of fun!",
+      "caption": "The end!",
       "labels": [],
       "properties": {},
       "style": {}
@@ -114,7 +105,7 @@
   "relationships": [
     {
       "id": "n0",
-      "type": "Go skiing?",
+      "type": "Answer a question",
       "style": {
         "detail-orientation": "horizontal"
       },
@@ -131,18 +122,8 @@
       "style": {}
     },
     {
-      "id": "n2",
-      "type": "Order postmates?",
-      "style": {
-        "detail-orientation": "horizontal"
-      },
-      "properties": {},
-      "fromId": "n0",
-      "toId": "n3"
-    },
-    {
       "id": "n3",
-      "type": "Or brew kombucha.",
+      "type": "Or end the story here",
       "style": {
         "detail-orientation": "horizontal"
       },

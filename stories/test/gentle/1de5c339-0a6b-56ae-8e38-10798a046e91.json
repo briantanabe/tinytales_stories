@@ -1,0 +1,120 @@
+{
+  "transcript": "Or end the story here",
+  "words": [
+    {
+      "alignedWord": "or",
+      "case": "success",
+      "end": 0.45,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "Or"
+    },
+    {
+      "alignedWord": "end",
+      "case": "success",
+      "end": 0.97,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.55,
+      "startOffset": 3,
+      "word": "end"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.0,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.98,
+      "startOffset": 7,
+      "word": "the"
+    },
+    {
+      "alignedWord": "story",
+      "case": "success",
+      "end": 1.85,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.01,
+      "startOffset": 11,
+      "word": "story"
+    },
+    {
+      "alignedWord": "here",
+      "case": "success",
+      "end": 2.45,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.39,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.04,
+      "startOffset": 17,
+      "word": "here"
+    }
+  ]
+}

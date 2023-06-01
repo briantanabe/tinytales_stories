@@ -1,0 +1,47 @@
+{
+  "transcript": "The end!",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.38,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.09,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "end",
+      "case": "success",
+      "end": 0.9299999999999999,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.25,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.43,
+      "startOffset": 4,
+      "word": "end"
+    }
+  ]
+}

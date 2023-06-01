@@ -25,7 +25,7 @@ def get_audio_link(text):
     payload = {
         "quality": "premium",
         "output_format": "mp3",
-        "speed": 1,
+        "speed": .75,
         "sample_rate": 24000,
         "voice": "jordan",
         "text": text
@@ -50,6 +50,7 @@ def convert_arrow_json(input_file, output_file):
     for node in data['nodes']:
         node_data = {
             "ending": "yes",
+            "collect_response": "no",
             "decisionPoint": "no",
             "text": node['caption']
         }
@@ -80,8 +81,11 @@ def convert_arrow_json(input_file, output_file):
             node_data['optionIDs'] = options_id
         
         nodes[str(uuid.uuid5(uuid.NAMESPACE_DNS, node["caption"].strip().lower()))] = node_data
-        if node['labels'] and node['labels'][0] == "start":
-            start_node = str(uuid.uuid5(uuid.NAMESPACE_DNS, node["caption"].strip().lower()))
+        if node['labels']:
+            if node['labels'][0] == "start":
+                start_node = str(uuid.uuid5(uuid.NAMESPACE_DNS, node["caption"].strip().lower()))
+            if node['labels'][0] == "collect_response":
+                node_data["collect_response"] = "yes"
         
     output_data = {'nodes': nodes}
     if start_node:
