@@ -25,7 +25,7 @@ def get_audio_link(text):
     payload = {
         "quality": "premium",
         "output_format": "mp3",
-        "speed": .75,
+        "speed": .85,
         "sample_rate": 24000,
         "voice": "jordan",
         "text": text
