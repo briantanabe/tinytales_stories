@@ -1,0 +1,66 @@
+{
+  "transcript": "Oh... okay then.",
+  "words": [
+    {
+      "alignedWord": "oh",
+      "case": "success",
+      "end": 0.54,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.32,
+          "phone": "ow_S"
+        }
+      ],
+      "start": 0.22,
+      "startOffset": 0,
+      "word": "Oh"
+    },
+    {
+      "alignedWord": "okay",
+      "case": "success",
+      "end": 1.21,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.86,
+      "startOffset": 6,
+      "word": "okay"
+    },
+    {
+      "alignedWord": "then",
+      "case": "success",
+      "end": 1.51,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.21,
+      "startOffset": 11,
+      "word": "then"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "transcript": "I guess you're right, Ms. Campbell...",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.23,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "guess",
+      "case": "success",
+      "end": 0.59,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.23,
+      "startOffset": 2,
+      "word": "guess"
+    },
+    {
+      "alignedWord": "you're",
+      "case": "success",
+      "end": 0.78,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.59,
+      "startOffset": 8,
+      "word": "you're"
+    },
+    {
+      "alignedWord": "right",
+      "case": "success",
+      "end": 1.09,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 15,
+      "word": "right"
+    },
+    {
+      "alignedWord": "ms",
+      "case": "success",
+      "end": 1.53,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.09,
+      "startOffset": 22,
+      "word": "Ms"
+    },
+    {
+      "alignedWord": "campbell",
+      "case": "success",
+      "end": 2.2600000000000002,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.81,
+      "startOffset": 26,
+      "word": "Campbell"
+    }
+  ]
+}

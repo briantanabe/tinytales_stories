@@ -1,0 +1,28 @@
+{
+  "transcript": "Ok. ",
+  "words": [
+    {
+      "alignedWord": "ok",
+      "case": "success",
+      "end": 0.87,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.45,
+      "startOffset": 0,
+      "word": "Ok"
+    }
+  ]
+}

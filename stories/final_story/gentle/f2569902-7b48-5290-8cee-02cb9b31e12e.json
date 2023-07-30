@@ -1,0 +1,82 @@
+{
+  "transcript": "You're so selfish!",
+  "words": [
+    {
+      "alignedWord": "you're",
+      "case": "success",
+      "end": 0.37,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.07,
+      "startOffset": 0,
+      "word": "You're"
+    },
+    {
+      "alignedWord": "so",
+      "case": "success",
+      "end": 0.75,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.41,
+      "startOffset": 7,
+      "word": "so"
+    },
+    {
+      "alignedWord": "selfish",
+      "case": "success",
+      "end": 1.47,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 0.75,
+      "startOffset": 10,
+      "word": "selfish"
+    }
+  ]
+}

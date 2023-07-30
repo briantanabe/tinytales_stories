@@ -1,0 +1,143 @@
+{
+  "transcript": "Are we ready for music day?",
+  "words": [
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 0.22,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.09,
+      "startOffset": 0,
+      "word": "Are"
+    },
+    {
+      "alignedWord": "we",
+      "case": "success",
+      "end": 0.4,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.22,
+      "startOffset": 4,
+      "word": "we"
+    },
+    {
+      "alignedWord": "ready",
+      "case": "success",
+      "end": 0.8,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.4,
+      "startOffset": 7,
+      "word": "ready"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 0.99,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.8,
+      "startOffset": 13,
+      "word": "for"
+    },
+    {
+      "alignedWord": "music",
+      "case": "success",
+      "end": 1.38,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.0,
+      "startOffset": 17,
+      "word": "music"
+    },
+    {
+      "alignedWord": "day",
+      "case": "success",
+      "end": 1.5799999999999998,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.38,
+      "startOffset": 23,
+      "word": "day"
+    }
+  ]
+}

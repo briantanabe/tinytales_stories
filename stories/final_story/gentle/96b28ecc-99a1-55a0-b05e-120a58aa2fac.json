@@ -1,0 +1,150 @@
+{
+  "transcript": "Can you help me play the tambourine?",
+  "words": [
+    {
+      "alignedWord": "can",
+      "case": "success",
+      "end": 0.22,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.07,
+      "startOffset": 0,
+      "word": "Can"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 0.37,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.22,
+      "startOffset": 4,
+      "word": "you"
+    },
+    {
+      "alignedWord": "help",
+      "case": "success",
+      "end": 0.61,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_E"
+        }
+      ],
+      "start": 0.37,
+      "startOffset": 8,
+      "word": "help"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 0.77,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.61,
+      "startOffset": 13,
+      "word": "me"
+    },
+    {
+      "alignedWord": "play",
+      "case": "success",
+      "end": 1.11,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.8,
+      "startOffset": 16,
+      "word": "play"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.2200000000000002,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 21,
+      "word": "the"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.81,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.59,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.22,
+      "startOffset": 25,
+      "word": "tambourine"
+    }
+  ]
+}

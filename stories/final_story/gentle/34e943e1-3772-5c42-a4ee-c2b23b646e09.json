@@ -1,0 +1,89 @@
+{
+  "transcript": "I wanna rock out!",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.23,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.13,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "wanna",
+      "case": "success",
+      "end": 0.66,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.23,
+      "startOffset": 2,
+      "word": "wanna"
+    },
+    {
+      "alignedWord": "rock",
+      "case": "success",
+      "end": 0.99,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.66,
+      "startOffset": 8,
+      "word": "rock"
+    },
+    {
+      "alignedWord": "out",
+      "case": "success",
+      "end": 1.37,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.06,
+      "startOffset": 13,
+      "word": "out"
+    }
+  ]
+}

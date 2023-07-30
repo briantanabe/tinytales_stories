@@ -1,0 +1,225 @@
+{
+  "transcript": "Tom already apologized, so let\u2019s just move on.",
+  "words": [
+    {
+      "alignedWord": "tom",
+      "case": "success",
+      "end": 0.39,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.1,
+      "startOffset": 0,
+      "word": "Tom"
+    },
+    {
+      "alignedWord": "already",
+      "case": "success",
+      "end": 0.76,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.39,
+      "startOffset": 4,
+      "word": "already"
+    },
+    {
+      "alignedWord": "apologized",
+      "case": "success",
+      "end": 1.49,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.76,
+      "startOffset": 12,
+      "word": "apologized"
+    },
+    {
+      "alignedWord": "so",
+      "case": "success",
+      "end": 1.6400000000000001,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.5,
+      "startOffset": 24,
+      "word": "so"
+    },
+    {
+      "alignedWord": "let's",
+      "case": "success",
+      "end": 1.8699999999999999,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.64,
+      "startOffset": 27,
+      "word": "let\u2019s"
+    },
+    {
+      "alignedWord": "just",
+      "case": "success",
+      "end": 2.14,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.87,
+      "startOffset": 33,
+      "word": "just"
+    },
+    {
+      "alignedWord": "move",
+      "case": "success",
+      "end": 2.4000000000000004,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.14,
+      "startOffset": 38,
+      "word": "move"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 2.7399999999999998,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.4,
+      "startOffset": 43,
+      "word": "on"
+    }
+  ]
+}

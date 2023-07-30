@@ -1,0 +1,208 @@
+{
+  "transcript": "Tom, I'm sorry, but you were playing too loud.",
+  "words": [
+    {
+      "alignedWord": "tom",
+      "case": "success",
+      "end": 0.75,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.16,
+      "startOffset": 0,
+      "word": "Tom"
+    },
+    {
+      "alignedWord": "i'm",
+      "case": "success",
+      "end": 1.24,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.03,
+      "startOffset": 5,
+      "word": "I'm"
+    },
+    {
+      "alignedWord": "sorry",
+      "case": "success",
+      "end": 1.8199999999999998,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 9,
+      "word": "sorry"
+    },
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 2.32,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.13,
+      "startOffset": 16,
+      "word": "but"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 2.44,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.32,
+      "startOffset": 20,
+      "word": "you"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 2.56,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.44,
+      "startOffset": 24,
+      "word": "were"
+    },
+    {
+      "alignedWord": "playing",
+      "case": "success",
+      "end": 2.97,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.56,
+      "startOffset": 29,
+      "word": "playing"
+    },
+    {
+      "alignedWord": "too",
+      "case": "success",
+      "end": 3.25,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.98,
+      "startOffset": 37,
+      "word": "too"
+    },
+    {
+      "alignedWord": "loud",
+      "case": "success",
+      "end": 3.62,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.25,
+      "startOffset": 41,
+      "word": "loud"
+    }
+  ]
+}

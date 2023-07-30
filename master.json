@@ -9,6 +9,11 @@
             "id": "lei_story_1",
             "title": "Max and Lily",
             "version": 3
+        },
+        {
+            "id": "final_story",
+            "title": "Music Day",
+            "version": 1
         }
     ]
 }

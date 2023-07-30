@@ -1,0 +1,47 @@
+{
+  "transcript": "My turn!",
+  "words": [
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 0.39999999999999997,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.05,
+      "startOffset": 0,
+      "word": "My"
+    },
+    {
+      "alignedWord": "turn",
+      "case": "success",
+      "end": 0.9,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.25,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.4,
+      "startOffset": 3,
+      "word": "turn"
+    }
+  ]
+}

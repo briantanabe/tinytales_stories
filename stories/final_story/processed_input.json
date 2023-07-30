@@ -1,0 +1,805 @@
+{
+    "nodes": {
+        "23249031-1002-527c-931b-3f832d62003e": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Hi! I\u2019m Darcy, nice to meet you! ",
+            "next": "23c54a53-b812-5c32-a326-a6b2b08805aa"
+        },
+        "23c54a53-b812-5c32-a326-a6b2b08805aa": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "I just woke up but I think I\u2019m late for school! ",
+            "previous": "23249031-1002-527c-931b-3f832d62003e",
+            "next": "37796651-3f24-5235-a518-74a88a26a5cd"
+        },
+        "f4fe6b4f-f6fa-5c2b-9b74-5f6cf535ad5b": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Pick out a T-shirt for Darcy!",
+            "previous": "37796651-3f24-5235-a518-74a88a26a5cd",
+            "next": "92ccf159-caf6-5f80-9966-3da5bf7069d4"
+        },
+        "92ccf159-caf6-5f80-9966-3da5bf7069d4": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Thanks!",
+            "previous": "f4fe6b4f-f6fa-5c2b-9b74-5f6cf535ad5b",
+            "next": "49db0e61-0fca-5947-a560-64857d201852"
+        },
+        "49db0e61-0fca-5947-a560-64857d201852": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Let\u2019s head to school, there\u2019s a special activity planned for today",
+            "previous": "92ccf159-caf6-5f80-9966-3da5bf7069d4",
+            "next": "3a0fa16b-c89f-56fd-bab0-e710a4b8f3bf"
+        },
+        "3a0fa16b-c89f-56fd-bab0-e710a4b8f3bf": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Today is music day and we get to pick instruments to learn for the next week!",
+            "previous": "49db0e61-0fca-5947-a560-64857d201852",
+            "next": "5a1ae6dd-bbc2-50ee-b9ca-c9d2e71caa03"
+        },
+        "5a1ae6dd-bbc2-50ee-b9ca-c9d2e71caa03": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "I\u2019m so excited!",
+            "previous": "3a0fa16b-c89f-56fd-bab0-e710a4b8f3bf",
+            "next": "9e33daa7-0f8c-5903-9c51-5f478b4bf31e"
+        },
+        "96b28ecc-99a1-55a0-b05e-120a58aa2fac": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Can you help me play the tambourine?",
+            "previous": "9e33daa7-0f8c-5903-9c51-5f478b4bf31e",
+            "next": "c7befd36-f86e-5028-8a43-8ceedba7b514"
+        },
+        "612da785-ab31-5ead-a690-04741dd1be2f": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": " Ms. Campbell will be looking for me!",
+            "previous": "0eddd30a-03be-5992-a900-c86cf3a98654",
+            "next": "b91d0a4e-3c24-5499-bf2c-382b154cc418"
+        },
+        "b91d0a4e-3c24-5499-bf2c-382b154cc418": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Good morning everyone! ",
+            "previous": "612da785-ab31-5ead-a690-04741dd1be2f",
+            "next": "0f137c05-1dd5-5ae1-b602-1913e54863d2"
+        },
+        "b8ee356a-99a9-5c81-8b3d-1fca7133d492": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "We have a couple different instruments.",
+            "previous": "0f137c05-1dd5-5ae1-b602-1913e54863d2",
+            "next": "a84ae203-39c5-5199-b5fb-9b2281dd70f8"
+        },
+        "b6be54a4-2a6f-5341-b770-3b3216128577": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "We\u2019ll choose instruments in the same order you arrived this morning",
+            "previous": "a84ae203-39c5-5199-b5fb-9b2281dd70f8",
+            "next": "535410fb-192a-5bb3-859d-4c4b455845e1"
+        },
+        "535410fb-192a-5bb3-859d-4c4b455845e1": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Oh dear, I was late this morning.",
+            "previous": "b6be54a4-2a6f-5341-b770-3b3216128577",
+            "next": "b29ec030-a8f9-5147-a23d-9bd7d77b2f3b"
+        },
+        "69c7e725-0366-51d6-99c1-8dcb90665173": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Wow, I was the first one here!",
+            "previous": "b29ec030-a8f9-5147-a23d-9bd7d77b2f3b",
+            "next": "121ee11b-21ba-5096-8098-02e5911eca78"
+        },
+        "ceb110b3-d942-5e08-8ec5-1fa97d5f25bd": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "No fair, you always choose first!",
+            "previous": "121ee11b-21ba-5096-8098-02e5911eca78",
+            "next": "42fb0e85-248d-5e27-bf2e-35ea2c254752"
+        },
+        "e7e0e948-6d93-5f0e-90cd-f0e036874c86": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Maybe you can try it tomorrow? ",
+            "previous": "42fb0e85-248d-5e27-bf2e-35ea2c254752",
+            "next": "ec33536c-b920-5161-8f81-449b98ef4189"
+        },
+        "ec33536c-b920-5161-8f81-449b98ef4189": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Yeah, well you\u2019re gonna be terrible at it anyways.",
+            "previous": "e7e0e948-6d93-5f0e-90cd-f0e036874c86",
+            "next": "bb12e981-e525-592b-82b7-c26d20aefa0d"
+        },
+        "9810dac2-b956-5436-ab05-84bdb703c0b5": {
+            "ending": "yes",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "EMPTY"
+        },
+        "c46ce8d3-ccb3-5fa8-b5d6-881b2d0c196a": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Emma was so rude to you Darcy! ",
+            "previous": "bb12e981-e525-592b-82b7-c26d20aefa0d",
+            "next": "0303a3b8-69e4-5e23-8c96-a84f84e9c3ad"
+        },
+        "7a06ab77-6105-5e92-95d7-a784582be0c3": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "What are you talking about, Varun?",
+            "previous": "0303a3b8-69e4-5e23-8c96-a84f84e9c3ad",
+            "next": "061789bd-1f49-5402-a242-b760119fc9b7"
+        },
+        "00736f7a-cff0-5ee7-819e-c1a938fb11ad": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "I think we should just get on with music day and forget about it.",
+            "previous": "061789bd-1f49-5402-a242-b760119fc9b7",
+            "next": "68c64567-82c0-5726-adc3-3ed6a332fd9c"
+        },
+        "68c64567-82c0-5726-adc3-3ed6a332fd9c": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "yes",
+            "text": "What should Darcy do?",
+            "previous": "d302acbf-7c6b-52a1-ae35-e3cbb29690d0",
+            "next": [
+                "c48060ca-e5eb-53a6-8f85-9026ebe2d85d",
+                "46686944-548f-5639-b0ad-39e89d8c7f74",
+                "5cc36e6e-dd87-52ff-b0b7-4e7f8c0ccc2c"
+            ],
+            "options": [
+                "Varun",
+                "Jessica"
+            ],
+            "optionIDs": [
+                "c8a40313-8029-52ff-8a3f-8faca137e51a",
+                "029e04ee-c7aa-5f54-b2de-0b16b7c269bc"
+            ]
+        },
+        "8c40e65f-32bf-5b74-8ec4-57680624a6c4": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "See you\u2019re terrible at the tambourine!",
+            "previous": "68c64567-82c0-5726-adc3-3ed6a332fd9c",
+            "next": "3cf338bd-7a09-57d0-823b-7883413ed6b1"
+        },
+        "a701ded8-c901-532b-9ee9-84e602c4c13b": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Hey no it\u2019s not!",
+            "previous": "3cf338bd-7a09-57d0-823b-7883413ed6b1",
+            "next": "b8f699e6-0557-530c-86b6-f95273493651"
+        },
+        "b8f699e6-0557-530c-86b6-f95273493651": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Darcy, I heard everything!",
+            "previous": "a701ded8-c901-532b-9ee9-84e602c4c13b",
+            "next": "88a84eeb-3416-5b1b-b878-e0c586284053"
+        },
+        "6bea222c-5ac5-55a5-b52e-ec2a8dfc59ca": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Emma even suggested you could try the tambourine tomorrow.",
+            "previous": "88a84eeb-3416-5b1b-b878-e0c586284053",
+            "next": "e8dff9ea-f805-56dd-b07b-7d6e72e195af"
+        },
+        "41ff88ec-4be1-5651-a691-8ee017e0cd97": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "You do want to be friends with Emma, right?",
+            "previous": "e8dff9ea-f805-56dd-b07b-7d6e72e195af",
+            "next": "bb3a3b79-b91f-5740-9ecc-506433ff5497"
+        },
+        "bb3a3b79-b91f-5740-9ecc-506433ff5497": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Yeah...",
+            "previous": "41ff88ec-4be1-5651-a691-8ee017e0cd97",
+            "next": "be142cd7-737a-59b5-90d0-84fa08310fbe"
+        },
+        "34a326e4-d6a5-5738-b00a-ca3e2b4d2c55": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "So let\u2019s apologize to Emma ok?",
+            "previous": "be142cd7-737a-59b5-90d0-84fa08310fbe",
+            "next": "6fadcbed-c202-52be-836a-fcb4cc19cee2"
+        },
+        "6fadcbed-c202-52be-836a-fcb4cc19cee2": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Ok. ",
+            "previous": "34a326e4-d6a5-5738-b00a-ca3e2b4d2c55",
+            "next": "c878b033-a33d-53ad-812d-de555199be9c"
+        },
+        "e4834c23-1e16-58d6-9e5a-55c4a9a73645": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Hmm it seems like you could have made better decisions for Darcy.",
+            "previous": "a1aa1e28-41c8-5c4c-b70f-b54fd583a3b6",
+            "next": "d302acbf-7c6b-52a1-ae35-e3cbb29690d0"
+        },
+        "2ff95ac8-ce6e-5d9a-a04b-d11c2667b9cd": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Hey Emma, I\u2019m sorry for saying you were bad at the tambourine. ",
+            "previous": "68c64567-82c0-5726-adc3-3ed6a332fd9c",
+            "next": "55f76da0-8011-5c68-9606-4da0776a1c70"
+        },
+        "faacdea8-ce4b-57bd-b3bf-ab32909d8133": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "That\u2019s ok, I forgive you!",
+            "previous": "55f76da0-8011-5c68-9606-4da0776a1c70",
+            "next": "84519325-5ea7-5c06-8b0d-19504bc22868"
+        },
+        "84519325-5ea7-5c06-8b0d-19504bc22868": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Wanna rock out together?",
+            "previous": "faacdea8-ce4b-57bd-b3bf-ab32909d8133",
+            "next": "7ec11a7c-0451-5863-87e2-14cc66c448e7"
+        },
+        "7ec11a7c-0451-5863-87e2-14cc66c448e7": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Let\u2019s do it!",
+            "previous": "84519325-5ea7-5c06-8b0d-19504bc22868",
+            "next": "27bd70d7-5935-5da8-80b3-2949732b81df"
+        },
+        "27bd70d7-5935-5da8-80b3-2949732b81df": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "That was lovely to watch!",
+            "previous": "eb9add9d-4700-56f6-bab1-2ac6575fb4ee",
+            "next": "a1adbfa4-e1e6-501b-85a6-39f881dcbbc7"
+        },
+        "37796651-3f24-5235-a518-74a88a26a5cd": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Can you help me pick out a t-shirt so I can get ready?",
+            "previous": "23c54a53-b812-5c32-a326-a6b2b08805aa",
+            "next": "f4fe6b4f-f6fa-5c2b-9b74-5f6cf535ad5b"
+        },
+        "9e33daa7-0f8c-5903-9c51-5f478b4bf31e": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "I\u2019ve always wanted to play the tambourine.",
+            "previous": "5a1ae6dd-bbc2-50ee-b9ca-c9d2e71caa03",
+            "next": "96b28ecc-99a1-55a0-b05e-120a58aa2fac"
+        },
+        "c7befd36-f86e-5028-8a43-8ceedba7b514": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Awesome! And we\u2019re here!",
+            "previous": "96b28ecc-99a1-55a0-b05e-120a58aa2fac",
+            "next": "0eddd30a-03be-5992-a900-c86cf3a98654"
+        },
+        "0eddd30a-03be-5992-a900-c86cf3a98654": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Let\u2019s go inside, we\u2019re already late.",
+            "previous": "c7befd36-f86e-5028-8a43-8ceedba7b514",
+            "next": "612da785-ab31-5ead-a690-04741dd1be2f"
+        },
+        "0f137c05-1dd5-5ae1-b602-1913e54863d2": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Are we ready for music day?",
+            "previous": "b91d0a4e-3c24-5499-bf2c-382b154cc418",
+            "next": "b8ee356a-99a9-5c81-8b3d-1fca7133d492"
+        },
+        "a84ae203-39c5-5199-b5fb-9b2281dd70f8": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "But we only have one of each.",
+            "previous": "b8ee356a-99a9-5c81-8b3d-1fca7133d492",
+            "next": "b6be54a4-2a6f-5341-b770-3b3216128577"
+        },
+        "b29ec030-a8f9-5147-a23d-9bd7d77b2f3b": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "I hope nobody else picks the tambourine.",
+            "previous": "535410fb-192a-5bb3-859d-4c4b455845e1",
+            "next": "69c7e725-0366-51d6-99c1-8dcb90665173"
+        },
+        "121ee11b-21ba-5096-8098-02e5911eca78": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "I choose the tambourine!",
+            "previous": "69c7e725-0366-51d6-99c1-8dcb90665173",
+            "next": "ceb110b3-d942-5e08-8ec5-1fa97d5f25bd"
+        },
+        "42fb0e85-248d-5e27-bf2e-35ea2c254752": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "I just wanted to play the tambourine today!",
+            "previous": "ceb110b3-d942-5e08-8ec5-1fa97d5f25bd",
+            "next": "e7e0e948-6d93-5f0e-90cd-f0e036874c86"
+        },
+        "bb12e981-e525-592b-82b7-c26d20aefa0d": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "You stink.",
+            "previous": "ec33536c-b920-5161-8f81-449b98ef4189",
+            "next": "c46ce8d3-ccb3-5fa8-b5d6-881b2d0c196a"
+        },
+        "0303a3b8-69e4-5e23-8c96-a84f84e9c3ad": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "You should just take the tambourine from her when she messes up.",
+            "previous": "c46ce8d3-ccb3-5fa8-b5d6-881b2d0c196a",
+            "next": "7a06ab77-6105-5e92-95d7-a784582be0c3"
+        },
+        "061789bd-1f49-5402-a242-b760119fc9b7": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Darcy was the mean one, she should apologize!",
+            "previous": "7a06ab77-6105-5e92-95d7-a784582be0c3",
+            "next": "00736f7a-cff0-5ee7-819e-c1a938fb11ad"
+        },
+        "88a84eeb-3416-5b1b-b878-e0c586284053": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "What you just said was not very nice.",
+            "previous": "b8f699e6-0557-530c-86b6-f95273493651",
+            "next": "6bea222c-5ac5-55a5-b52e-ec2a8dfc59ca"
+        },
+        "3cf338bd-7a09-57d0-823b-7883413ed6b1": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "My turn!",
+            "previous": "8c40e65f-32bf-5b74-8ec4-57680624a6c4",
+            "next": "a701ded8-c901-532b-9ee9-84e602c4c13b"
+        },
+        "e8dff9ea-f805-56dd-b07b-7d6e72e195af": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "But you were mean to her then as well.",
+            "previous": "6bea222c-5ac5-55a5-b52e-ec2a8dfc59ca",
+            "next": "41ff88ec-4be1-5651-a691-8ee017e0cd97"
+        },
+        "be142cd7-737a-59b5-90d0-84fa08310fbe": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Friends apologize when they do something mean. ",
+            "previous": "bb3a3b79-b91f-5740-9ecc-506433ff5497",
+            "next": "34a326e4-d6a5-5738-b00a-ca3e2b4d2c55"
+        },
+        "c878b033-a33d-53ad-812d-de555199be9c": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "I\u2019m sorry for saying you were bad at the tambourine, Emma.",
+            "previous": "6fadcbed-c202-52be-836a-fcb4cc19cee2",
+            "next": "55f76da0-8011-5c68-9606-4da0776a1c70"
+        },
+        "55f76da0-8011-5c68-9606-4da0776a1c70": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "That wasn\u2019t very nice of me.",
+            "previous": "2ff95ac8-ce6e-5d9a-a04b-d11c2667b9cd",
+            "next": "faacdea8-ce4b-57bd-b3bf-ab32909d8133"
+        },
+        "d302acbf-7c6b-52a1-ae35-e3cbb29690d0": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": " Let\u2019s rewind and try that again.",
+            "previous": "e4834c23-1e16-58d6-9e5a-55c4a9a73645",
+            "next": "68c64567-82c0-5726-adc3-3ed6a332fd9c"
+        },
+        "3bf832a0-7411-5484-9ba2-ff6f6a7807a6": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "You handled that situation with grace, and apologized like a pro!",
+            "previous": "27bd70d7-5935-5da8-80b3-2949732b81df",
+            "next": "97d163b7-923b-587d-8242-eb90a7edb23c"
+        },
+        "97d163b7-923b-587d-8242-eb90a7edb23c": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Let\u2019s get on with music day, shall we?",
+            "previous": "a1adbfa4-e1e6-501b-85a6-39f881dcbbc7",
+            "next": "f210fcc5-cd56-5dbb-91fc-6a0812701c8c"
+        },
+        "4f7e8073-cdd2-5219-b259-53154844d046": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Well, let's just get on with music day then.",
+            "previous": "68c64567-82c0-5726-adc3-3ed6a332fd9c",
+            "next": "ed28d55e-5801-5afb-bd5f-660033bac227"
+        },
+        "ed28d55e-5801-5afb-bd5f-660033bac227": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Oh... okay then.",
+            "previous": "4f7e8073-cdd2-5219-b259-53154844d046",
+            "next": "ede49c8e-9b34-564f-82e0-301a2fa55fcd"
+        },
+        "ede49c8e-9b34-564f-82e0-301a2fa55fcd": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Darcy, I noticed that you haven't apologized to Emma.",
+            "previous": "ed28d55e-5801-5afb-bd5f-660033bac227",
+            "next": "013d264f-30cd-5e0c-b740-b9d7da085bdb"
+        },
+        "013d264f-30cd-5e0c-b740-b9d7da085bdb": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "I thought we could just get on with the day...",
+            "previous": "ede49c8e-9b34-564f-82e0-301a2fa55fcd",
+            "next": "26df9700-7145-51fa-a44f-3a1f54eacc7c"
+        },
+        "26df9700-7145-51fa-a44f-3a1f54eacc7c": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Darcy, ignoring our mistakes doesn't make them disappear.",
+            "previous": "013d264f-30cd-5e0c-b740-b9d7da085bdb",
+            "next": "b2a3aa99-1905-5ae5-934b-352e2da8e922"
+        },
+        "b2a3aa99-1905-5ae5-934b-352e2da8e922": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "When we do something wrong, it's important to say sorry.",
+            "previous": "c31fe425-c30f-5202-a40c-8dcf50c6c4e0",
+            "next": "507e75d0-64a3-54e1-b801-9034590d7172"
+        },
+        "2a6f8ece-bd94-586f-85e0-5a118868c2f3": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "I guess you're right, Ms. Campbell...",
+            "previous": "b2a3aa99-1905-5ae5-934b-352e2da8e922",
+            "next": "8d2ebd88-a3c0-5865-aca0-761d53c60549"
+        },
+        "8d2ebd88-a3c0-5865-aca0-761d53c60549": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "I'm sorry for saying you would be terrible at the tambourine",
+            "previous": "2a6f8ece-bd94-586f-85e0-5a118868c2f3",
+            "next": "e4834c23-1e16-58d6-9e5a-55c4a9a73645"
+        },
+        "7137e3e7-3401-5491-8517-2d1a7893a6df": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "If everyone has chosen their instruments, let's start!",
+            "previous": "97d163b7-923b-587d-8242-eb90a7edb23c",
+            "next": "0015e4cf-fa2e-55ea-b1b2-10097869f963"
+        },
+        "0015e4cf-fa2e-55ea-b1b2-10097869f963": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Tom, you're playing too loud!",
+            "previous": "7137e3e7-3401-5491-8517-2d1a7893a6df",
+            "next": "22fcf488-3a71-53ee-95a2-9fd70d69399b"
+        },
+        "22fcf488-3a71-53ee-95a2-9fd70d69399b": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "I can't hear myself!",
+            "previous": "0015e4cf-fa2e-55ea-b1b2-10097869f963",
+            "next": "87aba87c-e4e6-5a1b-b8aa-fe50f72af2ed"
+        },
+        "87aba87c-e4e6-5a1b-b8aa-fe50f72af2ed": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Sorry Darcy, I didn't realize.",
+            "previous": "22fcf488-3a71-53ee-95a2-9fd70d69399b",
+            "next": "85bfb754-1139-50e3-a5ef-9976ac696c1c"
+        },
+        "85bfb754-1139-50e3-a5ef-9976ac696c1c": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Well you should have. ",
+            "previous": "87aba87c-e4e6-5a1b-b8aa-fe50f72af2ed",
+            "next": "f2569902-7b48-5290-8cee-02cb9b31e12e"
+        },
+        "f2569902-7b48-5290-8cee-02cb9b31e12e": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "You're so selfish!",
+            "previous": "85bfb754-1139-50e3-a5ef-9976ac696c1c",
+            "next": "e09b30db-c28e-5a59-8b77-f3dc3dcc52a5"
+        },
+        "e09b30db-c28e-5a59-8b77-f3dc3dcc52a5": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Tom should have known better.",
+            "previous": "f2569902-7b48-5290-8cee-02cb9b31e12e",
+            "next": "65177b32-2b6b-550e-8104-e456802bf2ed"
+        },
+        "65177b32-2b6b-550e-8104-e456802bf2ed": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "You should apologize",
+            "previous": "e09b30db-c28e-5a59-8b77-f3dc3dcc52a5",
+            "next": "b5da4a39-ae96-50d7-9f98-2ff67294dcc9"
+        },
+        "b5da4a39-ae96-50d7-9f98-2ff67294dcc9": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Say \"I'm sorry, but you were too loud, Tom\"",
+            "previous": "65177b32-2b6b-550e-8104-e456802bf2ed",
+            "next": "8ff23661-e2cd-550f-996a-46247215137a"
+        },
+        "8ff23661-e2cd-550f-996a-46247215137a": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Darcy, that's not right.",
+            "previous": "b5da4a39-ae96-50d7-9f98-2ff67294dcc9",
+            "next": "a84a83b8-ae14-5667-8913-90ff80051ba2"
+        },
+        "a84a83b8-ae14-5667-8913-90ff80051ba2": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "You need to say sorry without any 'buts'.",
+            "previous": "8ff23661-e2cd-550f-996a-46247215137a",
+            "next": "905214ee-29d2-51e8-ab1f-1c30740d68d0"
+        },
+        "905214ee-29d2-51e8-ab1f-1c30740d68d0": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "You should say, \"I'm sorry for calling you selfish, Tom.\"",
+            "previous": "a84a83b8-ae14-5667-8913-90ff80051ba2",
+            "next": "d336af07-0861-5595-bccf-b440b93b1bf6"
+        },
+        "d336af07-0861-5595-bccf-b440b93b1bf6": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Tom already apologized, so let\u2019s just move on.",
+            "previous": "905214ee-29d2-51e8-ab1f-1c30740d68d0",
+            "next": "68c64567-82c0-5726-adc3-3ed6a332fd9c"
+        },
+        "c48060ca-e5eb-53a6-8f85-9026ebe2d85d": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Tom, I'm sorry, but you were playing too loud.",
+            "previous": "68c64567-82c0-5726-adc3-3ed6a332fd9c",
+            "next": "860dc051-e0b7-5270-919c-68cf804a503f"
+        },
+        "860dc051-e0b7-5270-919c-68cf804a503f": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "That doesn't feel like a real apology, Darcy.",
+            "previous": "c48060ca-e5eb-53a6-8f85-9026ebe2d85d",
+            "next": "0a712bd4-8196-5302-8396-3a7172f5054e"
+        },
+        "0a712bd4-8196-5302-8396-3a7172f5054e": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Darcy, there are no \"but's\" in apologies.",
+            "previous": "860dc051-e0b7-5270-919c-68cf804a503f",
+            "next": "c563291b-7887-58e7-97f5-67896bedbf08"
+        },
+        "c563291b-7887-58e7-97f5-67896bedbf08": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "A real apology has no excuses",
+            "previous": "0a712bd4-8196-5302-8396-3a7172f5054e",
+            "next": "e4834c23-1e16-58d6-9e5a-55c4a9a73645"
+        },
+        "46686944-548f-5639-b0ad-39e89d8c7f74": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Tom, I'm sorry for calling you selfish.",
+            "previous": "68c64567-82c0-5726-adc3-3ed6a332fd9c",
+            "next": "8cf59583-08c0-5563-861a-cfab0717f250"
+        },
+        "8cf59583-08c0-5563-861a-cfab0717f250": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "That wasn't very nice of me",
+            "previous": "46686944-548f-5639-b0ad-39e89d8c7f74",
+            "next": "8106418c-d8d9-5fac-8fbc-57ad0ba48358"
+        },
+        "8106418c-d8d9-5fac-8fbc-57ad0ba48358": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Thanks, Darcy. ",
+            "previous": "8cf59583-08c0-5563-861a-cfab0717f250",
+            "next": "eb9add9d-4700-56f6-bab1-2ac6575fb4ee"
+        },
+        "eb9add9d-4700-56f6-bab1-2ac6575fb4ee": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "I appreciate your apology.",
+            "previous": "8106418c-d8d9-5fac-8fbc-57ad0ba48358",
+            "next": "27bd70d7-5935-5da8-80b3-2949732b81df"
+        },
+        "a1adbfa4-e1e6-501b-85a6-39f881dcbbc7": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "You handled that situation wonderfully.",
+            "previous": "27bd70d7-5935-5da8-80b3-2949732b81df",
+            "next": "97d163b7-923b-587d-8242-eb90a7edb23c"
+        },
+        "5cc36e6e-dd87-52ff-b0b7-4e7f8c0ccc2c": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Darcy, I noticed that you haven't apologized to Tom.",
+            "previous": "68c64567-82c0-5726-adc3-3ed6a332fd9c",
+            "next": "2261f6d2-485a-5aa8-84b4-0cebdb792335"
+        },
+        "2261f6d2-485a-5aa8-84b4-0cebdb792335": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "No, Tom was supposed to apologize to me!",
+            "previous": "5cc36e6e-dd87-52ff-b0b7-4e7f8c0ccc2c",
+            "next": "43a7b3e7-438b-5234-bce3-df19d7ee2cda"
+        },
+        "43a7b3e7-438b-5234-bce3-df19d7ee2cda": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Darcy, you called Tom selfish.",
+            "previous": "2261f6d2-485a-5aa8-84b4-0cebdb792335",
+            "next": "c31fe425-c30f-5202-a40c-8dcf50c6c4e0"
+        },
+        "c31fe425-c30f-5202-a40c-8dcf50c6c4e0": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Its your turn to apologize as well.",
+            "previous": "43a7b3e7-438b-5234-bce3-df19d7ee2cda",
+            "next": "b2a3aa99-1905-5ae5-934b-352e2da8e922"
+        },
+        "507e75d0-64a3-54e1-b801-9034590d7172": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "I guess you're right, Ms. Campbell",
+            "previous": "b2a3aa99-1905-5ae5-934b-352e2da8e922",
+            "next": "a1aa1e28-41c8-5c4c-b70f-b54fd583a3b6"
+        },
+        "a1aa1e28-41c8-5c4c-b70f-b54fd583a3b6": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "I'm sorry for calling you selfish, Tom",
+            "previous": "507e75d0-64a3-54e1-b801-9034590d7172",
+            "next": "e4834c23-1e16-58d6-9e5a-55c4a9a73645"
+        },
+        "f210fcc5-cd56-5dbb-91fc-6a0812701c8c": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Darcy, why aren't you playing your part?",
+            "previous": "97d163b7-923b-587d-8242-eb90a7edb23c",
+            "next": "2cb993db-aa81-5ad8-b063-619b6684510c"
+        },
+        "2cb993db-aa81-5ad8-b063-619b6684510c": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "I wanted to the play the tambourine, not the flute!",
+            "previous": "f210fcc5-cd56-5dbb-91fc-6a0812701c8c",
+            "next": "af2587fd-139d-5bd5-84d4-1cae52ef8576"
+        },
+        "af2587fd-139d-5bd5-84d4-1cae52ef8576": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "People who play the flute are boring.",
+            "previous": "2cb993db-aa81-5ad8-b063-619b6684510c",
+            "next": "34e943e1-3772-5c42-a4ee-c2b23b646e09"
+        },
+        "34e943e1-3772-5c42-a4ee-c2b23b646e09": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "I wanna rock out!",
+            "previous": "af2587fd-139d-5bd5-84d4-1cae52ef8576",
+            "next": "6514a5e0-beb3-578d-ad18-6d4d09d2f42c"
+        },
+        "6514a5e0-beb3-578d-ad18-6d4d09d2f42c": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "[Emma looks sad]",
+            "previous": "34e943e1-3772-5c42-a4ee-c2b23b646e09",
+            "next": "64fa32a3-2c41-518a-b0a2-8cf8f2ce5aaf"
+        },
+        "64fa32a3-2c41-518a-b0a2-8cf8f2ce5aaf": {
+            "ending": "yes",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "What should Darcy say to Emma?",
+            "previous": "6514a5e0-beb3-578d-ad18-6d4d09d2f42c"
+        }
+    },
+    "startNode": "23249031-1002-527c-931b-3f832d62003e"
+}
