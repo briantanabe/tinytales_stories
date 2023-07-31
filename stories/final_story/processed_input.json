@@ -38,7 +38,10 @@
             "previous": "49db0e61-0fca-5947-a560-64857d201852",
             "next": "5a1ae6dd-bbc2-50ee-b9ca-c9d2e71caa03",
             "speaker": "darcy",
-            "background": "car"
+            "background": "car",
+            "characters": {
+                "darcy": "10"
+            }
         },
         "5a1ae6dd-bbc2-50ee-b9ca-c9d2e71caa03": {
             "ending": "no",
@@ -77,12 +80,12 @@
             "speaker": "campbell",
             "background": "classroom",
             "characters": {
-                "darcy": "1",
-                "tom": "2",
+                "darcy": "-1",
+                "tom": "1",
                 "varun": "3",
-                "jessica": "4",
-                "ariel": "5",
-                "campbell": "7"
+                "jessica": "5",
+                "ariel": "7",
+                "campbell": "10"
             }
         },
         "b8ee356a-99a9-5c81-8b3d-1fca7133d492": {
@@ -117,7 +120,7 @@
             "background": "classroom_close_1",
             "characters": {
                 "darcy": "1",
-                "tom": "2"
+                "tom": "3"
             },
             "emotions": {
                 "darcy": "sad"
@@ -172,14 +175,14 @@
             "decisionPoint": "no",
             "text": "Tom was so rude to you Darcy! ",
             "previous": "bb12e981-e525-592b-82b7-c26d20aefa0d",
-            "next": "0303a3b8-69e4-5e23-8c96-a84f84e9c3ad",
+            "next": "93d6f2e0-8b93-5330-8775-bba2e6e1c3c1",
             "speaker": "varun",
             "background": "classroom_close_2",
             "characters": {
-                "darcy": "2",
-                "varun": "4",
+                "darcy": "1",
+                "varun": "3",
                 "jessica": "5",
-                "ariel": "6"
+                "ariel": "7"
             },
             "emotions": {
                 "darcy": "angry"
@@ -190,7 +193,7 @@
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "What are you talking about, Varun?",
-            "previous": "0303a3b8-69e4-5e23-8c96-a84f84e9c3ad",
+            "previous": "93d6f2e0-8b93-5330-8775-bba2e6e1c3c1",
             "next": "061789bd-1f49-5402-a242-b760119fc9b7",
             "speaker": "jessica"
         },
@@ -236,7 +239,7 @@
             "speaker": "darcy",
             "background": "classroom_close_1",
             "characters": {
-                "tom": "2",
+                "tom": "1",
                 "darcy": "3"
             }
         },
@@ -374,7 +377,7 @@
             "characters": {
                 "doughnut": "2",
                 "egg": "5",
-                "apple": "8"
+                "apple": "9"
             }
         },
         "9e33daa7-0f8c-5903-9c51-5f478b4bf31e": {
@@ -458,11 +461,11 @@
             "next": "3fadd166-3c11-5958-977c-b699baa53ce0",
             "speaker": "darcy"
         },
-        "0303a3b8-69e4-5e23-8c96-a84f84e9c3ad": {
+        "93d6f2e0-8b93-5330-8775-bba2e6e1c3c1": {
             "ending": "no",
             "collect_response": "no",
             "decisionPoint": "no",
-            "text": "You should just take the tambourine from her when she messes up.",
+            "text": "You should just take the tambourine from him when she messes up.",
             "previous": "3fadd166-3c11-5958-977c-b699baa53ce0",
             "next": "7a06ab77-6105-5e92-95d7-a784582be0c3",
             "speaker": "varun",
@@ -634,12 +637,12 @@
             "speaker": "campbell",
             "background": "classroom",
             "characters": {
-                "darcy": "1",
-                "tom": "2",
+                "darcy": "-1",
+                "tom": "1",
                 "varun": "3",
-                "jessica": "4",
-                "ariel": "5",
-                "campbell": "7"
+                "jessica": "5",
+                "ariel": "7",
+                "campbell": "10"
             }
         },
         "0015e4cf-fa2e-55ea-b1b2-10097869f963": {
@@ -864,12 +867,12 @@
             "next": "2cb993db-aa81-5ad8-b063-619b6684510c",
             "speaker": "campbell",
             "characters": {
-                "darcy": "1",
-                "tom": "2",
+                "darcy": "-1",
+                "tom": "1",
                 "varun": "3",
-                "jessica": "4",
-                "ariel": "5",
-                "campbell": "7"
+                "jessica": "5",
+                "ariel": "7",
+                "campbell": "10"
             }
         },
         "2cb993db-aa81-5ad8-b063-619b6684510c": {
