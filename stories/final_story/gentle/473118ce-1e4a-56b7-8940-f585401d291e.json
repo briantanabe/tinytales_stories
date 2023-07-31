@@ -1,0 +1,146 @@
+{
+  "transcript": "Should I take the tambourine from Tom",
+  "words": [
+    {
+      "alignedWord": "should",
+      "case": "success",
+      "end": 0.32,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "Should"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.52,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.32,
+      "startOffset": 7,
+      "word": "I"
+    },
+    {
+      "alignedWord": "take",
+      "case": "success",
+      "end": 0.81,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.55,
+      "startOffset": 9,
+      "word": "take"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.93,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.81,
+      "startOffset": 14,
+      "word": "the"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.4,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.47,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.93,
+      "startOffset": 18,
+      "word": "tambourine"
+    },
+    {
+      "alignedWord": "from",
+      "case": "success",
+      "end": 1.6099999999999999,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.41,
+      "startOffset": 29,
+      "word": "from"
+    },
+    {
+      "alignedWord": "tom",
+      "case": "success",
+      "end": 1.7000000000000002,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 34,
+      "word": "Tom"
+    }
+  ]
+}

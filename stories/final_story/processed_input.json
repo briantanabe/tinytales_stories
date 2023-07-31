@@ -40,7 +40,7 @@
             "speaker": "darcy",
             "background": "car",
             "characters": {
-                "darcy": "10"
+                "darcy": "8"
             }
         },
         "5a1ae6dd-bbc2-50ee-b9ca-c9d2e71caa03": {
@@ -80,11 +80,11 @@
             "speaker": "campbell",
             "background": "classroom",
             "characters": {
-                "darcy": "-1",
-                "tom": "1",
-                "varun": "3",
-                "jessica": "5",
-                "ariel": "7",
+                "darcy": "1",
+                "tom": "3",
+                "varun": "5",
+                "jessica": "7",
+                "ariel": "9",
                 "campbell": "10"
             }
         },
@@ -179,13 +179,13 @@
             "speaker": "varun",
             "background": "classroom_close_2",
             "characters": {
-                "darcy": "1",
-                "varun": "3",
-                "jessica": "5",
-                "ariel": "7"
+                "varun": "1",
+                "jessica": "3",
+                "ariel": "5",
+                "darcy": "7"
             },
             "emotions": {
-                "darcy": "angry"
+                "darcy": "normal"
             }
         },
         "7a06ab77-6105-5e92-95d7-a784582be0c3": {
@@ -203,29 +203,29 @@
             "decisionPoint": "no",
             "text": "I think we should just get on with music day and forget about it.",
             "previous": "061789bd-1f49-5402-a242-b760119fc9b7",
-            "next": "a81ada9c-df2f-575f-bdf5-1b644d457c3e",
+            "next": "30835431-2bc9-5b44-a09c-816aa5e4e4d7",
             "speaker": "ariel"
         },
-        "a81ada9c-df2f-575f-bdf5-1b644d457c3e": {
+        "30835431-2bc9-5b44-a09c-816aa5e4e4d7": {
             "ending": "no",
             "collect_response": "no",
             "decisionPoint": "yes",
-            "text": "What should I do?",
-            "previous": "d336af07-0861-5595-bccf-b440b93b1bf6",
+            "text": "Who should I agree with?",
+            "previous": "00736f7a-cff0-5ee7-819e-c1a938fb11ad",
             "next": [
-                "c48060ca-e5eb-53a6-8f85-9026ebe2d85d",
-                "46686944-548f-5639-b0ad-39e89d8c7f74",
-                "5cc36e6e-dd87-52ff-b0b7-4e7f8c0ccc2c"
+                "2403f414-41c7-5d15-a4b6-c1fec9fc97ad",
+                "67f9d5a3-a750-5b09-9431-97a4f945e89b",
+                "4f7e8073-cdd2-5219-b259-53154844d046"
             ],
             "options": [
-                "varun",
-                "jessica",
-                "ariel"
+                "Should I take the tambourine from Tom",
+                "Should I apologize to Tom",
+                "Or should I just move on"
             ],
             "optionIDs": [
-                "c8a40313-8029-52ff-8a3f-8faca137e51a",
-                "029e04ee-c7aa-5f54-b2de-0b16b7c269bc",
-                "6058329a-7c47-56b5-84d1-3c55165f6b61"
+                "473118ce-1e4a-56b7-8940-f585401d291e",
+                "a075a3d3-8d88-5f26-9a6f-daa2ab4f7b1e",
+                "3aab895f-b912-5740-9ba6-6d169b0253f1"
             ],
             "speaker": "darcy"
         },
@@ -234,7 +234,7 @@
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "You\u2019re terrible at the tambourine!",
-            "previous": "a81ada9c-df2f-575f-bdf5-1b644d457c3e",
+            "previous": "30835431-2bc9-5b44-a09c-816aa5e4e4d7",
             "next": "3cf338bd-7a09-57d0-823b-7883413ed6b1",
             "speaker": "darcy",
             "background": "classroom_close_1",
@@ -316,7 +316,7 @@
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "Hey Tom",
-            "previous": "a81ada9c-df2f-575f-bdf5-1b644d457c3e",
+            "previous": "30835431-2bc9-5b44-a09c-816aa5e4e4d7",
             "next": "52c35869-e6a6-57c1-9ea1-b43228b7ee5d",
             "speaker": "darcy",
             "background": "classroom_close_1",
@@ -568,7 +568,7 @@
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "Well, let's just get on with music day then.",
-            "previous": "a81ada9c-df2f-575f-bdf5-1b644d457c3e",
+            "previous": "30835431-2bc9-5b44-a09c-816aa5e4e4d7",
             "next": "ed28d55e-5801-5afb-bd5f-660033bac227",
             "speaker": "darcy",
             "background": "classroom_close_1",
@@ -637,12 +637,10 @@
             "speaker": "campbell",
             "background": "classroom",
             "characters": {
-                "darcy": "-1",
-                "tom": "1",
-                "varun": "3",
-                "jessica": "5",
-                "ariel": "7",
-                "campbell": "10"
+                "varun": "1",
+                "jessica": "3",
+                "ariel": "5",
+                "darcy": "7"
             }
         },
         "0015e4cf-fa2e-55ea-b1b2-10097869f963": {
@@ -750,6 +748,29 @@
             "previous": "905214ee-29d2-51e8-ab1f-1c30740d68d0",
             "next": "a81ada9c-df2f-575f-bdf5-1b644d457c3e",
             "speaker": "ariel"
+        },
+        "a81ada9c-df2f-575f-bdf5-1b644d457c3e": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "yes",
+            "text": "What should I do?",
+            "previous": "d336af07-0861-5595-bccf-b440b93b1bf6",
+            "next": [
+                "c48060ca-e5eb-53a6-8f85-9026ebe2d85d",
+                "46686944-548f-5639-b0ad-39e89d8c7f74",
+                "5cc36e6e-dd87-52ff-b0b7-4e7f8c0ccc2c"
+            ],
+            "options": [
+                "varun",
+                "jessica",
+                "ariel"
+            ],
+            "optionIDs": [
+                "c8a40313-8029-52ff-8a3f-8faca137e51a",
+                "029e04ee-c7aa-5f54-b2de-0b16b7c269bc",
+                "6058329a-7c47-56b5-84d1-3c55165f6b61"
+            ],
+            "speaker": "darcy"
         },
         "c48060ca-e5eb-53a6-8f85-9026ebe2d85d": {
             "ending": "no",
@@ -867,11 +888,11 @@
             "next": "2cb993db-aa81-5ad8-b063-619b6684510c",
             "speaker": "campbell",
             "characters": {
-                "darcy": "-1",
-                "tom": "1",
-                "varun": "3",
-                "jessica": "5",
-                "ariel": "7",
+                "darcy": "1",
+                "tom": "3",
+                "varun": "5",
+                "jessica": "7",
+                "ariel": "9",
                 "campbell": "10"
             }
         },

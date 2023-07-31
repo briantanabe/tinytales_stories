@@ -108,7 +108,7 @@
       ],
       "properties": {
         "background": "car",
-        "characters": "darcy:10"
+        "characters": "darcy:8"
       },
       "style": {}
     },
@@ -163,7 +163,7 @@
       ],
       "properties": {
         "background": "classroom",
-        "characters": "darcy:-1,tom:1,varun:3,jessica:5,ariel:7,campbell:10"
+        "characters": "darcy:1,tom:3,varun:5,jessica:7,ariel:9,campbell:10"
       },
       "style": {}
     },
@@ -280,8 +280,8 @@
       ],
       "properties": {
         "background": "classroom_close_2",
-        "characters": "darcy:1,varun:3,jessica:5,ariel:7",
-        "emotions": "darcy:angry"
+        "characters": "varun:1,jessica:3,ariel:5,darcy:7",
+        "emotions": "darcy:normal"
       },
       "style": {}
     },
@@ -317,7 +317,7 @@
         "x": 694.5296263052387,
         "y": 749.1202455612238
       },
-      "caption": "What should I do?",
+      "caption": "Who should I agree with?",
       "labels": [
         "darcy"
       ],
@@ -864,7 +864,7 @@
       ],
       "properties": {
         "background": "classroom",
-        "characters": "darcy:-1,tom:1,varun:3,jessica:5,ariel:7,campbell:10"
+        "characters": "varun:1,jessica:3,ariel:5,darcy:7"
       },
       "style": {}
     },
@@ -1213,7 +1213,7 @@
         "campbell"
       ],
       "properties": {
-        "characters": "darcy:-1,tom:1,varun:3,jessica:5,ariel:7,campbell:10"
+        "characters": "darcy:1,tom:3,varun:5,jessica:7,ariel:9,campbell:10"
       },
       "style": {}
     },
@@ -1493,11 +1493,11 @@
     },
     {
       "id": "n20",
-      "fromId": "n23",
-      "toId": "n24",
-      "type": "varu ",
+      "type": "Should I take the tambourine from Tom",
+      "style": {},
       "properties": {},
-      "style": {}
+      "fromId": "n23",
+      "toId": "n24"
     },
     {
       "id": "n22",
@@ -1525,11 +1525,11 @@
     },
     {
       "id": "n30",
-      "fromId": "n23",
-      "toId": "n33",
-      "type": "jessica",
+      "type": "Should I apologize to Tom",
+      "style": {},
       "properties": {},
-      "style": {}
+      "fromId": "n23",
+      "toId": "n33"
     },
     {
       "id": "n32",
@@ -1800,14 +1800,6 @@
       "fromId": "n57",
       "toId": "n34",
       "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n75",
-      "fromId": "n23",
-      "toId": "n60",
-      "type": "ariel",
       "properties": {},
       "style": {}
     },
@@ -2282,6 +2274,14 @@
       "type": "",
       "properties": {},
       "style": {}
+    },
+    {
+      "id": "n155",
+      "type": "Or should I just move on",
+      "style": {},
+      "properties": {},
+      "fromId": "n23",
+      "toId": "n60"
     }
   ]
 }
