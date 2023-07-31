@@ -6,7 +6,11 @@
             "decisionPoint": "no",
             "text": "Hi! I\u2019m Darcy, nice to meet you! ",
             "next": "23c54a53-b812-5c32-a326-a6b2b08805aa",
-            "background": "test"
+            "background": "test",
+            "characters": {
+                "darcy": "1",
+                "tom": "3"
+            }
         },
         "23c54a53-b812-5c32-a326-a6b2b08805aa": {
             "ending": "no",

@@ -89,6 +89,11 @@ def convert_arrow_json(input_file, output_file):
         if node['properties'] and node['properties']['background']:
             node_data["background"] = node['properties']['background']
         
+        if node['properties'] and node['properties']['characters']:
+            node_data["characters"] = {}
+            for character in node['properties']['characters'].split(','):
+                node_data["characters"][character.split(':')[0]] = character.split(':')[1]
+        
     output_data = {'nodes': nodes}
     if start_node:
         output_data['startNode'] = start_node

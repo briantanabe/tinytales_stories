@@ -64,7 +64,8 @@
         "start"
       ],
       "properties": {
-        "background": "test"
+        "background": "test",
+        "characters": "darcy:1,tom:3"
       },
       "style": {}
     },
