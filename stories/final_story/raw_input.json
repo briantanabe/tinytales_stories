@@ -272,7 +272,7 @@
       ],
       "properties": {
         "background": "classroom_close_2",
-        "characters": "darcy:2, varun:4,jessica:5,ariel:6"
+        "characters": "darcy:2,varun:4,jessica:5,ariel:6"
       },
       "style": {}
     },
@@ -490,7 +490,7 @@
         "darcy"
       ],
       "properties": {
-        "characters": "darcy:2,doughnut:3,egg:4,apple:5"
+        "characters": "doughnut:2,egg:3,apple:4"
       },
       "style": {}
     },
@@ -1266,7 +1266,9 @@
       "labels": [
         "darcy"
       ],
-      "properties": {},
+      "properties": {
+        "characters": "darcy:2"
+      },
       "style": {}
     },
     {
@@ -1279,7 +1281,9 @@
       "labels": [
         "darcy"
       ],
-      "properties": {},
+      "properties": {
+        "characters": "darcy:2"
+      },
       "style": {}
     },
     {
@@ -1292,7 +1296,9 @@
       "labels": [
         "darcy"
       ],
-      "properties": {},
+      "properties": {
+        "characters": "darcy:2"
+      },
       "style": {}
     },
     {

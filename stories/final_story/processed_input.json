@@ -164,7 +164,7 @@
             "background": "classroom_close_2",
             "characters": {
                 "darcy": "2",
-                " varun": "4",
+                "varun": "4",
                 "jessica": "5",
                 "ariel": "6"
             }
@@ -356,10 +356,9 @@
             ],
             "speaker": "darcy",
             "characters": {
-                "darcy": "2",
-                "doughnut": "3",
-                "egg": "4",
-                "apple": "5"
+                "doughnut": "2",
+                "egg": "3",
+                "apple": "4"
             }
         },
         "9e33daa7-0f8c-5903-9c51-5f478b4bf31e": {
@@ -892,7 +891,10 @@
             "text": "Great choice, thanks!",
             "previous": "d1c35e3a-d5cb-5830-81dc-75d015f90a76",
             "next": "49db0e61-0fca-5947-a560-64857d201852",
-            "speaker": "darcy"
+            "speaker": "darcy",
+            "characters": {
+                "darcy": "2"
+            }
         },
         "4b2cfa1d-36a0-52a3-9056-10e58c7afd22": {
             "ending": "no",
