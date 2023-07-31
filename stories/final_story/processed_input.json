@@ -5,7 +5,8 @@
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "Hi! I\u2019m Darcy, nice to meet you! ",
-            "next": "23c54a53-b812-5c32-a326-a6b2b08805aa"
+            "next": "23c54a53-b812-5c32-a326-a6b2b08805aa",
+            "background": "test"
         },
         "23c54a53-b812-5c32-a326-a6b2b08805aa": {
             "ending": "no",
@@ -178,11 +179,13 @@
             ],
             "options": [
                 "Varun",
-                "Jessica"
+                "Jessica",
+                "Ariel"
             ],
             "optionIDs": [
                 "c8a40313-8029-52ff-8a3f-8faca137e51a",
-                "029e04ee-c7aa-5f54-b2de-0b16b7c269bc"
+                "029e04ee-c7aa-5f54-b2de-0b16b7c269bc",
+                "6058329a-7c47-56b5-84d1-3c55165f6b61"
             ]
         },
         "8c40e65f-32bf-5b74-8ec4-57680624a6c4": {

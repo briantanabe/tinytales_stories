@@ -63,7 +63,9 @@
       "labels": [
         "start"
       ],
-      "properties": {},
+      "properties": {
+        "background": "test"
+      },
       "style": {}
     },
     {
@@ -942,9 +944,9 @@
         "y": 1767.308761321484
       },
       "caption": "Tom already apologized, so let’s just move on.",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n81",
@@ -953,9 +955,9 @@
         "y": 1767.308761321484
       },
       "caption": "What should Darcy do?",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n82",
@@ -964,9 +966,9 @@
         "y": 2168.330662522696
       },
       "caption": "Tom, I'm sorry, but you were playing too loud.",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n83",
@@ -975,9 +977,9 @@
         "y": 2168.330662522696
       },
       "caption": "That doesn't feel like a real apology, Darcy.",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n84",
@@ -986,9 +988,9 @@
         "y": 2168.330662522696
       },
       "caption": "Darcy, there are no \"but's\" in apologies.",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n85",
@@ -997,9 +999,9 @@
         "y": 2168.330662522696
       },
       "caption": "A real apology has no excuses",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n86",
@@ -1030,9 +1032,9 @@
         "y": 2605.822982353895
       },
       "caption": "Tom, I'm sorry for calling you selfish.",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n89",
@@ -1041,9 +1043,9 @@
         "y": 2605.822982353895
       },
       "caption": "That wasn't very nice of me",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n90",
@@ -1052,9 +1054,9 @@
         "y": 2605.822982353895
       },
       "caption": "Thanks, Darcy. ",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n91",
@@ -1063,9 +1065,9 @@
         "y": 2605.822982353895
       },
       "caption": "I appreciate your apology.",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n92",
@@ -1074,9 +1076,9 @@
         "y": 2605.822982353895
       },
       "caption": "That was lovely to watch!",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n93",
@@ -1085,9 +1087,9 @@
         "y": 2605.822982353895
       },
       "caption": "You handled that situation wonderfully.",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n94",
@@ -1096,9 +1098,9 @@
         "y": 2605.822982353895
       },
       "caption": "Let’s get on with music day, shall we?",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n95",
@@ -1107,9 +1109,9 @@
         "y": 2317.461210731753
       },
       "caption": "Darcy, I noticed that you haven't apologized to Tom.",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n96",
@@ -1118,9 +1120,9 @@
         "y": 2317.461210731753
       },
       "caption": "No, Tom was supposed to apologize to me!",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n97",
@@ -1129,9 +1131,9 @@
         "y": 2317.461210731753
       },
       "caption": "Darcy, you called Tom selfish.",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n98",
@@ -1140,9 +1142,9 @@
         "y": 2317.461210731753
       },
       "caption": "Its your turn to apologize as well.",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n99",
@@ -1151,9 +1153,9 @@
         "y": 2317.461210731753
       },
       "caption": "When we do something wrong, it's important to say sorry.",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n100",
@@ -1162,9 +1164,9 @@
         "y": 2317.461210731753
       },
       "caption": "I guess you're right, Ms. Campbell",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n101",
@@ -1173,9 +1175,9 @@
         "y": 2317.461210731753
       },
       "caption": "I'm sorry for calling you selfish, Tom",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n102",
@@ -1184,9 +1186,9 @@
         "y": 2923.1907588462427
       },
       "caption": "Darcy, why aren't you playing your part?",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n103",
@@ -1195,9 +1197,9 @@
         "y": 2923.1907588462427
       },
       "caption": "I wanted to the play the tambourine, not the flute!",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n104",
@@ -1206,9 +1208,9 @@
         "y": 2923.1907588462427
       },
       "caption": "People who play the flute are boring.",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n105",
@@ -1217,9 +1219,9 @@
         "y": 2923.1907561488442
       },
       "caption": "I wanna rock out!",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n106",
@@ -1228,9 +1230,9 @@
         "y": 2923.190753447472
       },
       "caption": "[Emma looks sad]",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n107",
@@ -1239,9 +1241,9 @@
         "y": 2923.1907507461
       },
       "caption": "What should Darcy say to Emma?",
-      "style": {},
       "labels": [],
-      "properties": {}
+      "properties": {},
+      "style": {}
     }
   ],
   "relationships": [
@@ -1871,243 +1873,243 @@
     },
     {
       "id": "n97",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n79",
-      "toId": "n80"
+      "toId": "n80",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n98",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n80",
-      "toId": "n81"
+      "toId": "n81",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n99",
-      "type": "Varun",
-      "style": {},
-      "properties": {},
       "fromId": "n81",
-      "toId": "n82"
+      "toId": "n82",
+      "type": "Varun",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n100",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n82",
-      "toId": "n83"
+      "toId": "n83",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n101",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n83",
-      "toId": "n84"
+      "toId": "n84",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n102",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n84",
-      "toId": "n85"
+      "toId": "n85",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n103",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n86",
-      "toId": "n81"
+      "toId": "n81",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n104",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n87",
-      "toId": "n86"
+      "toId": "n86",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n105",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n85",
-      "toId": "n87"
+      "toId": "n87",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n106",
-      "type": "Jessica",
-      "style": {},
-      "properties": {},
       "fromId": "n81",
-      "toId": "n88"
+      "toId": "n88",
+      "type": "Jessica",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n107",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n88",
-      "toId": "n89"
+      "toId": "n89",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n108",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n89",
-      "toId": "n90"
+      "toId": "n90",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n109",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n90",
-      "toId": "n91"
+      "toId": "n91",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n110",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n91",
-      "toId": "n92"
+      "toId": "n92",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n111",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n92",
-      "toId": "n93"
+      "toId": "n93",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n112",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n93",
-      "toId": "n94"
+      "toId": "n94",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n113",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n81",
-      "toId": "n95"
+      "toId": "n95",
+      "type": "Ariel",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n114",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n95",
-      "toId": "n96"
+      "toId": "n96",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n115",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n96",
-      "toId": "n97"
+      "toId": "n97",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n116",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n97",
-      "toId": "n98"
+      "toId": "n98",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n117",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n98",
-      "toId": "n99"
+      "toId": "n99",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n118",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n99",
-      "toId": "n100"
+      "toId": "n100",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n119",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n100",
-      "toId": "n101"
+      "toId": "n101",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n120",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n101",
-      "toId": "n87"
+      "toId": "n87",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n121",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n94",
-      "toId": "n102"
+      "toId": "n102",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n122",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n102",
-      "toId": "n103"
+      "toId": "n103",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n123",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n103",
-      "toId": "n104"
+      "toId": "n104",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n124",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n104",
-      "toId": "n105"
+      "toId": "n105",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n125",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n105",
-      "toId": "n106"
+      "toId": "n106",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n126",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n106",
-      "toId": "n107"
+      "toId": "n107",
+      "type": "",
+      "properties": {},
+      "style": {}
     }
   ]
 }
