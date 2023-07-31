@@ -13,7 +13,12 @@
         {
             "id": "final_story",
             "title": "Music Day!",
-            "version": 3
+            "version": 4
+        },
+        {
+            "id": "final_story",
+            "title": "Music Day",
+            "version": 1
         }
     ]
 }
