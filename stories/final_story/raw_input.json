@@ -326,7 +326,9 @@
         "y": 749.1202455612238
       },
       "caption": "Tom was so rude to you Darcy! ",
-      "labels": [],
+      "labels": [
+        "varun"
+      ],
       "properties": {
         "background": "classroom_close_2",
         "characters": "darcy:2, varun:4,jessica:5,ariel:6"
@@ -340,7 +342,9 @@
         "y": 749.1202455612238
       },
       "caption": "What are you talking about, Varun?",
-      "labels": [],
+      "labels": [
+        "jessica"
+      ],
       "properties": {},
       "style": {}
     },
@@ -351,7 +355,9 @@
         "y": 749.1202455612238
       },
       "caption": "I think we should just get on with music day and forget about it.",
-      "labels": [],
+      "labels": [
+        "ariel"
+      ],
       "properties": {},
       "style": {}
     },
@@ -532,10 +538,8 @@
         "x": 463.01975087015916,
         "y": -9.71031490350905e-14
       },
-      "caption": "Can you help me pick out a t-shirt so I can get ready?",
-      "labels": [
-        "darcy"
-      ],
+      "caption": "Can you help Darcy pick out a t-shirt?",
+      "labels": [],
       "properties": {},
       "style": {}
     },
@@ -663,7 +667,9 @@
         "y": 749.1202455612238
       },
       "caption": "You should just take the tambourine from her when she messes up.",
-      "labels": [],
+      "labels": [
+        "varun"
+      ],
       "properties": {},
       "style": {}
     },
@@ -674,7 +680,9 @@
         "y": 749.1202455612238
       },
       "caption": "Darcy was the mean one, she should apologize!",
-      "labels": [],
+      "labels": [
+        "jessica"
+      ],
       "properties": {},
       "style": {}
     },
