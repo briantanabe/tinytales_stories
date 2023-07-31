@@ -12,13 +12,8 @@
         },
         {
             "id": "final_story",
-            "title": "Music Day!",
-            "version": 4
-        },
-        {
-            "id": "final_story",
             "title": "Music Day",
-            "version": 1
+            "version": 2
         }
     ]
 }

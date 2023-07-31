@@ -361,20 +361,20 @@
                 "a98b099c-9269-5106-aa2d-efe4f1e79cce"
             ],
             "options": [
-                "egg",
-                "doughnut",
-                "apple"
+                "Should I have a doughnut",
+                "an egg",
+                "or an apple?"
             ],
             "optionIDs": [
-                "cd1edbdd-2006-5283-b5b9-ef43f745a4a1",
-                "0d40e4b3-8443-528a-b2e5-a74a638c4083",
-                "5082cf0a-9cf1-5150-be82-6fbeae20c158"
+                "e0d5ebc0-9adf-593d-9e54-dad7cb10fe66",
+                "0bec8560-5ed9-59c8-8b9e-13da98f48b63",
+                "ae51d5a8-982e-587d-a02e-63b2a06674f1"
             ],
             "speaker": "darcy",
             "characters": {
-                "doughnut": "1",
-                "egg": "3",
-                "apple": "5"
+                "doughnut": "2",
+                "egg": "5",
+                "apple": "8"
             }
         },
         "9e33daa7-0f8c-5903-9c51-5f478b4bf31e": {

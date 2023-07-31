@@ -498,7 +498,7 @@
         "darcy"
       ],
       "properties": {
-        "characters": "doughnut:1,egg:3,apple:5"
+        "characters": "doughnut:2,egg:5,apple:8"
       },
       "style": {}
     },
@@ -2060,27 +2060,27 @@
     },
     {
       "id": "n127",
-      "fromId": "n38",
-      "toId": "n108",
-      "type": "egg",
+      "type": "Should I have a doughnut",
+      "style": {},
       "properties": {},
-      "style": {}
+      "fromId": "n38",
+      "toId": "n108"
     },
     {
       "id": "n128",
-      "fromId": "n38",
-      "toId": "n109",
-      "type": "doughnut",
+      "type": "an egg",
+      "style": {},
       "properties": {},
-      "style": {}
+      "fromId": "n38",
+      "toId": "n109"
     },
     {
       "id": "n129",
-      "fromId": "n38",
-      "toId": "n110",
-      "type": "apple",
+      "type": "or an apple?",
+      "style": {},
       "properties": {},
-      "style": {}
+      "fromId": "n38",
+      "toId": "n110"
     },
     {
       "id": "n130",
