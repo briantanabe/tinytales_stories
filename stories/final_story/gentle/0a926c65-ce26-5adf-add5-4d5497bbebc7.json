@@ -1,0 +1,152 @@
+{
+  "transcript": "That wasn't an apology, Darcy",
+  "words": [
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 0.44999999999999996,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.1,
+      "startOffset": 0,
+      "word": "That"
+    },
+    {
+      "alignedWord": "wasn't",
+      "case": "success",
+      "end": 0.94,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.46,
+      "startOffset": 5,
+      "word": "wasn't"
+    },
+    {
+      "alignedWord": "an",
+      "case": "success",
+      "end": 1.0999999999999999,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.95,
+      "startOffset": 12,
+      "word": "an"
+    },
+    {
+      "alignedWord": "apology",
+      "case": "success",
+      "end": 1.6300000000000001,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 15,
+      "word": "apology"
+    },
+    {
+      "alignedWord": "darcy",
+      "case": "success",
+      "end": 2.11,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.63,
+      "startOffset": 24,
+      "word": "Darcy"
+    }
+  ]
+}

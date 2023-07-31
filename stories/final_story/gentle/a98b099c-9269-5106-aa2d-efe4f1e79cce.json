@@ -1,0 +1,86 @@
+{
+  "transcript": "Great choice, thanks!",
+  "words": [
+    {
+      "alignedWord": "great",
+      "case": "success",
+      "end": 0.43,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "Great"
+    },
+    {
+      "alignedWord": "choice",
+      "case": "success",
+      "end": 0.99,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.27,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.43,
+      "startOffset": 6,
+      "word": "choice"
+    },
+    {
+      "alignedWord": "thanks",
+      "case": "success",
+      "end": 1.39,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.2,
+      "startOffset": 14,
+      "word": "thanks"
+    }
+  ]
+}

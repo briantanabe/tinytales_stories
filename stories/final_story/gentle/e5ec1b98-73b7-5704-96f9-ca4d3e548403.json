@@ -1,0 +1,174 @@
+{
+  "transcript": "I shouldn't have said you were selfish",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.29000000000000004,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "shouldn't",
+      "case": "success",
+      "end": 0.45999999999999996,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.29,
+      "startOffset": 2,
+      "word": "shouldn't"
+    },
+    {
+      "alignedWord": "have",
+      "case": "success",
+      "end": 0.7999999999999999,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.72,
+      "startOffset": 12,
+      "word": "have"
+    },
+    {
+      "alignedWord": "said",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.8,
+      "startOffset": 17,
+      "word": "said"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.1300000000000001,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 22,
+      "word": "you"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 1.24,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.13,
+      "startOffset": 26,
+      "word": "were"
+    },
+    {
+      "alignedWord": "selfish",
+      "case": "success",
+      "end": 1.6099999999999999,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 1.25,
+      "startOffset": 31,
+      "word": "selfish"
+    }
+  ]
+}

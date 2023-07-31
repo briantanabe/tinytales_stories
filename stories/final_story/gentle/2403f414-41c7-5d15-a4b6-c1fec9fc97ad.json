@@ -1,0 +1,120 @@
+{
+  "transcript": "You\u2019re terrible at the tambourine!",
+  "words": [
+    {
+      "alignedWord": "you're",
+      "case": "success",
+      "end": 0.34,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "You\u2019re"
+    },
+    {
+      "alignedWord": "terrible",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.39,
+      "startOffset": 7,
+      "word": "terrible"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 1.12,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 16,
+      "word": "at"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.2300000000000002,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.12,
+      "startOffset": 19,
+      "word": "the"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.85,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.62,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.23,
+      "startOffset": 23,
+      "word": "tambourine"
+    }
+  ]
+}

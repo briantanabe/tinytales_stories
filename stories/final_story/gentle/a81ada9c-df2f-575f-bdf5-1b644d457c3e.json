@@ -1,0 +1,89 @@
+{
+  "transcript": "What should I do?",
+  "words": [
+    {
+      "alignedWord": "what",
+      "case": "success",
+      "end": 0.39,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.06,
+      "startOffset": 0,
+      "word": "What"
+    },
+    {
+      "alignedWord": "should",
+      "case": "success",
+      "end": 0.8799999999999999,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.59,
+      "startOffset": 5,
+      "word": "should"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.03,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.88,
+      "startOffset": 12,
+      "word": "I"
+    },
+    {
+      "alignedWord": "do",
+      "case": "success",
+      "end": 1.4100000000000001,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.26,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.05,
+      "startOffset": 14,
+      "word": "do"
+    }
+  ]
+}

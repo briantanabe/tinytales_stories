@@ -84,32 +84,6 @@
       "style": {}
     },
     {
-      "id": "n2",
-      "position": {
-        "x": 694.5296263052387,
-        "y": -6.469912838912802e-14
-      },
-      "caption": "Pick out a T-shirt for Darcy!",
-      "labels": [
-        "darcy"
-      ],
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n3",
-      "position": {
-        "x": 954.2125077434657,
-        "y": -2.8351782792257265e-14
-      },
-      "caption": "Thanks!",
-      "labels": [
-        "darcy"
-      ],
-      "properties": {},
-      "style": {}
-    },
-    {
       "id": "n4",
       "position": {
         "x": 1156.7712511263103,
@@ -287,39 +261,6 @@
       "style": {}
     },
     {
-      "id": "n17",
-      "position": {
-        "x": 1730.1320154722666,
-        "y": 5337.838529061481
-      },
-      "caption": "EMPTY",
-      "labels": [],
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n18",
-      "position": {
-        "x": 5735.1540119015135,
-        "y": -3877.830754515043
-      },
-      "caption": "EMPTY",
-      "labels": [],
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n19",
-      "position": {
-        "x": -7340.50002279285,
-        "y": 318.8214979931812
-      },
-      "caption": "EMPTY",
-      "labels": [],
-      "properties": {},
-      "style": {}
-    },
-    {
       "id": "n20",
       "position": {
         "x": -2.511765405287232e-32,
@@ -367,8 +308,10 @@
         "x": 694.5296263052387,
         "y": 749.1202455612238
       },
-      "caption": "What should Darcy do?",
-      "labels": [],
+      "caption": "What should I do?",
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
@@ -378,11 +321,13 @@
         "x": 0,
         "y": 1026.1853162414832
       },
-      "caption": "See you’re terrible at the tambourine!",
-      "labels": [],
+      "caption": "You’re terrible at the tambourine!",
+      "labels": [
+        "darcy"
+      ],
       "properties": {
         "background": "classroom_close_1",
-        "characters": "darcy:2,tom:3"
+        "characters": "tom:2,darcy:3"
       },
       "style": {}
     },
@@ -393,73 +338,76 @@
         "y": 1026.1853162414832
       },
       "caption": "Hey no it’s not!",
-      "labels": [],
+      "labels": [
+        "tom"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n26",
       "position": {
-        "x": 463.01975087015916,
-        "y": 1026.1853162414832
+        "x": 8.477779764094237,
+        "y": 1198.284548525563
       },
       "caption": "Darcy, I heard everything!",
-      "labels": [],
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n27",
-      "position": {
-        "x": 743.3943800451818,
-        "y": 1026.1853162414832
+      "labels": [
+        "campbell"
+      ],
+      "properties": {
+        "characters": "tom:2,darcy:3, campbell:5"
       },
-      "caption": "Emma even suggested you could try the tambourine tomorrow.",
-      "labels": [],
-      "properties": {},
       "style": {}
     },
     {
       "id": "n28",
       "position": {
-        "x": 1000.2548035554088,
-        "y": 1026.1853162414832
+        "x": 545.7128324493439,
+        "y": 1198.284548525563
       },
       "caption": "You do want to be friends with Tom, right?",
-      "labels": [],
+      "labels": [
+        "campbell"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n29",
       "position": {
-        "x": 1145.6945824178056,
-        "y": 1026.1853162414832
+        "x": 691.1526113117407,
+        "y": 1198.284548525563
       },
       "caption": "Yeah...",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n30",
       "position": {
-        "x": 1396.7214019185494,
-        "y": 1021.8146837585082
+        "x": 942.1794308124845,
+        "y": 1193.913916042588
       },
-      "caption": "So let’s apologize to Emma ok?",
-      "labels": [],
+      "caption": "So let’s apologize to Tom ok?",
+      "labels": [
+        "campbell"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n31",
       "position": {
-        "x": 1548.4674070949425,
-        "y": 1021.8146837585082
+        "x": 1093.9254359888776,
+        "y": 1193.913916042588
       },
       "caption": "Ok. ",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
@@ -469,19 +417,23 @@
         "x": 2001.6602575209254,
         "y": 1516.5153943785776
       },
-      "caption": "Hmm it seems like you could have made better decisions for Darcy.",
-      "labels": [],
+      "caption": "I think I could have made better decisions.",
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n33",
       "position": {
-        "x": -0.33445507870055735,
-        "y": 1698.7073911821285
+        "x": -0.3344550787006142,
+        "y": 1802.9365036922047
       },
-      "caption": "Hey Tom, I’m sorry for saying you were bad at the tambourine. ",
-      "labels": [],
+      "caption": "Hey Tom",
+      "labels": [
+        "darcy"
+      ],
       "properties": {
         "background": "classroom_close_1",
         "characters": "tom:2,darcy:3"
@@ -491,22 +443,26 @@
     {
       "id": "n34",
       "position": {
-        "x": 337.2960043220075,
-        "y": 1698.707393248227
+        "x": 337.29600432200743,
+        "y": 1802.9365057583032
       },
       "caption": "That’s ok, I forgive you!",
-      "labels": [],
+      "labels": [
+        "tom"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n35",
       "position": {
-        "x": 505.99974899612823,
-        "y": 1698.7073911821285
+        "x": 505.9997489961282,
+        "y": 1802.9365036922047
       },
       "caption": "Wanna rock out together?",
-      "labels": [],
+      "labels": [
+        "tom"
+      ],
       "properties": {},
       "style": {}
     },
@@ -514,33 +470,28 @@
       "id": "n36",
       "position": {
         "x": 694.1951712265382,
-        "y": 1698.7073873674312
+        "y": 1802.9364998775075
       },
       "caption": "Let’s do it!",
-      "labels": [],
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n37",
-      "position": {
-        "x": 907.679616423964,
-        "y": 1698.7073838497474
-      },
-      "caption": "That was lovely to watch! ",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n38",
       "position": {
-        "x": 463.01975087015916,
-        "y": -9.71031490350905e-14
+        "x": 339.38621910291374,
+        "y": -170.50724130967026
       },
-      "caption": "Can you help Darcy pick out a t-shirt?",
-      "labels": [],
-      "properties": {},
+      "caption": "Can you help me pick out breakfast?",
+      "labels": [
+        "darcy"
+      ],
+      "properties": {
+        "characters": "darcy:2,doughnut:3,egg:4,apple:5"
+      },
       "style": {}
     },
     {
@@ -689,11 +640,13 @@
     {
       "id": "n50",
       "position": {
-        "x": 578.774688587699,
-        "y": 1026.1853162414832
+        "x": 170.57098940255975,
+        "y": 1197.4179806174166
       },
       "caption": "What you just said was not very nice.",
-      "labels": [],
+      "labels": [
+        "campbell"
+      ],
       "properties": {},
       "style": {}
     },
@@ -704,106 +657,115 @@
         "y": 1026.1853162414832
       },
       "caption": "My turn!",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n52",
       "position": {
-        "x": 871.7873965757859,
-        "y": 1024
+        "x": 368.9220397549542,
+        "y": 1197.4179806174166
       },
-      "caption": "But you were mean to her then as well.",
-      "labels": [],
+      "caption": "And I heard you earlier as well",
+      "labels": [
+        "campbell"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n53",
       "position": {
-        "x": 1271.2460407486824,
-        "y": 1026.185316241493
+        "x": 816.7040696426175,
+        "y": 1198.2845485255727
       },
       "caption": "Friends apologize when they do something mean. ",
-      "labels": [],
+      "labels": [
+        "campbell"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n54",
       "position": {
-        "x": 1700.2292445096944,
-        "y": 1024
+        "x": 1516.712546105338,
+        "y": 1516.5153943785776
       },
-      "caption": "I’m sorry for saying you were bad at the tambourine, Emma.",
-      "labels": [],
+      "caption": "I’m sorry, Tom. ",
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n55",
       "position": {
-        "x": 1851.0404029721471,
-        "y": 1021.8146837585082
+        "x": 1840.0110203823963,
+        "y": 1516.5153943785776
       },
       "caption": "That wasn’t very nice of me.",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n56",
       "position": {
-        "x": 2154.165800960206,
-        "y": 1516.5154063415894
+        "x": 2163.309494659455,
+        "y": 1516.5153943785776
       },
-      "caption": " Let’s rewind and try that again.",
-      "labels": [],
+      "caption": "Let’s rewind and try again.",
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n57",
       "position": {
-        "x": 168.592259647887,
-        "y": 1698.7073838497474
+        "x": 168.59225964788695,
+        "y": 1802.9364963598236
       },
       "caption": "That wasn’t very nice of me.",
-      "labels": [],
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n58",
-      "position": {
-        "x": 1063.318315010284,
-        "y": 1698.7073812852152
-      },
-      "caption": "You handled that situation with grace, and apologized like a pro!",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n59",
       "position": {
-        "x": 1218.9570135966046,
-        "y": 1698.7073838497474
+        "x": 1093.9254359888776,
+        "y": 1802.9364917750258
       },
       "caption": "Let’s get on with music day, shall we?",
-      "labels": [],
-      "properties": {},
+      "labels": [
+        "campbell"
+      ],
+      "properties": {
+        "characters": "tom:2,darcy:3, campbell:5"
+      },
       "style": {}
     },
     {
       "id": "n60",
       "position": {
-        "x": -0.2229700524670193,
-        "y": 1347.7000938750998
+        "x": -0.22297005246707613,
+        "y": 1451.929206385176
       },
       "caption": "Well, let's just get on with music day then.",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {
         "background": "classroom_close_1",
         "characters": "tom:2,darcy:3"
@@ -813,79 +775,67 @@
     {
       "id": "n61",
       "position": {
-        "x": 168.592259647887,
-        "y": 1347.7000938750998
+        "x": 168.59225964788695,
+        "y": 1451.929206385176
       },
       "caption": "Oh... okay then.",
-      "labels": [],
+      "labels": [
+        "tom"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n62",
       "position": {
-        "x": -0.33445507870067104,
-        "y": 1491.8629366522975
+        "x": -0.3344550787007279,
+        "y": 1596.0920491623738
       },
       "caption": "Darcy, I noticed that you haven't apologized to Tom.",
-      "labels": [],
+      "labels": [
+        "campbell"
+      ],
       "properties": {
-        "characters": "tom:2,darcy:3, campbell:4"
+        "characters": "tom:2,darcy:3, campbell:5"
       },
       "style": {}
     },
     {
       "id": "n63",
       "position": {
-        "x": 170.5709894025598,
-        "y": 1491.8629297076639
+        "x": 170.57098940255975,
+        "y": 1596.09204221774
       },
       "caption": "I thought we could just get on with the day...",
-      "labels": [],
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n64",
-      "position": {
-        "x": 339.38621910291374,
-        "y": 1491.8629264040392
-      },
-      "caption": "Darcy, ignoring our mistakes doesn't make them disappear.",
-      "labels": [],
+      "labels": [
+        "campbell"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n65",
       "position": {
-        "x": 508.2014488032677,
-        "y": 1491.8629291014374
+        "x": 368.9220397549542,
+        "y": 1596.0920341578717
       },
       "caption": "When we do something wrong, it's important to say sorry.",
-      "labels": [],
+      "labels": [
+        "campbell"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n66",
       "position": {
-        "x": 664.3801038569065,
-        "y": 1491.8629330112885
+        "x": 589.3709612371287,
+        "y": 1596.09204221774
       },
       "caption": "I guess you're right, Ms. Campbell...",
-      "labels": [],
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n67",
-      "position": {
-        "x": 809.8198827193031,
-        "y": 1491.8629366522975
-      },
-      "caption": "I'm sorry for saying you would be terrible at the tambourine",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
@@ -896,8 +846,13 @@
         "y": 2047.001152381265
       },
       "caption": "If everyone has chosen their instruments, let's start!",
-      "labels": [],
-      "properties": {},
+      "labels": [
+        "campbell"
+      ],
+      "properties": {
+        "background": "classroom",
+        "characters": "darcy:1,tom:2,varun:3,jessica:4,ariel:5,campbell:7"
+      },
       "style": {}
     },
     {
@@ -907,7 +862,9 @@
         "y": 2047.001152381265
       },
       "caption": "Tom, you're playing too loud!",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
@@ -918,7 +875,9 @@
         "y": 2047.001152381265
       },
       "caption": "I can't hear myself!",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
@@ -929,7 +888,9 @@
         "y": 2047.001152381265
       },
       "caption": "Sorry Darcy, I didn't realize.",
-      "labels": [],
+      "labels": [
+        "tom"
+      ],
       "properties": {},
       "style": {}
     },
@@ -940,7 +901,9 @@
         "y": 2047.001152381265
       },
       "caption": "Well you should have. ",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
@@ -951,7 +914,9 @@
         "y": 2047.001152381265
       },
       "caption": "You're so selfish!",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
@@ -962,40 +927,38 @@
         "y": 2179.338538813339
       },
       "caption": "Tom should have known better.",
-      "labels": [],
-      "properties": {},
+      "labels": [
+        "varun"
+      ],
+      "properties": {
+        "background": "classroom_close_1",
+        "characters": "darcy:2, varun:4,jessica:5,ariel:6"
+      },
       "style": {}
     },
     {
       "id": "n75",
       "position": {
-        "x": 158.26886983454497,
+        "x": 242.73222719783877,
         "y": 2179.338538813339
       },
-      "caption": "You should apologize",
-      "labels": [],
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n76",
-      "position": {
-        "x": 327.19558456113253,
-        "y": 2179.338538813339
-      },
-      "caption": "Say \"I'm sorry, but you were too loud, Tom\"",
-      "labels": [],
+      "caption": "You should say, \"I'm sorry you're bad at the tambourine.\"",
+      "labels": [
+        "varun"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n77",
       "position": {
-        "x": 496.1222992877201,
-        "y": 2183.1317142924804
+        "x": 453.97579470206426,
+        "y": 2179.338538813339
       },
       "caption": "Darcy, that's not right.",
-      "labels": [],
+      "labels": [
+        "jessica"
+      ],
       "properties": {},
       "style": {}
     },
@@ -1006,7 +969,9 @@
         "y": 2179.338538813339
       },
       "caption": "You need to say sorry without any 'buts'.",
-      "labels": [],
+      "labels": [
+        "jessica"
+      ],
       "properties": {},
       "style": {}
     },
@@ -1017,7 +982,9 @@
         "y": 2179.338538813339
       },
       "caption": "You should say, \"I'm sorry for calling you selfish, Tom.\"",
-      "labels": [],
+      "labels": [
+        "jessica"
+      ],
       "properties": {},
       "style": {}
     },
@@ -1028,7 +995,9 @@
         "y": 2179.338538813339
       },
       "caption": "Tom already apologized, so let’s just move on.",
-      "labels": [],
+      "labels": [
+        "ariel"
+      ],
       "properties": {},
       "style": {}
     },
@@ -1038,294 +1007,410 @@
         "x": 1168.8128211805024,
         "y": 2179.338538813339
       },
-      "caption": "What should Darcy do?",
-      "labels": [],
+      "caption": "What should I do?",
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n82",
       "position": {
-        "x": -0.22297005246707613,
-        "y": 2462.787517765658
+        "x": -10.65784489204259,
+        "y": 2334.373606830405
       },
       "caption": "Tom, I'm sorry, but you were playing too loud.",
-      "labels": [],
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n83",
-      "position": {
-        "x": 168.7037446741205,
-        "y": 2462.787517765658
+      "labels": [
+        "darcy"
+      ],
+      "properties": {
+        "characters": "darcy:1,tom:2"
       },
-      "caption": "That doesn't feel like a real apology, Darcy.",
-      "labels": [],
-      "properties": {},
       "style": {}
     },
     {
       "id": "n84",
       "position": {
-        "x": 320.0672282793053,
+        "x": 230.38643349622376,
         "y": 2462.787517765658
       },
-      "caption": "Darcy, there are no \"but's\" in apologies.",
-      "labels": [],
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n85",
-      "position": {
-        "x": 471.4307118844901,
-        "y": 2462.787517765658
-      },
-      "caption": "A real apology has no excuses",
-      "labels": [],
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n86",
-      "position": {
-        "x": 1548.2444370424755,
-        "y": 2462.787517765658
-      },
-      "caption": " Let’s rewind and try that again.",
-      "labels": [],
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n87",
-      "position": {
-        "x": 1396.4984318660822,
-        "y": 2462.787517765658
-      },
-      "caption": "Hmm it seems like you could have made better decisions for Darcy.",
-      "labels": [],
+      "caption": "There are no \"but's\" in apologies.",
+      "labels": [
+        "campbell"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n88",
       "position": {
-        "x": -0.22297005246707613,
-        "y": 2900.279837596857
+        "x": -10.65784489204259,
+        "y": 2821.9797962054295
       },
       "caption": "Tom, I'm sorry for calling you selfish.",
-      "labels": [],
-      "properties": {},
+      "labels": [
+        "darcy"
+      ],
+      "properties": {
+        "characters": "tom:2,darcy:3"
+      },
       "style": {}
     },
     {
       "id": "n89",
       "position": {
-        "x": 168.59225964788695,
-        "y": 2900.279837596857
+        "x": 168.48077462165335,
+        "y": 2821.9797962054295
       },
       "caption": "That wasn't very nice of me",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n90",
       "position": {
-        "x": 320.0672282793053,
-        "y": 2900.279837596857
+        "x": 319.9557432530717,
+        "y": 2821.9797962054295
       },
       "caption": "Thanks, Darcy. ",
-      "labels": [],
+      "labels": [
+        "tom"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n91",
       "position": {
-        "x": 471.5421969107237,
-        "y": 2900.279837596857
+        "x": 471.4307118844901,
+        "y": 2821.9797962054295
       },
       "caption": "I appreciate your apology.",
-      "labels": [],
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n92",
-      "position": {
-        "x": 623.0171655421422,
-        "y": 2900.279837596857
-      },
-      "caption": "That was lovely to watch!",
-      "labels": [],
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n93",
-      "position": {
-        "x": 774.4921341735607,
-        "y": 2900.279837596857
-      },
-      "caption": "You handled that situation wonderfully.",
-      "labels": [],
+      "labels": [
+        "tom"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n94",
       "position": {
-        "x": 925.9671028049792,
-        "y": 2900.279837596857
+        "x": 623.0171655421422,
+        "y": 2821.9797962054295
       },
-      "caption": "Let’s get on with music day, shall we?",
-      "labels": [],
+      "caption": "Let’s keep playing, shall we?",
+      "labels": [
+        "tom"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n95",
       "position": {
-        "x": -0.33445507870067104,
+        "x": -10.65784489204259,
         "y": 2611.9180659747144
       },
       "caption": "Darcy, I noticed that you haven't apologized to Tom.",
-      "labels": [],
-      "properties": {},
+      "labels": [
+        "campbell"
+      ],
+      "properties": {
+        "characters": "tom:2,darcy:3, campbell:5"
+      },
       "style": {}
     },
     {
       "id": "n96",
       "position": {
-        "x": 168.7037446741205,
+        "x": 168.5922596478869,
         "y": 2611.9180659747144
       },
       "caption": "No, Tom was supposed to apologize to me!",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n97",
       "position": {
-        "x": 320.0672282793053,
+        "x": 319.9557432530717,
         "y": 2611.9180659747144
       },
       "caption": "Darcy, you called Tom selfish.",
-      "labels": [],
+      "labels": [
+        "campbell"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n98",
       "position": {
-        "x": 471.5421969107237,
+        "x": 471.4307118844901,
         "y": 2611.9180659747144
       },
       "caption": "Its your turn to apologize as well.",
-      "labels": [],
+      "labels": [
+        "campbell"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n99",
       "position": {
-        "x": 623.0171655421422,
+        "x": 622.9056805159086,
         "y": 2611.9180659747144
       },
       "caption": "When we do something wrong, it's important to say sorry.",
-      "labels": [],
+      "labels": [
+        "campbell"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n100",
       "position": {
-        "x": 774.4921341735607,
+        "x": 774.380649147327,
         "y": 2611.9180659747144
       },
       "caption": "I guess you're right, Ms. Campbell",
-      "labels": [],
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n101",
-      "position": {
-        "x": 925.9671028049792,
-        "y": 2611.9180659747144
-      },
-      "caption": "I'm sorry for calling you selfish, Tom",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n102",
       "position": {
-        "x": -0.33445507870067104,
-        "y": 3217.6476140892046
+        "x": -10.65784489204259,
+        "y": 3075.055211998558
       },
       "caption": "Darcy, why aren't you playing your part?",
-      "labels": [],
-      "properties": {},
+      "labels": [
+        "campbell"
+      ],
+      "properties": {
+        "characters": "darcy:1,tom:2,varun:3,jessica:4,ariel:5,campbell:7"
+      },
       "style": {}
     },
     {
       "id": "n103",
       "position": {
-        "x": 168.7037446741205,
-        "y": 3217.6476140892046
+        "x": 168.48077462165318,
+        "y": 3075.055220098701
       },
       "caption": "I wanted to the play the tambourine, not the flute!",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n104",
       "position": {
-        "x": 320.0672282793053,
-        "y": 3217.6476140892046
+        "x": 319.844258226838,
+        "y": 3075.055220098701
       },
       "caption": "People who play the flute are boring.",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n105",
       "position": {
-        "x": 471.4307118844901,
-        "y": 3217.647611391806
+        "x": 471.2077418320228,
+        "y": 3075.0552174013023
       },
       "caption": "I wanna rock out!",
-      "labels": [],
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n106",
-      "position": {
-        "x": 623.0171655421422,
-        "y": 3217.647608690434
-      },
-      "caption": "[Emma looks sad]",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n107",
       "position": {
-        "x": 774.6036191997943,
-        "y": 3217.647605989062
+        "x": 640.5803966635449,
+        "y": 3075.055211998558
       },
-      "caption": "What should Darcy say to Emma?",
-      "labels": [],
+      "caption": "What should I say to Emma?",
+      "labels": [
+        "darcy"
+      ],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n108",
+      "position": {
+        "x": 743.3943800451818,
+        "y": -170.50724130967026
+      },
+      "caption": "Great choice, thanks!",
+      "labels": [
+        "darcy"
+      ],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n109",
+      "position": {
+        "x": 743.3943800451818,
+        "y": -292.12680170372647
+      },
+      "caption": "Great choice, thanks!",
+      "labels": [
+        "darcy"
+      ],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n110",
+      "position": {
+        "x": 743.3943800451818,
+        "y": -48.88768091561403
+      },
+      "caption": "Great choice, thanks!",
+      "labels": [
+        "darcy"
+      ],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n111",
+      "position": {
+        "x": 1678.3617832438672,
+        "y": 1516.5153943785776
+      },
+      "caption": "I shouldn't have said you're bad at the tambourine",
+      "labels": [
+        "darcy"
+      ],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n112",
+      "position": {
+        "x": 61.49701120523956,
+        "y": 1910.0317448024712
+      },
+      "caption": "I’m sorry for saying you'd be bad at the tambourine.",
+      "labels": [
+        "darcy"
+      ],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n113",
+      "position": {
+        "x": -10.65784489204259,
+        "y": 2462.787517765658
+      },
+      "caption": "That wasn't an apology, Darcy",
+      "labels": [
+        "campbell"
+      ],
+      "properties": {
+        "characters": "tom:2,darcy:3, campbell:5"
+      },
+      "style": {}
+    },
+    {
+      "id": "n114",
+      "position": {
+        "x": 453.97579470206426,
+        "y": 2462.787517765658
+      },
+      "caption": "Can you apologize for what you said earlier?",
+      "labels": [
+        "campbell"
+      ],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n115",
+      "position": {
+        "x": 1641.7189625418964,
+        "y": 2611.9180659747144
+      },
+      "caption": "I think I could have made better decisions.",
+      "labels": [
+        "darcy"
+      ],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n116",
+      "position": {
+        "x": 1156.7712511263103,
+        "y": 2611.9180659747144
+      },
+      "caption": "I’m sorry, Tom. ",
+      "labels": [
+        "darcy"
+      ],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n117",
+      "position": {
+        "x": 1480.069725403369,
+        "y": 2611.9180659747144
+      },
+      "caption": "That wasn’t very nice of me.",
+      "labels": [
+        "darcy"
+      ],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n118",
+      "position": {
+        "x": 1803.3681996804266,
+        "y": 2611.9180659747144
+      },
+      "caption": "Let’s rewind and try again.",
+      "labels": [
+        "darcy"
+      ],
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n119",
+      "position": {
+        "x": 1318.4204882648396,
+        "y": 2611.9180659747144
+      },
+      "caption": "I shouldn't have said you were selfish",
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     }
@@ -1335,22 +1420,6 @@
       "id": "n0",
       "fromId": "n0",
       "toId": "n1",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n2",
-      "fromId": "n2",
-      "toId": "n3",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n3",
-      "fromId": "n3",
-      "toId": "n4",
       "type": "",
       "properties": {},
       "style": {}
@@ -1407,7 +1476,7 @@
       "id": "n20",
       "fromId": "n23",
       "toId": "n24",
-      "type": "Varun",
+      "type": "varu ",
       "properties": {},
       "style": {}
     },
@@ -1439,7 +1508,7 @@
       "id": "n30",
       "fromId": "n23",
       "toId": "n33",
-      "type": "Jessica",
+      "type": "jessica",
       "properties": {},
       "style": {}
     },
@@ -1460,25 +1529,9 @@
       "style": {}
     },
     {
-      "id": "n34",
-      "fromId": "n36",
-      "toId": "n37",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
       "id": "n35",
       "fromId": "n1",
       "toId": "n38",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n36",
-      "fromId": "n38",
-      "toId": "n2",
       "type": "",
       "properties": {},
       "style": {}
@@ -1660,14 +1713,6 @@
       "style": {}
     },
     {
-      "id": "n60",
-      "fromId": "n50",
-      "toId": "n27",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
       "id": "n61",
       "fromId": "n24",
       "toId": "n51",
@@ -1679,14 +1724,6 @@
       "id": "n62",
       "fromId": "n51",
       "toId": "n25",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n63",
-      "fromId": "n27",
-      "toId": "n52",
       "type": "",
       "properties": {},
       "style": {}
@@ -1724,14 +1761,6 @@
       "style": {}
     },
     {
-      "id": "n68",
-      "fromId": "n54",
-      "toId": "n55",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
       "id": "n69",
       "fromId": "n55",
       "toId": "n32",
@@ -1748,14 +1777,6 @@
       "style": {}
     },
     {
-      "id": "n71",
-      "fromId": "n33",
-      "toId": "n57",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
       "id": "n72",
       "fromId": "n57",
       "toId": "n34",
@@ -1764,26 +1785,10 @@
       "style": {}
     },
     {
-      "id": "n73",
-      "fromId": "n37",
-      "toId": "n58",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n74",
-      "fromId": "n58",
-      "toId": "n59",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
       "id": "n75",
       "fromId": "n23",
       "toId": "n60",
-      "type": "Ariel",
+      "type": "ariel",
       "properties": {},
       "style": {}
     },
@@ -1812,49 +1817,9 @@
       "style": {}
     },
     {
-      "id": "n79",
-      "fromId": "n63",
-      "toId": "n64",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n80",
-      "fromId": "n64",
-      "toId": "n65",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
       "id": "n81",
       "fromId": "n65",
       "toId": "n66",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n82",
-      "fromId": "n66",
-      "toId": "n67",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n83",
-      "fromId": "n56",
-      "toId": "n23",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n84",
-      "fromId": "n67",
-      "toId": "n32",
       "type": "",
       "properties": {},
       "style": {}
@@ -1924,22 +1889,6 @@
       "style": {}
     },
     {
-      "id": "n93",
-      "fromId": "n75",
-      "toId": "n76",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n94",
-      "fromId": "n76",
-      "toId": "n77",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
       "id": "n95",
       "fromId": "n77",
       "toId": "n78",
@@ -1975,55 +1924,7 @@
       "id": "n99",
       "fromId": "n81",
       "toId": "n82",
-      "type": "Varun",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n100",
-      "fromId": "n82",
-      "toId": "n83",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n101",
-      "fromId": "n83",
-      "toId": "n84",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n102",
-      "fromId": "n84",
-      "toId": "n85",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n103",
-      "fromId": "n86",
-      "toId": "n81",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n104",
-      "fromId": "n87",
-      "toId": "n86",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n105",
-      "fromId": "n85",
-      "toId": "n87",
-      "type": "",
+      "type": "varun",
       "properties": {},
       "style": {}
     },
@@ -2031,7 +1932,7 @@
       "id": "n106",
       "fromId": "n81",
       "toId": "n88",
-      "type": "Jessica",
+      "type": "jessica",
       "properties": {},
       "style": {}
     },
@@ -2060,34 +1961,10 @@
       "style": {}
     },
     {
-      "id": "n110",
-      "fromId": "n91",
-      "toId": "n92",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n111",
-      "fromId": "n92",
-      "toId": "n93",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n112",
-      "fromId": "n93",
-      "toId": "n94",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
       "id": "n113",
       "fromId": "n81",
       "toId": "n95",
-      "type": "Ariel",
+      "type": "ariel",
       "properties": {},
       "style": {}
     },
@@ -2132,22 +2009,6 @@
       "style": {}
     },
     {
-      "id": "n119",
-      "fromId": "n100",
-      "toId": "n101",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n120",
-      "fromId": "n101",
-      "toId": "n87",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
       "id": "n121",
       "fromId": "n94",
       "toId": "n102",
@@ -2180,20 +2041,228 @@
       "style": {}
     },
     {
-      "id": "n125",
-      "fromId": "n105",
-      "toId": "n106",
+      "id": "n127",
+      "fromId": "n38",
+      "toId": "n108",
+      "type": "egg",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n128",
+      "fromId": "n38",
+      "toId": "n109",
+      "type": "doughnut",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n129",
+      "fromId": "n38",
+      "toId": "n110",
+      "type": "apple",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n130",
+      "fromId": "n110",
+      "toId": "n4",
       "type": "",
       "properties": {},
       "style": {}
     },
     {
-      "id": "n126",
-      "fromId": "n106",
-      "toId": "n107",
+      "id": "n131",
+      "fromId": "n108",
+      "toId": "n4",
       "type": "",
       "properties": {},
       "style": {}
+    },
+    {
+      "id": "n132",
+      "fromId": "n109",
+      "toId": "n4",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n133",
+      "fromId": "n50",
+      "toId": "n52",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n134",
+      "fromId": "n54",
+      "toId": "n111",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n135",
+      "fromId": "n111",
+      "toId": "n55",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n136",
+      "fromId": "n56",
+      "toId": "n45",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n137",
+      "fromId": "n63",
+      "toId": "n65",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n138",
+      "fromId": "n66",
+      "toId": "n54",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n139",
+      "fromId": "n33",
+      "toId": "n112",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n140",
+      "fromId": "n112",
+      "toId": "n57",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n141",
+      "fromId": "n36",
+      "toId": "n59",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n142",
+      "fromId": "n75",
+      "toId": "n77",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n143",
+      "fromId": "n82",
+      "toId": "n113",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n144",
+      "fromId": "n113",
+      "toId": "n84",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n145",
+      "fromId": "n84",
+      "toId": "n114",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n146",
+      "fromId": "n117",
+      "toId": "n115",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n147",
+      "fromId": "n115",
+      "toId": "n118",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n148",
+      "fromId": "n116",
+      "toId": "n119",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n149",
+      "fromId": "n119",
+      "toId": "n117",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n150",
+      "fromId": "n118",
+      "toId": "n68",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n151",
+      "fromId": "n114",
+      "toId": "n116",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n152",
+      "fromId": "n100",
+      "toId": "n116",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n153",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n91",
+      "toId": "n94"
+    },
+    {
+      "id": "n154",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n105",
+      "toId": "n107"
     }
   ]
 }

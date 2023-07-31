@@ -1,0 +1,74 @@
+{
+  "transcript": "I\u2019m sorry, Tom. ",
+  "words": [
+    {
+      "alignedWord": "i'm",
+      "case": "success",
+      "end": 0.41000000000000003,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.39,
+      "startOffset": 0,
+      "word": "I\u2019m"
+    },
+    {
+      "alignedWord": "sorry",
+      "case": "success",
+      "end": 0.83,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.42,
+      "startOffset": 4,
+      "word": "sorry"
+    },
+    {
+      "alignedWord": "tom",
+      "case": "success",
+      "end": 1.3199999999999998,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.83,
+      "startOffset": 11,
+      "word": "Tom"
+    }
+  ]
+}

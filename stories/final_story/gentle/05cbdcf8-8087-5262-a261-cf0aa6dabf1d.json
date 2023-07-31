@@ -1,0 +1,211 @@
+{
+  "transcript": "You should say, \"I'm sorry you're bad at the tambourine.\"",
+  "words": [
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 0.28,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.11,
+      "startOffset": 0,
+      "word": "You"
+    },
+    {
+      "alignedWord": "should",
+      "case": "success",
+      "end": 0.49,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.28,
+      "startOffset": 4,
+      "word": "should"
+    },
+    {
+      "alignedWord": "say",
+      "case": "success",
+      "end": 0.99,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.38,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.49,
+      "startOffset": 11,
+      "word": "say"
+    },
+    {
+      "alignedWord": "i'm",
+      "case": "success",
+      "end": 1.3599999999999999,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.23,
+      "startOffset": 17,
+      "word": "I'm"
+    },
+    {
+      "alignedWord": "sorry",
+      "case": "success",
+      "end": 1.56,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 21,
+      "word": "sorry"
+    },
+    {
+      "alignedWord": "you're",
+      "case": "success",
+      "end": 1.6500000000000001,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 27,
+      "word": "you're"
+    },
+    {
+      "alignedWord": "bad",
+      "case": "success",
+      "end": 1.79,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.65,
+      "startOffset": 34,
+      "word": "bad"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 1.83,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.79,
+      "startOffset": 38,
+      "word": "at"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.9500000000000002,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.83,
+      "startOffset": 41,
+      "word": "the"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.42,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.47,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.95,
+      "startOffset": 45,
+      "word": "tambourine"
+    }
+  ]
+}

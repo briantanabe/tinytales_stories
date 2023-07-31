@@ -1,0 +1,127 @@
+{
+  "transcript": "What should I say to Emma?",
+  "words": [
+    {
+      "alignedWord": "what",
+      "case": "success",
+      "end": 0.53,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "What"
+    },
+    {
+      "alignedWord": "should",
+      "case": "success",
+      "end": 0.81,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.55,
+      "startOffset": 5,
+      "word": "should"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.93,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.81,
+      "startOffset": 12,
+      "word": "I"
+    },
+    {
+      "alignedWord": "say",
+      "case": "success",
+      "end": 1.24,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.94,
+      "startOffset": 14,
+      "word": "say"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.47,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 18,
+      "word": "to"
+    },
+    {
+      "alignedWord": "emma",
+      "case": "success",
+      "end": 1.8599999999999999,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.47,
+      "startOffset": 21,
+      "word": "Emma"
+    }
+  ]
+}

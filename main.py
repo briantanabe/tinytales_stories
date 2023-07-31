@@ -8,6 +8,15 @@ from tqdm import tqdm
 import subprocess
 import filecmp
 
+speaker_to_voice = {
+    "darcy": "anny", # Done
+    "tom": "jordan",
+    "varun": "owen", # Done
+    "jessica": "hipolito",
+    "ariel": "victor", # Done
+    "campbell": "susan" #done
+}
+
 def download_audio(url, folder, filename):
     response = requests.get(url)
     if response.status_code == 200:
@@ -19,7 +28,7 @@ def download_audio(url, folder, filename):
     else:
         print("Failed to download audio file")
 
-def get_audio_link(text):
+def get_audio_link(text, voice="jordan"):
     url = "https://play.ht/api/v2/tts"
 
     payload = {
@@ -27,7 +36,7 @@ def get_audio_link(text):
         "output_format": "mp3",
         "speed": .85,
         "sample_rate": 24000,
-        "voice": "jordan",
+        "voice": voice,
         "text": text
     }
     headers = {
@@ -38,7 +47,10 @@ def get_audio_link(text):
     }
     response = requests.post(url, json=payload, headers=headers)
     pattern = r'"url":"([^"]+)"'  # Regular expression pattern to match the URL
-    match = re.search(pattern, response.text.split("event: completed")[1])
+    try:
+        match = re.search(pattern, response.text.split("event: completed")[1])
+    except Exception as e:
+        print(e)
     return match.group(1)
 
 def convert_arrow_json(input_file, output_file):
@@ -90,8 +102,6 @@ def convert_arrow_json(input_file, output_file):
                 if label != "start" and label != "collect_response":
                     node_data["speaker"] = label
 
-
-
         if node['properties'] and "background" in node['properties']:
             node_data["background"] = node['properties']['background']
         
@@ -99,7 +109,7 @@ def convert_arrow_json(input_file, output_file):
             node_data["characters"] = {}
             for character in node['properties']['characters'].split(','):
                 node_data["characters"][character.split(':')[0]] = character.split(':')[1]
-        
+
     output_data = {'nodes': nodes}
     if start_node:
         output_data['startNode'] = start_node
@@ -147,10 +157,10 @@ def pre_process_story(name):
         folder_path = os.path.join(f'stories/{name}', folder_name)
         create_folder_if_not_exists(folder_path)
 
-def save_segment(id, text, folder):
+def save_segment(id, text, folder, voice="jordan"):
     new_file = save_text_file(f'stories/{folder}/text/{id}.txt', text)
     if new_file or not os.path.exists(f'stories/{story_name}/audio/{id}.mp3'):
-        download_audio(get_audio_link(text), f'stories/{story_name}/audio', f'{id}.mp3')
+        download_audio(get_audio_link(text, voice), f'stories/{story_name}/audio', f'{id}.mp3')
 
     if new_file or not os.path.exists(f'stories/{story_name}/gentle/{id}.json'):
         
@@ -208,10 +218,11 @@ def download_story_components(name):
             if "options" in data['nodes'][node].keys():
                 for option in data['nodes'][node]["options"]:
                     u = str(uuid.uuid5(uuid.NAMESPACE_DNS, option.strip().lower()))
-                    save_segment(u, option, name)
+                    save_segment(u, option, name, speaker_to_voice[data['nodes'][node]["speaker"]])
 
             text = data['nodes'][node]["text"]
-            save_segment(node, data['nodes'][node]["text"], name)
+
+            save_segment(node, text, name, speaker_to_voice[data['nodes'][node]["speaker"]])
             
 
 def process_story(name):

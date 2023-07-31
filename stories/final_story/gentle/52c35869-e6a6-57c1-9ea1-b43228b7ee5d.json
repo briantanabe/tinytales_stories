@@ -1,0 +1,215 @@
+{
+  "transcript": "I\u2019m sorry for saying you'd be bad at the tambourine.",
+  "words": [
+    {
+      "alignedWord": "i'm",
+      "case": "success",
+      "end": 0.26,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "I\u2019m"
+    },
+    {
+      "alignedWord": "sorry",
+      "case": "success",
+      "end": 0.5900000000000001,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.26,
+      "startOffset": 4,
+      "word": "sorry"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 0.74,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.59,
+      "startOffset": 10,
+      "word": "for"
+    },
+    {
+      "alignedWord": "saying",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.74,
+      "startOffset": 14,
+      "word": "saying"
+    },
+    {
+      "alignedWord": "you'd",
+      "case": "success",
+      "end": 1.24,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 21,
+      "word": "you'd"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 1.34,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 27,
+      "word": "be"
+    },
+    {
+      "alignedWord": "bad",
+      "case": "success",
+      "end": 1.6500000000000001,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.34,
+      "startOffset": 30,
+      "word": "bad"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 1.73,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.65,
+      "startOffset": 34,
+      "word": "at"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.76,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.73,
+      "startOffset": 37,
+      "word": "the"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.17,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.41,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.76,
+      "startOffset": 41,
+      "word": "tambourine"
+    }
+  ]
+}

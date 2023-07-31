@@ -1,0 +1,32 @@
+{
+  "transcript": "apple",
+  "words": [
+    {
+      "alignedWord": "apple",
+      "case": "success",
+      "end": 0.53,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.06,
+      "startOffset": 0,
+      "word": "apple"
+    }
+  ]
+}
