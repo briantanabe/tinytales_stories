@@ -107,7 +107,8 @@
         "darcy"
       ],
       "properties": {
-        "background": "car"
+        "background": "car",
+        "characters": "darcy:10"
       },
       "style": {}
     },
@@ -162,7 +163,7 @@
       ],
       "properties": {
         "background": "classroom",
-        "characters": "darcy:1,tom:2,varun:3,jessica:4,ariel:5,campbell:7"
+        "characters": "darcy:-1,tom:1,varun:3,jessica:5,ariel:7,campbell:10"
       },
       "style": {}
     },
@@ -206,7 +207,7 @@
       ],
       "properties": {
         "background": "classroom_close_1",
-        "characters": "darcy:1,tom:2",
+        "characters": "darcy:1,tom:3",
         "emotions": "darcy:sad"
       },
       "style": {}
@@ -279,7 +280,7 @@
       ],
       "properties": {
         "background": "classroom_close_2",
-        "characters": "darcy:2,varun:4,jessica:5,ariel:6",
+        "characters": "darcy:1,varun:3,jessica:5,ariel:7",
         "emotions": "darcy:angry"
       },
       "style": {}
@@ -335,7 +336,7 @@
       ],
       "properties": {
         "background": "classroom_close_1",
-        "characters": "tom:2,darcy:3"
+        "characters": "tom:1,darcy:3"
       },
       "style": {}
     },
@@ -498,7 +499,7 @@
         "darcy"
       ],
       "properties": {
-        "characters": "doughnut:2,egg:5,apple:8"
+        "characters": "doughnut:2,egg:5,apple:9"
       },
       "style": {}
     },
@@ -625,7 +626,7 @@
         "x": 121.1692443681235,
         "y": 749.1202455612238
       },
-      "caption": "You should just take the tambourine from her when she messes up.",
+      "caption": "You should just take the tambourine from him when she messes up.",
       "labels": [
         "varun"
       ],
@@ -863,7 +864,7 @@
       ],
       "properties": {
         "background": "classroom",
-        "characters": "darcy:1,tom:2,varun:3,jessica:4,ariel:5,campbell:7"
+        "characters": "darcy:-1,tom:1,varun:3,jessica:5,ariel:7,campbell:10"
       },
       "style": {}
     },
@@ -1212,7 +1213,7 @@
         "campbell"
       ],
       "properties": {
-        "characters": "darcy:1,tom:2,varun:3,jessica:4,ariel:5,campbell:7"
+        "characters": "darcy:-1,tom:1,varun:3,jessica:5,ariel:7,campbell:10"
       },
       "style": {}
     },
@@ -2060,27 +2061,27 @@
     },
     {
       "id": "n127",
-      "type": "Should I have a doughnut",
-      "style": {},
-      "properties": {},
       "fromId": "n38",
-      "toId": "n108"
+      "toId": "n108",
+      "type": "Should I have a doughnut",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n128",
-      "type": "an egg",
-      "style": {},
-      "properties": {},
       "fromId": "n38",
-      "toId": "n109"
+      "toId": "n109",
+      "type": "an egg",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n129",
-      "type": "or an apple?",
-      "style": {},
-      "properties": {},
       "fromId": "n38",
-      "toId": "n110"
+      "toId": "n110",
+      "type": "or an apple?",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n130",
@@ -2268,19 +2269,19 @@
     },
     {
       "id": "n153",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n91",
-      "toId": "n94"
+      "toId": "n94",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n154",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n105",
-      "toId": "n107"
+      "toId": "n107",
+      "type": "",
+      "properties": {},
+      "style": {}
     }
   ]
 }
