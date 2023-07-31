@@ -101,7 +101,10 @@
             "text": "We\u2019ll choose instruments in the same order you arrived this morning",
             "previous": "a84ae203-39c5-5199-b5fb-9b2281dd70f8",
             "next": "535410fb-192a-5bb3-859d-4c4b455845e1",
-            "speaker": "campbell"
+            "speaker": "campbell",
+            "emotions": {
+                "campbell": "wink"
+            }
         },
         "535410fb-192a-5bb3-859d-4c4b455845e1": {
             "ending": "no",
@@ -115,6 +118,9 @@
             "characters": {
                 "darcy": "1",
                 "tom": "2"
+            },
+            "emotions": {
+                "darcy": "sad"
             }
         },
         "69c7e725-0366-51d6-99c1-8dcb90665173": {
@@ -133,7 +139,11 @@
             "text": "No fair, you always choose first!",
             "previous": "121ee11b-21ba-5096-8098-02e5911eca78",
             "next": "42fb0e85-248d-5e27-bf2e-35ea2c254752",
-            "speaker": "darcy"
+            "speaker": "darcy",
+            "emotions": {
+                "darcy": "angry",
+                "tom": "confused"
+            }
         },
         "e7e0e948-6d93-5f0e-90cd-f0e036874c86": {
             "ending": "no",
@@ -151,7 +161,10 @@
             "text": "Yeah, well you\u2019re gonna be terrible at it anyways.",
             "previous": "e7e0e948-6d93-5f0e-90cd-f0e036874c86",
             "next": "bb12e981-e525-592b-82b7-c26d20aefa0d",
-            "speaker": "darcy"
+            "speaker": "darcy",
+            "emotions": {
+                "tom": "sad"
+            }
         },
         "3fadd166-3c11-5958-977c-b699baa53ce0": {
             "ending": "no",
@@ -167,6 +180,9 @@
                 "varun": "4",
                 "jessica": "5",
                 "ariel": "6"
+            },
+            "emotions": {
+                "darcy": "angry"
             }
         },
         "7a06ab77-6105-5e92-95d7-a784582be0c3": {
@@ -356,9 +372,9 @@
             ],
             "speaker": "darcy",
             "characters": {
-                "doughnut": "2",
+                "doughnut": "1",
                 "egg": "3",
-                "apple": "4"
+                "apple": "5"
             }
         },
         "9e33daa7-0f8c-5903-9c51-5f478b4bf31e": {
@@ -449,7 +465,11 @@
             "text": "You should just take the tambourine from her when she messes up.",
             "previous": "3fadd166-3c11-5958-977c-b699baa53ce0",
             "next": "7a06ab77-6105-5e92-95d7-a784582be0c3",
-            "speaker": "varun"
+            "speaker": "varun",
+            "emotions": {
+                "varun": "shock",
+                "jessica": "confused"
+            }
         },
         "061789bd-1f49-5402-a242-b760119fc9b7": {
             "ending": "no",
@@ -458,7 +478,10 @@
             "text": "Darcy was the mean one, she should apologize!",
             "previous": "7a06ab77-6105-5e92-95d7-a784582be0c3",
             "next": "00736f7a-cff0-5ee7-819e-c1a938fb11ad",
-            "speaker": "jessica"
+            "speaker": "jessica",
+            "emotions": {
+                "jessica": "shock"
+            }
         },
         "88a84eeb-3416-5b1b-b878-e0c586284053": {
             "ending": "no",

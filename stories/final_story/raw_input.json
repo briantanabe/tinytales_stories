@@ -189,7 +189,9 @@
       "labels": [
         "campbell"
       ],
-      "properties": {},
+      "properties": {
+        "emotions": "campbell:wink"
+      },
       "style": {}
     },
     {
@@ -204,7 +206,8 @@
       ],
       "properties": {
         "background": "classroom_close_1",
-        "characters": "darcy:1,tom:2"
+        "characters": "darcy:1,tom:2",
+        "emotions": "darcy:sad"
       },
       "style": {}
     },
@@ -231,7 +234,9 @@
       "labels": [
         "darcy"
       ],
-      "properties": {},
+      "properties": {
+        "emotions": "darcy:angry,tom:confused"
+      },
       "style": {}
     },
     {
@@ -257,7 +262,9 @@
       "labels": [
         "darcy"
       ],
-      "properties": {},
+      "properties": {
+        "emotions": "tom:sad"
+      },
       "style": {}
     },
     {
@@ -272,7 +279,8 @@
       ],
       "properties": {
         "background": "classroom_close_2",
-        "characters": "darcy:2,varun:4,jessica:5,ariel:6"
+        "characters": "darcy:2,varun:4,jessica:5,ariel:6",
+        "emotions": "darcy:angry"
       },
       "style": {}
     },
@@ -490,7 +498,7 @@
         "darcy"
       ],
       "properties": {
-        "characters": "doughnut:2,egg:3,apple:4"
+        "characters": "doughnut:1,egg:3,apple:5"
       },
       "style": {}
     },
@@ -621,7 +629,9 @@
       "labels": [
         "varun"
       ],
-      "properties": {},
+      "properties": {
+        "emotions": "varun:shock,jessica:confused"
+      },
       "style": {}
     },
     {
@@ -634,7 +644,9 @@
       "labels": [
         "jessica"
       ],
-      "properties": {},
+      "properties": {
+        "emotions": "jessica:shock"
+      },
       "style": {}
     },
     {

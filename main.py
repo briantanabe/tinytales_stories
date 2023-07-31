@@ -10,7 +10,7 @@ import filecmp
 
 speaker_to_voice = {
     "darcy": "anny", # Done
-    "tom": "jordan",
+    "tom": "darnell", # Done
     "varun": "owen", # Done
     "jessica": "hipolito",
     "ariel": "victor", # Done
@@ -110,6 +110,11 @@ def convert_arrow_json(input_file, output_file):
             for character in node['properties']['characters'].split(','):
                 node_data["characters"][character.split(':')[0]] = character.split(':')[1]
 
+        if node['properties'] and "emotions" in node['properties']:
+            node_data["emotions"] = {}
+            for emotion in node['properties']['emotions'].split(','):
+                node_data["emotions"][emotion.split(':')[0]] = emotion.split(':')[1]
+
     output_data = {'nodes': nodes}
     if start_node:
         output_data['startNode'] = start_node
@@ -158,6 +163,9 @@ def pre_process_story(name):
         create_folder_if_not_exists(folder_path)
 
 def save_segment(id, text, folder, voice="jordan"):
+    if voice=="jordan":
+        print("PROBLEM")
+        exit
     new_file = save_text_file(f'stories/{folder}/text/{id}.txt', text)
     if new_file or not os.path.exists(f'stories/{story_name}/audio/{id}.mp3'):
         download_audio(get_audio_link(text, voice), f'stories/{story_name}/audio', f'{id}.mp3')
@@ -221,7 +229,6 @@ def download_story_components(name):
                     save_segment(u, option, name, speaker_to_voice[data['nodes'][node]["speaker"]])
 
             text = data['nodes'][node]["text"]
-
             save_segment(node, text, name, speaker_to_voice[data['nodes'][node]["speaker"]])
             
 
