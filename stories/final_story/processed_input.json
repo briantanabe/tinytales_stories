@@ -6,6 +6,7 @@
             "decisionPoint": "no",
             "text": "Hi! I\u2019m Darcy, nice to meet you! ",
             "next": "23c54a53-b812-5c32-a326-a6b2b08805aa",
+            "speaker": "darcy",
             "background": "bedroom",
             "characters": {
                 "darcy": "2"
@@ -17,7 +18,8 @@
             "decisionPoint": "no",
             "text": "I just woke up but I think I\u2019m late for school! ",
             "previous": "23249031-1002-527c-931b-3f832d62003e",
-            "next": "37796651-3f24-5235-a518-74a88a26a5cd"
+            "next": "37796651-3f24-5235-a518-74a88a26a5cd",
+            "speaker": "darcy"
         },
         "f4fe6b4f-f6fa-5c2b-9b74-5f6cf535ad5b": {
             "ending": "no",
@@ -25,7 +27,8 @@
             "decisionPoint": "no",
             "text": "Pick out a T-shirt for Darcy!",
             "previous": "37796651-3f24-5235-a518-74a88a26a5cd",
-            "next": "92ccf159-caf6-5f80-9966-3da5bf7069d4"
+            "next": "92ccf159-caf6-5f80-9966-3da5bf7069d4",
+            "speaker": "darcy"
         },
         "92ccf159-caf6-5f80-9966-3da5bf7069d4": {
             "ending": "no",
@@ -33,7 +36,8 @@
             "decisionPoint": "no",
             "text": "Thanks!",
             "previous": "f4fe6b4f-f6fa-5c2b-9b74-5f6cf535ad5b",
-            "next": "49db0e61-0fca-5947-a560-64857d201852"
+            "next": "49db0e61-0fca-5947-a560-64857d201852",
+            "speaker": "darcy"
         },
         "49db0e61-0fca-5947-a560-64857d201852": {
             "ending": "no",
@@ -41,7 +45,8 @@
             "decisionPoint": "no",
             "text": "Let\u2019s head to school, there\u2019s a special activity planned for today",
             "previous": "92ccf159-caf6-5f80-9966-3da5bf7069d4",
-            "next": "3a0fa16b-c89f-56fd-bab0-e710a4b8f3bf"
+            "next": "3a0fa16b-c89f-56fd-bab0-e710a4b8f3bf",
+            "speaker": "darcy"
         },
         "3a0fa16b-c89f-56fd-bab0-e710a4b8f3bf": {
             "ending": "no",
@@ -50,6 +55,7 @@
             "text": "Today is music day and we get to pick instruments to learn for the next week!",
             "previous": "49db0e61-0fca-5947-a560-64857d201852",
             "next": "5a1ae6dd-bbc2-50ee-b9ca-c9d2e71caa03",
+            "speaker": "darcy",
             "background": "car"
         },
         "5a1ae6dd-bbc2-50ee-b9ca-c9d2e71caa03": {
@@ -58,7 +64,8 @@
             "decisionPoint": "no",
             "text": "I\u2019m so excited!",
             "previous": "3a0fa16b-c89f-56fd-bab0-e710a4b8f3bf",
-            "next": "9e33daa7-0f8c-5903-9c51-5f478b4bf31e"
+            "next": "9e33daa7-0f8c-5903-9c51-5f478b4bf31e",
+            "speaker": "darcy"
         },
         "96b28ecc-99a1-55a0-b05e-120a58aa2fac": {
             "ending": "no",
@@ -66,7 +73,8 @@
             "decisionPoint": "no",
             "text": "Can you help me play the tambourine?",
             "previous": "9e33daa7-0f8c-5903-9c51-5f478b4bf31e",
-            "next": "c7befd36-f86e-5028-8a43-8ceedba7b514"
+            "next": "c7befd36-f86e-5028-8a43-8ceedba7b514",
+            "speaker": "darcy"
         },
         "612da785-ab31-5ead-a690-04741dd1be2f": {
             "ending": "no",
@@ -74,7 +82,8 @@
             "decisionPoint": "no",
             "text": " Ms. Campbell will be looking for me!",
             "previous": "0eddd30a-03be-5992-a900-c86cf3a98654",
-            "next": "b91d0a4e-3c24-5499-bf2c-382b154cc418"
+            "next": "b91d0a4e-3c24-5499-bf2c-382b154cc418",
+            "speaker": "darcy"
         },
         "b91d0a4e-3c24-5499-bf2c-382b154cc418": {
             "ending": "no",
@@ -82,7 +91,17 @@
             "decisionPoint": "no",
             "text": "Good morning everyone! ",
             "previous": "612da785-ab31-5ead-a690-04741dd1be2f",
-            "next": "0f137c05-1dd5-5ae1-b602-1913e54863d2"
+            "next": "0f137c05-1dd5-5ae1-b602-1913e54863d2",
+            "speaker": "campbell",
+            "background": "classroom",
+            "characters": {
+                "darcy": "1",
+                "tom": "2",
+                "varun": "3",
+                "jessica": "4",
+                "ariel": "5",
+                "campbell": "7"
+            }
         },
         "b8ee356a-99a9-5c81-8b3d-1fca7133d492": {
             "ending": "no",
@@ -90,7 +109,8 @@
             "decisionPoint": "no",
             "text": "We have a couple different instruments.",
             "previous": "0f137c05-1dd5-5ae1-b602-1913e54863d2",
-            "next": "a84ae203-39c5-5199-b5fb-9b2281dd70f8"
+            "next": "a84ae203-39c5-5199-b5fb-9b2281dd70f8",
+            "speaker": "campbell"
         },
         "b6be54a4-2a6f-5341-b770-3b3216128577": {
             "ending": "no",
@@ -98,7 +118,8 @@
             "decisionPoint": "no",
             "text": "We\u2019ll choose instruments in the same order you arrived this morning",
             "previous": "a84ae203-39c5-5199-b5fb-9b2281dd70f8",
-            "next": "535410fb-192a-5bb3-859d-4c4b455845e1"
+            "next": "535410fb-192a-5bb3-859d-4c4b455845e1",
+            "speaker": "campbell"
         },
         "535410fb-192a-5bb3-859d-4c4b455845e1": {
             "ending": "no",
@@ -106,7 +127,13 @@
             "decisionPoint": "no",
             "text": "Oh dear, I was late this morning.",
             "previous": "b6be54a4-2a6f-5341-b770-3b3216128577",
-            "next": "b29ec030-a8f9-5147-a23d-9bd7d77b2f3b"
+            "next": "b29ec030-a8f9-5147-a23d-9bd7d77b2f3b",
+            "speaker": "darcy",
+            "background": "classroom_close_1",
+            "characters": {
+                "darcy": "1",
+                "tom": "2"
+            }
         },
         "69c7e725-0366-51d6-99c1-8dcb90665173": {
             "ending": "no",
@@ -114,7 +141,8 @@
             "decisionPoint": "no",
             "text": "Wow, I was the first one here!",
             "previous": "b29ec030-a8f9-5147-a23d-9bd7d77b2f3b",
-            "next": "121ee11b-21ba-5096-8098-02e5911eca78"
+            "next": "121ee11b-21ba-5096-8098-02e5911eca78",
+            "speaker": "tom"
         },
         "ceb110b3-d942-5e08-8ec5-1fa97d5f25bd": {
             "ending": "no",
@@ -122,7 +150,8 @@
             "decisionPoint": "no",
             "text": "No fair, you always choose first!",
             "previous": "121ee11b-21ba-5096-8098-02e5911eca78",
-            "next": "42fb0e85-248d-5e27-bf2e-35ea2c254752"
+            "next": "42fb0e85-248d-5e27-bf2e-35ea2c254752",
+            "speaker": "darcy"
         },
         "e7e0e948-6d93-5f0e-90cd-f0e036874c86": {
             "ending": "no",
@@ -130,7 +159,8 @@
             "decisionPoint": "no",
             "text": "Maybe you can try it tomorrow? ",
             "previous": "42fb0e85-248d-5e27-bf2e-35ea2c254752",
-            "next": "ec33536c-b920-5161-8f81-449b98ef4189"
+            "next": "ec33536c-b920-5161-8f81-449b98ef4189",
+            "speaker": "tom"
         },
         "ec33536c-b920-5161-8f81-449b98ef4189": {
             "ending": "no",
@@ -138,7 +168,8 @@
             "decisionPoint": "no",
             "text": "Yeah, well you\u2019re gonna be terrible at it anyways.",
             "previous": "e7e0e948-6d93-5f0e-90cd-f0e036874c86",
-            "next": "bb12e981-e525-592b-82b7-c26d20aefa0d"
+            "next": "bb12e981-e525-592b-82b7-c26d20aefa0d",
+            "speaker": "darcy"
         },
         "9810dac2-b956-5436-ab05-84bdb703c0b5": {
             "ending": "yes",
@@ -146,13 +177,20 @@
             "decisionPoint": "no",
             "text": "EMPTY"
         },
-        "c46ce8d3-ccb3-5fa8-b5d6-881b2d0c196a": {
+        "3fadd166-3c11-5958-977c-b699baa53ce0": {
             "ending": "no",
             "collect_response": "no",
             "decisionPoint": "no",
-            "text": "Emma was so rude to you Darcy! ",
+            "text": "Tom was so rude to you Darcy! ",
             "previous": "bb12e981-e525-592b-82b7-c26d20aefa0d",
-            "next": "0303a3b8-69e4-5e23-8c96-a84f84e9c3ad"
+            "next": "0303a3b8-69e4-5e23-8c96-a84f84e9c3ad",
+            "background": "classroom_close_2",
+            "characters": {
+                "darcy": "2",
+                " varun": "4",
+                "jessica": "5",
+                "ariel": "6"
+            }
         },
         "7a06ab77-6105-5e92-95d7-a784582be0c3": {
             "ending": "no",
@@ -198,7 +236,12 @@
             "decisionPoint": "no",
             "text": "See you\u2019re terrible at the tambourine!",
             "previous": "68c64567-82c0-5726-adc3-3ed6a332fd9c",
-            "next": "3cf338bd-7a09-57d0-823b-7883413ed6b1"
+            "next": "3cf338bd-7a09-57d0-823b-7883413ed6b1",
+            "background": "classroom_close_1",
+            "characters": {
+                "darcy": "2",
+                "tom": "3"
+            }
         },
         "a701ded8-c901-532b-9ee9-84e602c4c13b": {
             "ending": "no",
@@ -224,11 +267,11 @@
             "previous": "88a84eeb-3416-5b1b-b878-e0c586284053",
             "next": "e8dff9ea-f805-56dd-b07b-7d6e72e195af"
         },
-        "41ff88ec-4be1-5651-a691-8ee017e0cd97": {
+        "afac0b76-f4f6-56bb-a844-db38dbd8e639": {
             "ending": "no",
             "collect_response": "no",
             "decisionPoint": "no",
-            "text": "You do want to be friends with Emma, right?",
+            "text": "You do want to be friends with Tom, right?",
             "previous": "e8dff9ea-f805-56dd-b07b-7d6e72e195af",
             "next": "bb3a3b79-b91f-5740-9ecc-506433ff5497"
         },
@@ -237,7 +280,7 @@
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "Yeah...",
-            "previous": "41ff88ec-4be1-5651-a691-8ee017e0cd97",
+            "previous": "afac0b76-f4f6-56bb-a844-db38dbd8e639",
             "next": "be142cd7-737a-59b5-90d0-84fa08310fbe"
         },
         "34a326e4-d6a5-5738-b00a-ca3e2b4d2c55": {
@@ -264,13 +307,18 @@
             "previous": "a1aa1e28-41c8-5c4c-b70f-b54fd583a3b6",
             "next": "d302acbf-7c6b-52a1-ae35-e3cbb29690d0"
         },
-        "2ff95ac8-ce6e-5d9a-a04b-d11c2667b9cd": {
+        "2e022aef-7def-56e7-838f-14d82a59c044": {
             "ending": "no",
             "collect_response": "no",
             "decisionPoint": "no",
-            "text": "Hey Emma, I\u2019m sorry for saying you were bad at the tambourine. ",
+            "text": "Hey Tom, I\u2019m sorry for saying you were bad at the tambourine. ",
             "previous": "68c64567-82c0-5726-adc3-3ed6a332fd9c",
-            "next": "55f76da0-8011-5c68-9606-4da0776a1c70"
+            "next": "55f76da0-8011-5c68-9606-4da0776a1c70",
+            "background": "classroom_close_1",
+            "characters": {
+                "tom": "2",
+                "darcy": "3"
+            }
         },
         "faacdea8-ce4b-57bd-b3bf-ab32909d8133": {
             "ending": "no",
@@ -310,7 +358,8 @@
             "decisionPoint": "no",
             "text": "Can you help me pick out a t-shirt so I can get ready?",
             "previous": "23c54a53-b812-5c32-a326-a6b2b08805aa",
-            "next": "f4fe6b4f-f6fa-5c2b-9b74-5f6cf535ad5b"
+            "next": "f4fe6b4f-f6fa-5c2b-9b74-5f6cf535ad5b",
+            "speaker": "darcy"
         },
         "9e33daa7-0f8c-5903-9c51-5f478b4bf31e": {
             "ending": "no",
@@ -318,7 +367,8 @@
             "decisionPoint": "no",
             "text": "I\u2019ve always wanted to play the tambourine.",
             "previous": "5a1ae6dd-bbc2-50ee-b9ca-c9d2e71caa03",
-            "next": "96b28ecc-99a1-55a0-b05e-120a58aa2fac"
+            "next": "96b28ecc-99a1-55a0-b05e-120a58aa2fac",
+            "speaker": "darcy"
         },
         "c7befd36-f86e-5028-8a43-8ceedba7b514": {
             "ending": "no",
@@ -326,7 +376,8 @@
             "decisionPoint": "no",
             "text": "Awesome! And we\u2019re here!",
             "previous": "96b28ecc-99a1-55a0-b05e-120a58aa2fac",
-            "next": "0eddd30a-03be-5992-a900-c86cf3a98654"
+            "next": "0eddd30a-03be-5992-a900-c86cf3a98654",
+            "speaker": "darcy"
         },
         "0eddd30a-03be-5992-a900-c86cf3a98654": {
             "ending": "no",
@@ -334,7 +385,8 @@
             "decisionPoint": "no",
             "text": "Let\u2019s go inside, we\u2019re already late.",
             "previous": "c7befd36-f86e-5028-8a43-8ceedba7b514",
-            "next": "612da785-ab31-5ead-a690-04741dd1be2f"
+            "next": "612da785-ab31-5ead-a690-04741dd1be2f",
+            "speaker": "darcy"
         },
         "0f137c05-1dd5-5ae1-b602-1913e54863d2": {
             "ending": "no",
@@ -342,7 +394,8 @@
             "decisionPoint": "no",
             "text": "Are we ready for music day?",
             "previous": "b91d0a4e-3c24-5499-bf2c-382b154cc418",
-            "next": "b8ee356a-99a9-5c81-8b3d-1fca7133d492"
+            "next": "b8ee356a-99a9-5c81-8b3d-1fca7133d492",
+            "speaker": "campbell"
         },
         "a84ae203-39c5-5199-b5fb-9b2281dd70f8": {
             "ending": "no",
@@ -350,7 +403,8 @@
             "decisionPoint": "no",
             "text": "But we only have one of each.",
             "previous": "b8ee356a-99a9-5c81-8b3d-1fca7133d492",
-            "next": "b6be54a4-2a6f-5341-b770-3b3216128577"
+            "next": "b6be54a4-2a6f-5341-b770-3b3216128577",
+            "speaker": "campbell"
         },
         "b29ec030-a8f9-5147-a23d-9bd7d77b2f3b": {
             "ending": "no",
@@ -358,7 +412,8 @@
             "decisionPoint": "no",
             "text": "I hope nobody else picks the tambourine.",
             "previous": "535410fb-192a-5bb3-859d-4c4b455845e1",
-            "next": "69c7e725-0366-51d6-99c1-8dcb90665173"
+            "next": "69c7e725-0366-51d6-99c1-8dcb90665173",
+            "speaker": "darcy"
         },
         "121ee11b-21ba-5096-8098-02e5911eca78": {
             "ending": "no",
@@ -366,7 +421,8 @@
             "decisionPoint": "no",
             "text": "I choose the tambourine!",
             "previous": "69c7e725-0366-51d6-99c1-8dcb90665173",
-            "next": "ceb110b3-d942-5e08-8ec5-1fa97d5f25bd"
+            "next": "ceb110b3-d942-5e08-8ec5-1fa97d5f25bd",
+            "speaker": "tom"
         },
         "42fb0e85-248d-5e27-bf2e-35ea2c254752": {
             "ending": "no",
@@ -374,7 +430,8 @@
             "decisionPoint": "no",
             "text": "I just wanted to play the tambourine today!",
             "previous": "ceb110b3-d942-5e08-8ec5-1fa97d5f25bd",
-            "next": "e7e0e948-6d93-5f0e-90cd-f0e036874c86"
+            "next": "e7e0e948-6d93-5f0e-90cd-f0e036874c86",
+            "speaker": "darcy"
         },
         "bb12e981-e525-592b-82b7-c26d20aefa0d": {
             "ending": "no",
@@ -382,14 +439,15 @@
             "decisionPoint": "no",
             "text": "You stink.",
             "previous": "ec33536c-b920-5161-8f81-449b98ef4189",
-            "next": "c46ce8d3-ccb3-5fa8-b5d6-881b2d0c196a"
+            "next": "3fadd166-3c11-5958-977c-b699baa53ce0",
+            "speaker": "darcy"
         },
         "0303a3b8-69e4-5e23-8c96-a84f84e9c3ad": {
             "ending": "no",
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "You should just take the tambourine from her when she messes up.",
-            "previous": "c46ce8d3-ccb3-5fa8-b5d6-881b2d0c196a",
+            "previous": "3fadd166-3c11-5958-977c-b699baa53ce0",
             "next": "7a06ab77-6105-5e92-95d7-a784582be0c3"
         },
         "061789bd-1f49-5402-a242-b760119fc9b7": {
@@ -422,7 +480,7 @@
             "decisionPoint": "no",
             "text": "But you were mean to her then as well.",
             "previous": "6bea222c-5ac5-55a5-b52e-ec2a8dfc59ca",
-            "next": "41ff88ec-4be1-5651-a691-8ee017e0cd97"
+            "next": "afac0b76-f4f6-56bb-a844-db38dbd8e639"
         },
         "be142cd7-737a-59b5-90d0-84fa08310fbe": {
             "ending": "no",
@@ -445,7 +503,7 @@
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "That wasn\u2019t very nice of me.",
-            "previous": "2ff95ac8-ce6e-5d9a-a04b-d11c2667b9cd",
+            "previous": "2e022aef-7def-56e7-838f-14d82a59c044",
             "next": "faacdea8-ce4b-57bd-b3bf-ab32909d8133"
         },
         "d302acbf-7c6b-52a1-ae35-e3cbb29690d0": {
@@ -478,7 +536,12 @@
             "decisionPoint": "no",
             "text": "Well, let's just get on with music day then.",
             "previous": "68c64567-82c0-5726-adc3-3ed6a332fd9c",
-            "next": "ed28d55e-5801-5afb-bd5f-660033bac227"
+            "next": "ed28d55e-5801-5afb-bd5f-660033bac227",
+            "background": "classroom_close_1",
+            "characters": {
+                "tom": "2",
+                "darcy": "3"
+            }
         },
         "ed28d55e-5801-5afb-bd5f-660033bac227": {
             "ending": "no",
@@ -486,22 +549,22 @@
             "decisionPoint": "no",
             "text": "Oh... okay then.",
             "previous": "4f7e8073-cdd2-5219-b259-53154844d046",
-            "next": "ede49c8e-9b34-564f-82e0-301a2fa55fcd"
+            "next": "5cc36e6e-dd87-52ff-b0b7-4e7f8c0ccc2c"
         },
-        "ede49c8e-9b34-564f-82e0-301a2fa55fcd": {
+        "5cc36e6e-dd87-52ff-b0b7-4e7f8c0ccc2c": {
             "ending": "no",
             "collect_response": "no",
             "decisionPoint": "no",
-            "text": "Darcy, I noticed that you haven't apologized to Emma.",
-            "previous": "ed28d55e-5801-5afb-bd5f-660033bac227",
-            "next": "013d264f-30cd-5e0c-b740-b9d7da085bdb"
+            "text": "Darcy, I noticed that you haven't apologized to Tom.",
+            "previous": "68c64567-82c0-5726-adc3-3ed6a332fd9c",
+            "next": "2261f6d2-485a-5aa8-84b4-0cebdb792335"
         },
         "013d264f-30cd-5e0c-b740-b9d7da085bdb": {
             "ending": "no",
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "I thought we could just get on with the day...",
-            "previous": "ede49c8e-9b34-564f-82e0-301a2fa55fcd",
+            "previous": "5cc36e6e-dd87-52ff-b0b7-4e7f8c0ccc2c",
             "next": "26df9700-7145-51fa-a44f-3a1f54eacc7c"
         },
         "26df9700-7145-51fa-a44f-3a1f54eacc7c": {
@@ -711,14 +774,6 @@
             "text": "You handled that situation wonderfully.",
             "previous": "27bd70d7-5935-5da8-80b3-2949732b81df",
             "next": "97d163b7-923b-587d-8242-eb90a7edb23c"
-        },
-        "5cc36e6e-dd87-52ff-b0b7-4e7f8c0ccc2c": {
-            "ending": "no",
-            "collect_response": "no",
-            "decisionPoint": "no",
-            "text": "Darcy, I noticed that you haven't apologized to Tom.",
-            "previous": "68c64567-82c0-5726-adc3-3ed6a332fd9c",
-            "next": "2261f6d2-485a-5aa8-84b4-0cebdb792335"
         },
         "2261f6d2-485a-5aa8-84b4-0cebdb792335": {
             "ending": "no",

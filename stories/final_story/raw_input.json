@@ -183,8 +183,13 @@
         "y": 283
       },
       "caption": "Good morning everyone! ",
-      "labels": [],
-      "properties": {},
+      "labels": [
+        "campbell"
+      ],
+      "properties": {
+        "background": "classroom",
+        "characters": "darcy:1,tom:2,varun:3,jessica:4,ariel:5,campbell:7"
+      },
       "style": {}
     },
     {
@@ -194,7 +199,9 @@
         "y": 283
       },
       "caption": "We have a couple different instruments.",
-      "labels": [],
+      "labels": [
+        "campbell"
+      ],
       "properties": {},
       "style": {}
     },
@@ -205,7 +212,9 @@
         "y": 283
       },
       "caption": "We’ll choose instruments in the same order you arrived this morning",
-      "labels": [],
+      "labels": [
+        "campbell"
+      ],
       "properties": {},
       "style": {}
     },
@@ -216,8 +225,13 @@
         "y": 424.5
       },
       "caption": "Oh dear, I was late this morning.",
-      "labels": [],
-      "properties": {},
+      "labels": [
+        "darcy"
+      ],
+      "properties": {
+        "background": "classroom_close_1",
+        "characters": "darcy:1,tom:2"
+      },
       "style": {}
     },
     {
@@ -227,40 +241,48 @@
         "y": 424.5
       },
       "caption": "Wow, I was the first one here!",
-      "labels": [],
+      "labels": [
+        "tom"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n14",
       "position": {
-        "x": 3.998419608075114e-32,
-        "y": 609.4196322256474
+        "x": 640.5803966635449,
+        "y": 424.5
       },
       "caption": "No fair, you always choose first!",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n15",
       "position": {
-        "x": 289.3873442938495,
-        "y": 609.4196322256474
+        "x": 929.9677409573943,
+        "y": 424.5
       },
       "caption": "Maybe you can try it tomorrow? ",
-      "labels": [],
+      "labels": [
+        "tom"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n16",
       "position": {
-        "x": 463.01975087015916,
-        "y": 609.4196322256474
+        "x": 1103.6001475337039,
+        "y": 424.5
       },
       "caption": "Yeah, well you’re gonna be terrible at it anyways.",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
@@ -303,9 +325,12 @@
         "x": -2.511765405287232e-32,
         "y": 749.1202455612238
       },
-      "caption": "Emma was so rude to you Darcy! ",
+      "caption": "Tom was so rude to you Darcy! ",
       "labels": [],
-      "properties": {},
+      "properties": {
+        "background": "classroom_close_2",
+        "characters": "darcy:2, varun:4,jessica:5,ariel:6"
+      },
       "style": {}
     },
     {
@@ -349,7 +374,10 @@
       },
       "caption": "See you’re terrible at the tambourine!",
       "labels": [],
-      "properties": {},
+      "properties": {
+        "background": "classroom_close_1",
+        "characters": "darcy:2,tom:3"
+      },
       "style": {}
     },
     {
@@ -391,7 +419,7 @@
         "x": 1000.2548035554088,
         "y": 1026.1853162414832
       },
-      "caption": "You do want to be friends with Emma, right?",
+      "caption": "You do want to be friends with Tom, right?",
       "labels": [],
       "properties": {},
       "style": {}
@@ -432,8 +460,8 @@
     {
       "id": "n32",
       "position": {
-        "x": 2001.8832275733923,
-        "y": 1222.0585391356165
+        "x": 2001.6602575209254,
+        "y": 1516.5153943785776
       },
       "caption": "Hmm it seems like you could have made better decisions for Darcy.",
       "labels": [],
@@ -443,19 +471,22 @@
     {
       "id": "n33",
       "position": {
-        "x": -0.11148502623348122,
-        "y": 1404.2505359391673
+        "x": -0.33445507870055735,
+        "y": 1698.7073911821285
       },
-      "caption": "Hey Emma, I’m sorry for saying you were bad at the tambourine. ",
+      "caption": "Hey Tom, I’m sorry for saying you were bad at the tambourine. ",
       "labels": [],
-      "properties": {},
+      "properties": {
+        "background": "classroom_close_1",
+        "characters": "tom:2,darcy:3"
+      },
       "style": {}
     },
     {
       "id": "n34",
       "position": {
-        "x": 337.51897437447457,
-        "y": 1404.2505380052658
+        "x": 337.2960043220075,
+        "y": 1698.707393248227
       },
       "caption": "That’s ok, I forgive you!",
       "labels": [],
@@ -465,8 +496,8 @@
     {
       "id": "n35",
       "position": {
-        "x": 506.2227190485953,
-        "y": 1404.2505359391673
+        "x": 505.99974899612823,
+        "y": 1698.7073911821285
       },
       "caption": "Wanna rock out together?",
       "labels": [],
@@ -476,8 +507,8 @@
     {
       "id": "n36",
       "position": {
-        "x": 694.4181412790052,
-        "y": 1404.25053212447
+        "x": 694.1951712265382,
+        "y": 1698.7073873674312
       },
       "caption": "Let’s do it!",
       "labels": [],
@@ -487,8 +518,8 @@
     {
       "id": "n37",
       "position": {
-        "x": 907.9025864764311,
-        "y": 1404.2505286067862
+        "x": 907.679616423964,
+        "y": 1698.7073838497474
       },
       "caption": "That was lovely to watch! ",
       "labels": [],
@@ -554,7 +585,9 @@
         "y": 283
       },
       "caption": "Are we ready for music day?",
-      "labels": [],
+      "labels": [
+        "campbell"
+      ],
       "properties": {},
       "style": {}
     },
@@ -565,7 +598,9 @@
         "y": 283
       },
       "caption": "But we only have one of each.",
-      "labels": [],
+      "labels": [
+        "campbell"
+      ],
       "properties": {},
       "style": {}
     },
@@ -576,7 +611,9 @@
         "y": 424.5
       },
       "caption": "I hope nobody else picks the tambourine.",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
@@ -587,29 +624,35 @@
         "y": 424.5
       },
       "caption": "I choose the tambourine!",
-      "labels": [],
+      "labels": [
+        "tom"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n46",
       "position": {
-        "x": 144.69367214692474,
-        "y": 609.4196322256474
+        "x": 785.2740688104697,
+        "y": 424.5
       },
       "caption": "I just wanted to play the tambourine today!",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
     {
       "id": "n47",
       "position": {
-        "x": 618.2024480477766,
-        "y": 609.4196322256474
+        "x": 1258.7828447113216,
+        "y": 424.5
       },
       "caption": "You stink.",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
@@ -704,8 +747,8 @@
     {
       "id": "n56",
       "position": {
-        "x": 2154.3887710126733,
-        "y": 1222.0585510986282
+        "x": 2154.165800960206,
+        "y": 1516.5154063415894
       },
       "caption": " Let’s rewind and try that again.",
       "labels": [],
@@ -715,8 +758,8 @@
     {
       "id": "n57",
       "position": {
-        "x": 168.81522970035408,
-        "y": 1404.2505286067862
+        "x": 168.592259647887,
+        "y": 1698.7073838497474
       },
       "caption": "That wasn’t very nice of me.",
       "labels": [],
@@ -726,8 +769,8 @@
     {
       "id": "n58",
       "position": {
-        "x": 1063.5412850627513,
-        "y": 1404.250526042254
+        "x": 1063.318315010284,
+        "y": 1698.7073812852152
       },
       "caption": "You handled that situation with grace, and apologized like a pro!",
       "labels": [],
@@ -737,8 +780,8 @@
     {
       "id": "n59",
       "position": {
-        "x": 1219.1799836490718,
-        "y": 1404.2505286067862
+        "x": 1218.9570135966046,
+        "y": 1698.7073838497474
       },
       "caption": "Let’s get on with music day, shall we?",
       "labels": [],
@@ -748,19 +791,22 @@
     {
       "id": "n60",
       "position": {
-        "x": 1.1368683772161603e-13,
-        "y": 1222.0584683324928
+        "x": -0.2229700524670193,
+        "y": 1347.7000938750998
       },
       "caption": "Well, let's just get on with music day then.",
       "labels": [],
-      "properties": {},
+      "properties": {
+        "background": "classroom_close_1",
+        "characters": "tom:2,darcy:3"
+      },
       "style": {}
     },
     {
       "id": "n61",
       "position": {
-        "x": 168.81522970035414,
-        "y": 1222.0584683324928
+        "x": 168.592259647887,
+        "y": 1347.7000938750998
       },
       "caption": "Oh... okay then.",
       "labels": [],
@@ -770,19 +816,21 @@
     {
       "id": "n62",
       "position": {
-        "x": 337.63045940070816,
-        "y": 1222.0584683324928
+        "x": -0.33445507870067104,
+        "y": 1491.8629366522975
       },
-      "caption": "Darcy, I noticed that you haven't apologized to Emma.",
+      "caption": "Darcy, I noticed that you haven't apologized to Tom.",
       "labels": [],
-      "properties": {},
+      "properties": {
+        "characters": "tom:2,darcy:3, campbell:4"
+      },
       "style": {}
     },
     {
       "id": "n63",
       "position": {
-        "x": 506.44568910106216,
-        "y": 1222.058465028868
+        "x": 170.5709894025598,
+        "y": 1491.8629297076639
       },
       "caption": "I thought we could just get on with the day...",
       "labels": [],
@@ -792,8 +840,8 @@
     {
       "id": "n64",
       "position": {
-        "x": 675.2609188014161,
-        "y": 1222.0584617252434
+        "x": 339.38621910291374,
+        "y": 1491.8629264040392
       },
       "caption": "Darcy, ignoring our mistakes doesn't make them disappear.",
       "labels": [],
@@ -803,8 +851,8 @@
     {
       "id": "n65",
       "position": {
-        "x": 844.07614850177,
-        "y": 1222.0584644226417
+        "x": 508.2014488032677,
+        "y": 1491.8629291014374
       },
       "caption": "When we do something wrong, it's important to say sorry.",
       "labels": [],
@@ -814,8 +862,8 @@
     {
       "id": "n66",
       "position": {
-        "x": 1000.2548035554089,
-        "y": 1222.0584683324928
+        "x": 664.3801038569065,
+        "y": 1491.8629330112885
       },
       "caption": "I guess you're right, Ms. Campbell...",
       "labels": [],
@@ -825,8 +873,8 @@
     {
       "id": "n67",
       "position": {
-        "x": 1145.6945824178056,
-        "y": 1222.0584719735018
+        "x": 809.8198827193031,
+        "y": 1491.8629366522975
       },
       "caption": "I'm sorry for saying you would be terrible at the tambourine",
       "labels": [],
@@ -836,8 +884,8 @@
     {
       "id": "n68",
       "position": {
-        "x": 0,
-        "y": 1634.9713748894103
+        "x": -10.65784489204259,
+        "y": 2047.001152381265
       },
       "caption": "If everyone has chosen their instruments, let's start!",
       "labels": [],
@@ -847,8 +895,8 @@
     {
       "id": "n69",
       "position": {
-        "x": 168.92671472658756,
-        "y": 1634.9713748894103
+        "x": 158.26886983454497,
+        "y": 2047.001152381265
       },
       "caption": "Tom, you're playing too loud!",
       "labels": [],
@@ -858,8 +906,8 @@
     {
       "id": "n70",
       "position": {
-        "x": 337.63045940070805,
-        "y": 1634.9713748894103
+        "x": 326.97261450866546,
+        "y": 2047.001152381265
       },
       "caption": "I can't hear myself!",
       "labels": [],
@@ -869,8 +917,8 @@
     {
       "id": "n71",
       "position": {
-        "x": 506.33420407482856,
-        "y": 1634.9713748894103
+        "x": 495.676359182786,
+        "y": 2047.001152381265
       },
       "caption": "Sorry Darcy, I didn't realize.",
       "labels": [],
@@ -880,8 +928,8 @@
     {
       "id": "n72",
       "position": {
-        "x": 675.0379487489491,
-        "y": 1634.9713748894103
+        "x": 664.3801038569065,
+        "y": 2047.001152381265
       },
       "caption": "Well you should have. ",
       "labels": [],
@@ -891,8 +939,8 @@
     {
       "id": "n73",
       "position": {
-        "x": 843.7416934230698,
-        "y": 1634.9713748894103
+        "x": 833.0838485310272,
+        "y": 2047.001152381265
       },
       "caption": "You're so selfish!",
       "labels": [],
@@ -902,8 +950,8 @@
     {
       "id": "n74",
       "position": {
-        "x": 0,
-        "y": 1767.308761321484
+        "x": -10.65784489204259,
+        "y": 2179.338538813339
       },
       "caption": "Tom should have known better.",
       "labels": [],
@@ -913,8 +961,8 @@
     {
       "id": "n75",
       "position": {
-        "x": 168.92671472658756,
-        "y": 1767.308761321484
+        "x": 158.26886983454497,
+        "y": 2179.338538813339
       },
       "caption": "You should apologize",
       "labels": [],
@@ -924,8 +972,8 @@
     {
       "id": "n76",
       "position": {
-        "x": 337.8534294531751,
-        "y": 1767.308761321484
+        "x": 327.19558456113253,
+        "y": 2179.338538813339
       },
       "caption": "Say \"I'm sorry, but you were too loud, Tom\"",
       "labels": [],
@@ -935,8 +983,8 @@
     {
       "id": "n77",
       "position": {
-        "x": 506.7801441797627,
-        "y": 1771.101936800626
+        "x": 496.1222992877201,
+        "y": 2183.1317142924804
       },
       "caption": "Darcy, that's not right.",
       "labels": [],
@@ -946,8 +994,8 @@
     {
       "id": "n78",
       "position": {
-        "x": 675.8772070983323,
-        "y": 1767.308761321484
+        "x": 665.2193622062897,
+        "y": 2179.338538813339
       },
       "caption": "You need to say sorry without any 'buts'.",
       "labels": [],
@@ -957,8 +1005,8 @@
     {
       "id": "n79",
       "position": {
-        "x": 843.7416934230698,
-        "y": 1767.308761321484
+        "x": 833.0838485310272,
+        "y": 2179.338538813339
       },
       "caption": "You should say, \"I'm sorry for calling you selfish, Tom.\"",
       "labels": [],
@@ -968,8 +1016,8 @@
     {
       "id": "n80",
       "position": {
-        "x": 1011.6061797478073,
-        "y": 1767.308761321484
+        "x": 1000.9483348557649,
+        "y": 2179.338538813339
       },
       "caption": "Tom already apologized, so let’s just move on.",
       "labels": [],
@@ -979,8 +1027,8 @@
     {
       "id": "n81",
       "position": {
-        "x": 1179.4706660725449,
-        "y": 1767.308761321484
+        "x": 1168.8128211805024,
+        "y": 2179.338538813339
       },
       "caption": "What should Darcy do?",
       "labels": [],
@@ -990,8 +1038,8 @@
     {
       "id": "n82",
       "position": {
-        "x": 0,
-        "y": 2168.330662522696
+        "x": -0.22297005246707613,
+        "y": 2462.787517765658
       },
       "caption": "Tom, I'm sorry, but you were playing too loud.",
       "labels": [],
@@ -1001,8 +1049,8 @@
     {
       "id": "n83",
       "position": {
-        "x": 168.92671472658756,
-        "y": 2168.330662522696
+        "x": 168.7037446741205,
+        "y": 2462.787517765658
       },
       "caption": "That doesn't feel like a real apology, Darcy.",
       "labels": [],
@@ -1012,8 +1060,8 @@
     {
       "id": "n84",
       "position": {
-        "x": 320.2901983317724,
-        "y": 2168.330662522696
+        "x": 320.0672282793053,
+        "y": 2462.787517765658
       },
       "caption": "Darcy, there are no \"but's\" in apologies.",
       "labels": [],
@@ -1023,8 +1071,8 @@
     {
       "id": "n85",
       "position": {
-        "x": 471.6536819369572,
-        "y": 2168.330662522696
+        "x": 471.4307118844901,
+        "y": 2462.787517765658
       },
       "caption": "A real apology has no excuses",
       "labels": [],
@@ -1034,8 +1082,8 @@
     {
       "id": "n86",
       "position": {
-        "x": 1548.4674070949425,
-        "y": 2168.330662522696
+        "x": 1548.2444370424755,
+        "y": 2462.787517765658
       },
       "caption": " Let’s rewind and try that again.",
       "labels": [],
@@ -1045,8 +1093,8 @@
     {
       "id": "n87",
       "position": {
-        "x": 1396.7214019185494,
-        "y": 2168.330662522696
+        "x": 1396.4984318660822,
+        "y": 2462.787517765658
       },
       "caption": "Hmm it seems like you could have made better decisions for Darcy.",
       "labels": [],
@@ -1056,8 +1104,8 @@
     {
       "id": "n88",
       "position": {
-        "x": 0,
-        "y": 2605.822982353895
+        "x": -0.22297005246707613,
+        "y": 2900.279837596857
       },
       "caption": "Tom, I'm sorry for calling you selfish.",
       "labels": [],
@@ -1067,8 +1115,8 @@
     {
       "id": "n89",
       "position": {
-        "x": 168.81522970035402,
-        "y": 2605.822982353895
+        "x": 168.59225964788695,
+        "y": 2900.279837596857
       },
       "caption": "That wasn't very nice of me",
       "labels": [],
@@ -1078,8 +1126,8 @@
     {
       "id": "n90",
       "position": {
-        "x": 320.2901983317724,
-        "y": 2605.822982353895
+        "x": 320.0672282793053,
+        "y": 2900.279837596857
       },
       "caption": "Thanks, Darcy. ",
       "labels": [],
@@ -1089,8 +1137,8 @@
     {
       "id": "n91",
       "position": {
-        "x": 471.7651669631908,
-        "y": 2605.822982353895
+        "x": 471.5421969107237,
+        "y": 2900.279837596857
       },
       "caption": "I appreciate your apology.",
       "labels": [],
@@ -1100,8 +1148,8 @@
     {
       "id": "n92",
       "position": {
-        "x": 623.2401355946092,
-        "y": 2605.822982353895
+        "x": 623.0171655421422,
+        "y": 2900.279837596857
       },
       "caption": "That was lovely to watch!",
       "labels": [],
@@ -1111,8 +1159,8 @@
     {
       "id": "n93",
       "position": {
-        "x": 774.7151042260277,
-        "y": 2605.822982353895
+        "x": 774.4921341735607,
+        "y": 2900.279837596857
       },
       "caption": "You handled that situation wonderfully.",
       "labels": [],
@@ -1122,8 +1170,8 @@
     {
       "id": "n94",
       "position": {
-        "x": 926.1900728574462,
-        "y": 2605.822982353895
+        "x": 925.9671028049792,
+        "y": 2900.279837596857
       },
       "caption": "Let’s get on with music day, shall we?",
       "labels": [],
@@ -1133,8 +1181,8 @@
     {
       "id": "n95",
       "position": {
-        "x": -0.11148502623359491,
-        "y": 2317.461210731753
+        "x": -0.33445507870067104,
+        "y": 2611.9180659747144
       },
       "caption": "Darcy, I noticed that you haven't apologized to Tom.",
       "labels": [],
@@ -1144,8 +1192,8 @@
     {
       "id": "n96",
       "position": {
-        "x": 168.92671472658756,
-        "y": 2317.461210731753
+        "x": 168.7037446741205,
+        "y": 2611.9180659747144
       },
       "caption": "No, Tom was supposed to apologize to me!",
       "labels": [],
@@ -1155,8 +1203,8 @@
     {
       "id": "n97",
       "position": {
-        "x": 320.2901983317724,
-        "y": 2317.461210731753
+        "x": 320.0672282793053,
+        "y": 2611.9180659747144
       },
       "caption": "Darcy, you called Tom selfish.",
       "labels": [],
@@ -1166,8 +1214,8 @@
     {
       "id": "n98",
       "position": {
-        "x": 471.7651669631908,
-        "y": 2317.461210731753
+        "x": 471.5421969107237,
+        "y": 2611.9180659747144
       },
       "caption": "Its your turn to apologize as well.",
       "labels": [],
@@ -1177,8 +1225,8 @@
     {
       "id": "n99",
       "position": {
-        "x": 623.2401355946092,
-        "y": 2317.461210731753
+        "x": 623.0171655421422,
+        "y": 2611.9180659747144
       },
       "caption": "When we do something wrong, it's important to say sorry.",
       "labels": [],
@@ -1188,8 +1236,8 @@
     {
       "id": "n100",
       "position": {
-        "x": 774.7151042260277,
-        "y": 2317.461210731753
+        "x": 774.4921341735607,
+        "y": 2611.9180659747144
       },
       "caption": "I guess you're right, Ms. Campbell",
       "labels": [],
@@ -1199,8 +1247,8 @@
     {
       "id": "n101",
       "position": {
-        "x": 926.1900728574462,
-        "y": 2317.461210731753
+        "x": 925.9671028049792,
+        "y": 2611.9180659747144
       },
       "caption": "I'm sorry for calling you selfish, Tom",
       "labels": [],
@@ -1210,8 +1258,8 @@
     {
       "id": "n102",
       "position": {
-        "x": -0.11148502623359491,
-        "y": 2923.1907588462427
+        "x": -0.33445507870067104,
+        "y": 3217.6476140892046
       },
       "caption": "Darcy, why aren't you playing your part?",
       "labels": [],
@@ -1221,8 +1269,8 @@
     {
       "id": "n103",
       "position": {
-        "x": 168.92671472658756,
-        "y": 2923.1907588462427
+        "x": 168.7037446741205,
+        "y": 3217.6476140892046
       },
       "caption": "I wanted to the play the tambourine, not the flute!",
       "labels": [],
@@ -1232,8 +1280,8 @@
     {
       "id": "n104",
       "position": {
-        "x": 320.2901983317724,
-        "y": 2923.1907588462427
+        "x": 320.0672282793053,
+        "y": 3217.6476140892046
       },
       "caption": "People who play the flute are boring.",
       "labels": [],
@@ -1243,8 +1291,8 @@
     {
       "id": "n105",
       "position": {
-        "x": 471.6536819369572,
-        "y": 2923.1907561488442
+        "x": 471.4307118844901,
+        "y": 3217.647611391806
       },
       "caption": "I wanna rock out!",
       "labels": [],
@@ -1254,8 +1302,8 @@
     {
       "id": "n106",
       "position": {
-        "x": 623.2401355946092,
-        "y": 2923.190753447472
+        "x": 623.0171655421422,
+        "y": 3217.647608690434
       },
       "caption": "[Emma looks sad]",
       "labels": [],
@@ -1265,8 +1313,8 @@
     {
       "id": "n107",
       "position": {
-        "x": 774.8265892522613,
-        "y": 2923.1907507461
+        "x": 774.6036191997943,
+        "y": 3217.647605989062
       },
       "caption": "What should Darcy say to Emma?",
       "labels": [],
