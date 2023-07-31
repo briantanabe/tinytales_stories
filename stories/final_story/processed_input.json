@@ -6,10 +6,9 @@
             "decisionPoint": "no",
             "text": "Hi! I\u2019m Darcy, nice to meet you! ",
             "next": "23c54a53-b812-5c32-a326-a6b2b08805aa",
-            "background": "test",
+            "background": "bedroom",
             "characters": {
-                "darcy": "1",
-                "tom": "4"
+                "darcy": "2"
             }
         },
         "23c54a53-b812-5c32-a326-a6b2b08805aa": {
@@ -50,7 +49,8 @@
             "decisionPoint": "no",
             "text": "Today is music day and we get to pick instruments to learn for the next week!",
             "previous": "49db0e61-0fca-5947-a560-64857d201852",
-            "next": "5a1ae6dd-bbc2-50ee-b9ca-c9d2e71caa03"
+            "next": "5a1ae6dd-bbc2-50ee-b9ca-c9d2e71caa03",
+            "background": "car"
         },
         "5a1ae6dd-bbc2-50ee-b9ca-c9d2e71caa03": {
             "ending": "no",

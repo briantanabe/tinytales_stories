@@ -86,10 +86,10 @@ def convert_arrow_json(input_file, output_file):
                 start_node = str(uuid.uuid5(uuid.NAMESPACE_DNS, node["caption"].strip().lower()))
             if node['labels'][0] == "collect_response":
                 node_data["collect_response"] = "yes"
-        if node['properties'] and node['properties']['background']:
+        if node['properties'] and "background" in node['properties']:
             node_data["background"] = node['properties']['background']
         
-        if node['properties'] and node['properties']['characters']:
+        if node['properties'] and "characters" in node['properties']:
             node_data["characters"] = {}
             for character in node['properties']['characters'].split(','):
                 node_data["characters"][character.split(':')[0]] = character.split(':')[1]

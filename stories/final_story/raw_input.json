@@ -61,11 +61,12 @@
       },
       "caption": "Hi! I’m Darcy, nice to meet you! ",
       "labels": [
-        "start"
+        "start",
+        "darcy"
       ],
       "properties": {
-        "background": "test",
-        "characters": "darcy:1,tom:3"
+        "background": "bedroom",
+        "characters": "darcy:2"
       },
       "style": {}
     },
@@ -76,7 +77,9 @@
         "y": 0
       },
       "caption": "I just woke up but I think I’m late for school! ",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
@@ -87,7 +90,9 @@
         "y": -6.469912838912802e-14
       },
       "caption": "Pick out a T-shirt for Darcy!",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
@@ -98,7 +103,9 @@
         "y": -2.8351782792257265e-14
       },
       "caption": "Thanks!",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
@@ -109,7 +116,9 @@
         "y": 0
       },
       "caption": "Let’s head to school, there’s a special activity planned for today",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
@@ -120,8 +129,12 @@
         "y": 141.5
       },
       "caption": "Today is music day and we get to pick instruments to learn for the next week!",
-      "labels": [],
-      "properties": {},
+      "labels": [
+        "darcy"
+      ],
+      "properties": {
+        "background": "car"
+      },
       "style": {}
     },
     {
@@ -131,7 +144,9 @@
         "y": 141.5
       },
       "caption": "I’m so excited!",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
@@ -142,7 +157,9 @@
         "y": 141.5
       },
       "caption": "Can you help me play the tambourine?",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
@@ -153,7 +170,9 @@
         "y": 141.49999999999991
       },
       "caption": " Ms. Campbell will be looking for me!",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
@@ -483,7 +502,9 @@
         "y": -9.71031490350905e-14
       },
       "caption": "Can you help me pick out a t-shirt so I can get ready?",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
@@ -494,7 +515,9 @@
         "y": 141.49999999999997
       },
       "caption": "I’ve always wanted to play the tambourine.",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
@@ -505,7 +528,9 @@
         "y": 141.49999999999997
       },
       "caption": "Awesome! And we’re here!",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
@@ -516,7 +541,9 @@
         "y": 141.49999999999994
       },
       "caption": "Let’s go inside, we’re already late.",
-      "labels": [],
+      "labels": [
+        "darcy"
+      ],
       "properties": {},
       "style": {}
     },
