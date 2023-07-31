@@ -4,26 +4,26 @@
     {
       "alignedWord": "hey",
       "case": "success",
-      "end": 0.29000000000000004,
+      "end": 0.46,
       "endOffset": 3,
       "phones": [
         {
-          "duration": 0.17,
+          "duration": 0.12,
           "phone": "hh_B"
         },
         {
-          "duration": 0.11,
+          "duration": 0.21,
           "phone": "ey_E"
         }
       ],
-      "start": 0.01,
+      "start": 0.13,
       "startOffset": 0,
       "word": "Hey"
     },
     {
       "alignedWord": "no",
       "case": "success",
-      "end": 0.7,
+      "end": 0.91,
       "endOffset": 6,
       "phones": [
         {
@@ -31,18 +31,18 @@
           "phone": "n_B"
         },
         {
-          "duration": 0.3,
+          "duration": 0.34,
           "phone": "ow_E"
         }
       ],
-      "start": 0.29,
+      "start": 0.46,
       "startOffset": 4,
       "word": "no"
     },
     {
       "alignedWord": "it's",
       "case": "success",
-      "end": 0.97,
+      "end": 1.1600000000000001,
       "endOffset": 11,
       "phones": [
         {
@@ -50,38 +50,38 @@
           "phone": "ih_B"
         },
         {
-          "duration": 0.07,
+          "duration": 0.06,
           "phone": "t_I"
         },
         {
-          "duration": 0.08,
+          "duration": 0.11,
           "phone": "s_E"
         }
       ],
-      "start": 0.74,
+      "start": 0.91,
       "startOffset": 7,
       "word": "it\u2019s"
     },
     {
       "alignedWord": "not",
       "case": "success",
-      "end": 1.3399999999999999,
+      "end": 1.9,
       "endOffset": 15,
       "phones": [
         {
-          "duration": 0.1,
+          "duration": 0.14,
           "phone": "n_B"
         },
         {
-          "duration": 0.17,
+          "duration": 0.31,
           "phone": "aa_I"
         },
         {
-          "duration": 0.09,
+          "duration": 0.28,
           "phone": "t_E"
         }
       ],
-      "start": 0.98,
+      "start": 1.17,
       "startOffset": 12,
       "word": "not"
     }

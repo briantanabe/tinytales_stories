@@ -4,11 +4,11 @@
     {
       "alignedWord": "darcy",
       "case": "success",
-      "end": 0.62,
+      "end": 0.84,
       "endOffset": 5,
       "phones": [
         {
-          "duration": 0.07,
+          "duration": 0.15,
           "phone": "d_B"
         },
         {
@@ -16,72 +16,72 @@
           "phone": "aa_I"
         },
         {
-          "duration": 0.09,
+          "duration": 0.11,
           "phone": "r_I"
         },
         {
-          "duration": 0.13,
+          "duration": 0.12,
           "phone": "s_I"
         },
         {
-          "duration": 0.16,
+          "duration": 0.38,
           "phone": "iy_E"
         }
       ],
-      "start": 0.09,
+      "start": 0.0,
       "startOffset": 0,
       "word": "Darcy"
     },
     {
       "alignedWord": "i",
       "case": "success",
-      "end": 1.2,
+      "end": 1.27,
       "endOffset": 8,
       "phones": [
         {
-          "duration": 0.23,
+          "duration": 0.19,
           "phone": "ay_S"
         }
       ],
-      "start": 0.97,
+      "start": 1.08,
       "startOffset": 7,
       "word": "I"
     },
     {
       "alignedWord": "heard",
       "case": "success",
-      "end": 1.5899999999999999,
+      "end": 1.52,
       "endOffset": 14,
       "phones": [
         {
-          "duration": 0.11,
+          "duration": 0.09,
           "phone": "hh_B"
         },
         {
-          "duration": 0.13,
+          "duration": 0.07,
           "phone": "er_I"
         },
         {
-          "duration": 0.13,
+          "duration": 0.05,
           "phone": "d_E"
         }
       ],
-      "start": 1.22,
+      "start": 1.31,
       "startOffset": 9,
       "word": "heard"
     },
     {
       "alignedWord": "everything",
       "case": "success",
-      "end": 2.51,
+      "end": 2.2800000000000002,
       "endOffset": 25,
       "phones": [
         {
-          "duration": 0.13,
+          "duration": 0.09,
           "phone": "eh_B"
         },
         {
-          "duration": 0.16,
+          "duration": 0.09,
           "phone": "v_I"
         },
         {
@@ -89,23 +89,23 @@
           "phone": "r_I"
         },
         {
-          "duration": 0.07,
+          "duration": 0.06,
           "phone": "iy_I"
         },
         {
-          "duration": 0.13,
+          "duration": 0.11,
           "phone": "th_I"
         },
         {
-          "duration": 0.11,
+          "duration": 0.12,
           "phone": "ih_I"
         },
         {
-          "duration": 0.13,
+          "duration": 0.23,
           "phone": "ng_E"
         }
       ],
-      "start": 1.72,
+      "start": 1.52,
       "startOffset": 15,
       "word": "everything"
     }

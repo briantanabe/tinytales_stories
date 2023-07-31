@@ -4,72 +4,72 @@
     {
       "alignedWord": "well",
       "case": "success",
-      "end": 0.55,
+      "end": 0.48,
       "endOffset": 4,
       "phones": [
         {
-          "duration": 0.12,
+          "duration": 0.09,
           "phone": "w_B"
         },
         {
-          "duration": 0.15,
+          "duration": 0.21,
           "phone": "eh_I"
         },
         {
-          "duration": 0.23,
+          "duration": 0.07,
           "phone": "l_E"
         }
       ],
-      "start": 0.05,
+      "start": 0.11,
       "startOffset": 0,
       "word": "Well"
     },
     {
       "alignedWord": "you",
       "case": "success",
-      "end": 1.03,
+      "end": 0.6799999999999999,
       "endOffset": 8,
       "phones": [
         {
-          "duration": 0.17,
+          "duration": 0.11,
           "phone": "y_B"
         },
         {
-          "duration": 0.11,
+          "duration": 0.09,
           "phone": "uw_E"
         }
       ],
-      "start": 0.75,
+      "start": 0.48,
       "startOffset": 5,
       "word": "you"
     },
     {
       "alignedWord": "should",
       "case": "success",
-      "end": 1.3800000000000001,
+      "end": 1.01,
       "endOffset": 15,
       "phones": [
         {
-          "duration": 0.18,
+          "duration": 0.16,
           "phone": "sh_B"
         },
         {
-          "duration": 0.09,
+          "duration": 0.11,
           "phone": "uh_I"
         },
         {
-          "duration": 0.07,
+          "duration": 0.06,
           "phone": "d_E"
         }
       ],
-      "start": 1.04,
+      "start": 0.68,
       "startOffset": 9,
       "word": "should"
     },
     {
       "alignedWord": "have",
       "case": "success",
-      "end": 1.7599999999999998,
+      "end": 1.46,
       "endOffset": 20,
       "phones": [
         {
@@ -77,15 +77,15 @@
           "phone": "hh_B"
         },
         {
-          "duration": 0.11,
+          "duration": 0.23,
           "phone": "ae_I"
         },
         {
-          "duration": 0.17,
+          "duration": 0.12,
           "phone": "v_E"
         }
       ],
-      "start": 1.39,
+      "start": 1.02,
       "startOffset": 16,
       "word": "have"
     }

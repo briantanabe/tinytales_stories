@@ -1,18 +1,18 @@
 {
-  "transcript": "Should I have a doughnut",
+  "transcript": "Should I have this doughnut",
   "words": [
     {
       "alignedWord": "should",
       "case": "success",
-      "end": 0.4,
+      "end": 0.41,
       "endOffset": 6,
       "phones": [
         {
-          "duration": 0.11,
+          "duration": 0.17,
           "phone": "sh_B"
         },
         {
-          "duration": 0.07,
+          "duration": 0.04,
           "phone": "uh_I"
         },
         {
@@ -20,83 +20,91 @@
           "phone": "d_E"
         }
       ],
-      "start": 0.14,
+      "start": 0.12,
       "startOffset": 0,
       "word": "Should"
     },
     {
       "alignedWord": "i",
       "case": "success",
-      "end": 0.5800000000000001,
+      "end": 0.44999999999999996,
       "endOffset": 8,
       "phones": [
         {
-          "duration": 0.18,
+          "duration": 0.04,
           "phone": "ay_S"
         }
       ],
-      "start": 0.4,
+      "start": 0.41,
       "startOffset": 7,
       "word": "I"
     },
     {
       "alignedWord": "have",
       "case": "success",
-      "end": 0.85,
+      "end": 0.71,
       "endOffset": 13,
       "phones": [
         {
-          "duration": 0.11,
+          "duration": 0.13,
           "phone": "hh_B"
         },
         {
-          "duration": 0.12,
+          "duration": 0.04,
           "phone": "ae_I"
         },
         {
-          "duration": 0.03,
+          "duration": 0.09,
           "phone": "v_E"
         }
       ],
-      "start": 0.59,
+      "start": 0.45,
       "startOffset": 9,
       "word": "have"
     },
     {
-      "alignedWord": "a",
+      "alignedWord": "this",
       "case": "success",
-      "end": 0.87,
-      "endOffset": 15,
+      "end": 0.8899999999999999,
+      "endOffset": 18,
       "phones": [
         {
           "duration": 0.01,
-          "phone": "ah_S"
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_E"
         }
       ],
-      "start": 0.86,
+      "start": 0.71,
       "startOffset": 14,
-      "word": "a"
+      "word": "this"
     },
     {
       "alignedWord": "doughnut",
       "case": "success",
-      "end": 1.25,
-      "endOffset": 24,
+      "end": 1.11,
+      "endOffset": 27,
       "phones": [
         {
-          "duration": 0.1,
+          "duration": 0.06,
           "phone": "d_B"
         },
         {
-          "duration": 0.1,
+          "duration": 0.11,
           "phone": "ow_I"
         },
         {
-          "duration": 0.09,
+          "duration": 0.03,
           "phone": "n_I"
         },
         {
-          "duration": 0.08,
+          "duration": 0.01,
           "phone": "ah_I"
         },
         {
@@ -104,8 +112,8 @@
           "phone": "t_E"
         }
       ],
-      "start": 0.87,
-      "startOffset": 16,
+      "start": 0.89,
+      "startOffset": 19,
       "word": "doughnut"
     }
   ]

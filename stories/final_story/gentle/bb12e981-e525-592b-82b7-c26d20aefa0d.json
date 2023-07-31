@@ -4,26 +4,26 @@
     {
       "alignedWord": "you",
       "case": "success",
-      "end": 0.27,
+      "end": 0.33,
       "endOffset": 3,
       "phones": [
         {
-          "duration": 0.16,
+          "duration": 0.01,
           "phone": "y_B"
         },
         {
-          "duration": 0.11,
+          "duration": 0.09,
           "phone": "uw_E"
         }
       ],
-      "start": 0.0,
+      "start": 0.23,
       "startOffset": 0,
       "word": "You"
     },
     {
       "alignedWord": "stink",
       "case": "success",
-      "end": 0.93,
+      "end": 1.04,
       "endOffset": 9,
       "phones": [
         {
@@ -31,23 +31,23 @@
           "phone": "s_B"
         },
         {
-          "duration": 0.08,
+          "duration": 0.09,
           "phone": "t_I"
         },
         {
-          "duration": 0.08,
+          "duration": 0.16,
           "phone": "ih_I"
         },
         {
-          "duration": 0.12,
+          "duration": 0.09,
           "phone": "ng_I"
         },
         {
-          "duration": 0.24,
+          "duration": 0.23,
           "phone": "k_E"
         }
       ],
-      "start": 0.27,
+      "start": 0.33,
       "startOffset": 4,
       "word": "stink"
     }

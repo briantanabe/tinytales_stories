@@ -4,26 +4,26 @@
     {
       "alignedWord": "if",
       "case": "success",
-      "end": 0.32999999999999996,
+      "end": 0.27,
       "endOffset": 2,
       "phones": [
         {
-          "duration": 0.1,
+          "duration": 0.18,
           "phone": "ih_B"
         },
         {
-          "duration": 0.08,
+          "duration": 0.09,
           "phone": "f_E"
         }
       ],
-      "start": 0.15,
+      "start": 0.0,
       "startOffset": 0,
       "word": "If"
     },
     {
       "alignedWord": "everyone",
       "case": "success",
-      "end": 0.97,
+      "end": 0.76,
       "endOffset": 11,
       "phones": [
         {
@@ -31,11 +31,11 @@
           "phone": "eh_B"
         },
         {
-          "duration": 0.11,
+          "duration": 0.08,
           "phone": "v_I"
         },
         {
-          "duration": 0.04,
+          "duration": 0.01,
           "phone": "r_I"
         },
         {
@@ -43,57 +43,57 @@
           "phone": "iy_I"
         },
         {
-          "duration": 0.09,
+          "duration": 0.05,
           "phone": "w_I"
         },
         {
-          "duration": 0.08,
+          "duration": 0.07,
           "phone": "ah_I"
         },
         {
-          "duration": 0.05,
+          "duration": 0.06,
           "phone": "n_E"
         }
       ],
-      "start": 0.4,
+      "start": 0.29,
       "startOffset": 3,
       "word": "everyone"
     },
     {
       "alignedWord": "has",
       "case": "success",
-      "end": 1.21,
+      "end": 0.95,
       "endOffset": 15,
       "phones": [
         {
-          "duration": 0.05,
+          "duration": 0.04,
           "phone": "hh_B"
         },
         {
-          "duration": 0.08,
+          "duration": 0.07,
           "phone": "ae_I"
         },
         {
-          "duration": 0.11,
+          "duration": 0.08,
           "phone": "z_E"
         }
       ],
-      "start": 0.97,
+      "start": 0.76,
       "startOffset": 12,
       "word": "has"
     },
     {
       "alignedWord": "chosen",
       "case": "success",
-      "end": 1.68,
+      "end": 1.3199999999999998,
       "endOffset": 22,
       "phones": [
         {
-          "duration": 0.17,
+          "duration": 0.13,
           "phone": "ch_B"
         },
         {
-          "duration": 0.12,
+          "duration": 0.06,
           "phone": "ow_I"
         },
         {
@@ -101,22 +101,22 @@
           "phone": "z_I"
         },
         {
-          "duration": 0.07,
+          "duration": 0.06,
           "phone": "ah_I"
         },
         {
-          "duration": 0.04,
+          "duration": 0.05,
           "phone": "n_E"
         }
       ],
-      "start": 1.21,
+      "start": 0.95,
       "startOffset": 16,
       "word": "chosen"
     },
     {
       "alignedWord": "their",
       "case": "success",
-      "end": 1.8599999999999999,
+      "end": 1.48,
       "endOffset": 28,
       "phones": [
         {
@@ -124,26 +124,26 @@
           "phone": "dh_B"
         },
         {
-          "duration": 0.07,
+          "duration": 0.06,
           "phone": "eh_I"
         },
         {
-          "duration": 0.07,
+          "duration": 0.06,
           "phone": "r_E"
         }
       ],
-      "start": 1.68,
+      "start": 1.32,
       "startOffset": 23,
       "word": "their"
     },
     {
       "alignedWord": "instruments",
       "case": "success",
-      "end": 2.7399999999999998,
+      "end": 2.24,
       "endOffset": 40,
       "phones": [
         {
-          "duration": 0.11,
+          "duration": 0.09,
           "phone": "ih_B"
         },
         {
@@ -151,11 +151,11 @@
           "phone": "n_I"
         },
         {
-          "duration": 0.05,
+          "duration": 0.03,
           "phone": "s_I"
         },
         {
-          "duration": 0.07,
+          "duration": 0.04,
           "phone": "t_I"
         },
         {
@@ -163,46 +163,46 @@
           "phone": "r_I"
         },
         {
-          "duration": 0.04,
-          "phone": "ah_I"
-        },
-        {
-          "duration": 0.06,
-          "phone": "m_I"
-        },
-        {
-          "duration": 0.08,
+          "duration": 0.02,
           "phone": "ah_I"
         },
         {
           "duration": 0.05,
-          "phone": "n_I"
+          "phone": "m_I"
         },
         {
           "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
           "phone": "t_I"
         },
         {
-          "duration": 0.2,
+          "duration": 0.21,
           "phone": "s_E"
         }
       ],
-      "start": 1.89,
+      "start": 1.49,
       "startOffset": 29,
       "word": "instruments"
     },
     {
       "alignedWord": "let's",
       "case": "success",
-      "end": 3.29,
+      "end": 2.7199999999999998,
       "endOffset": 47,
       "phones": [
         {
-          "duration": 0.13,
+          "duration": 0.15,
           "phone": "l_B"
         },
         {
-          "duration": 0.06,
+          "duration": 0.08,
           "phone": "eh_I"
         },
         {
@@ -210,22 +210,22 @@
           "phone": "t_I"
         },
         {
-          "duration": 0.05,
+          "duration": 0.01,
           "phone": "s_E"
         }
       ],
-      "start": 2.99,
+      "start": 2.42,
       "startOffset": 42,
       "word": "let's"
     },
     {
       "alignedWord": "start",
       "case": "success",
-      "end": 3.86,
+      "end": 3.2800000000000002,
       "endOffset": 53,
       "phones": [
         {
-          "duration": 0.15,
+          "duration": 0.07,
           "phone": "s_B"
         },
         {
@@ -233,19 +233,19 @@
           "phone": "t_I"
         },
         {
-          "duration": 0.18,
+          "duration": 0.11,
           "phone": "aa_I"
         },
         {
-          "duration": 0.08,
+          "duration": 0.1,
           "phone": "r_I"
         },
         {
-          "duration": 0.08,
+          "duration": 0.2,
           "phone": "t_E"
         }
       ],
-      "start": 3.29,
+      "start": 2.72,
       "startOffset": 48,
       "word": "start"
     }

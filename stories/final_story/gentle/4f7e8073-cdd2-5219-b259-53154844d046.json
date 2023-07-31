@@ -4,88 +4,88 @@
     {
       "alignedWord": "well",
       "case": "success",
-      "end": 0.4,
+      "end": 0.44999999999999996,
       "endOffset": 4,
       "phones": [
         {
-          "duration": 0.08,
+          "duration": 0.11,
           "phone": "w_B"
         },
         {
-          "duration": 0.08,
+          "duration": 0.18,
           "phone": "eh_I"
         },
         {
-          "duration": 0.12,
+          "duration": 0.06,
           "phone": "l_E"
         }
       ],
-      "start": 0.12,
+      "start": 0.1,
       "startOffset": 0,
       "word": "Well"
     },
     {
       "alignedWord": "let's",
       "case": "success",
-      "end": 1.2000000000000002,
+      "end": 0.78,
       "endOffset": 11,
       "phones": [
         {
-          "duration": 0.11,
+          "duration": 0.09,
           "phone": "l_B"
         },
         {
-          "duration": 0.06,
+          "duration": 0.09,
           "phone": "eh_I"
         },
         {
-          "duration": 0.04,
+          "duration": 0.05,
           "phone": "t_I"
         },
         {
-          "duration": 0.07,
+          "duration": 0.09,
           "phone": "s_E"
         }
       ],
-      "start": 0.92,
+      "start": 0.46,
       "startOffset": 6,
       "word": "let's"
     },
     {
       "alignedWord": "just",
       "case": "success",
-      "end": 1.4,
+      "end": 1.07,
       "endOffset": 16,
       "phones": [
         {
-          "duration": 0.05,
+          "duration": 0.06,
           "phone": "jh_B"
         },
         {
-          "duration": 0.05,
+          "duration": 0.08,
           "phone": "ah_I"
         },
         {
-          "duration": 0.05,
+          "duration": 0.08,
           "phone": "s_I"
         },
         {
-          "duration": 0.05,
+          "duration": 0.07,
           "phone": "t_E"
         }
       ],
-      "start": 1.2,
+      "start": 0.78,
       "startOffset": 12,
       "word": "just"
     },
     {
       "alignedWord": "get",
       "case": "success",
-      "end": 1.5499999999999998,
+      "end": 1.26,
       "endOffset": 20,
       "phones": [
         {
-          "duration": 0.03,
+          "duration": 0.06,
           "phone": "g_B"
         },
         {
@@ -93,68 +93,68 @@
           "phone": "eh_I"
         },
         {
-          "duration": 0.04,
+          "duration": 0.05,
           "phone": "t_E"
         }
       ],
-      "start": 1.4,
+      "start": 1.07,
       "startOffset": 17,
       "word": "get"
     },
     {
       "alignedWord": "on",
       "case": "success",
-      "end": 1.76,
+      "end": 1.3900000000000001,
       "endOffset": 23,
       "phones": [
         {
-          "duration": 0.11,
+          "duration": 0.07,
           "phone": "aa_B"
         },
         {
-          "duration": 0.1,
+          "duration": 0.06,
           "phone": "n_E"
         }
       ],
-      "start": 1.55,
+      "start": 1.26,
       "startOffset": 21,
       "word": "on"
     },
     {
       "alignedWord": "with",
       "case": "success",
-      "end": 1.93,
+      "end": 1.5599999999999998,
       "endOffset": 28,
       "phones": [
         {
-          "duration": 0.04,
+          "duration": 0.05,
           "phone": "w_B"
         },
         {
-          "duration": 0.05,
+          "duration": 0.03,
           "phone": "ih_I"
         },
         {
-          "duration": 0.08,
+          "duration": 0.09,
           "phone": "th_E"
         }
       ],
-      "start": 1.76,
+      "start": 1.39,
       "startOffset": 24,
       "word": "with"
     },
     {
       "alignedWord": "music",
       "case": "success",
-      "end": 2.34,
+      "end": 1.94,
       "endOffset": 34,
       "phones": [
         {
-          "duration": 0.03,
+          "duration": 0.04,
           "phone": "m_B"
         },
         {
-          "duration": 0.1,
+          "duration": 0.07,
           "phone": "y_I"
         },
         {
@@ -170,53 +170,53 @@
           "phone": "ih_I"
         },
         {
-          "duration": 0.08,
+          "duration": 0.07,
           "phone": "k_E"
         }
       ],
-      "start": 1.93,
+      "start": 1.56,
       "startOffset": 29,
       "word": "music"
     },
     {
       "alignedWord": "day",
       "case": "success",
-      "end": 2.62,
+      "end": 2.14,
       "endOffset": 38,
       "phones": [
         {
-          "duration": 0.1,
+          "duration": 0.09,
           "phone": "d_B"
         },
         {
-          "duration": 0.18,
+          "duration": 0.11,
           "phone": "ey_E"
         }
       ],
-      "start": 2.34,
+      "start": 1.94,
       "startOffset": 35,
       "word": "day"
     },
     {
       "alignedWord": "then",
       "case": "success",
-      "end": 2.79,
+      "end": 2.5,
       "endOffset": 43,
       "phones": [
         {
-          "duration": 0.09,
+          "duration": 0.06,
           "phone": "dh_B"
         },
         {
-          "duration": 0.07,
+          "duration": 0.13,
           "phone": "eh_I"
         },
         {
-          "duration": 0.01,
+          "duration": 0.17,
           "phone": "n_E"
         }
       ],
-      "start": 2.62,
+      "start": 2.14,
       "startOffset": 39,
       "word": "then"
     }

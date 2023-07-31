@@ -4,7 +4,7 @@
     {
       "alignedWord": "we",
       "case": "success",
-      "end": 0.34,
+      "end": 0.36,
       "endOffset": 2,
       "phones": [
         {
@@ -12,26 +12,26 @@
           "phone": "w_B"
         },
         {
-          "duration": 0.11,
+          "duration": 0.12,
           "phone": "iy_E"
         }
       ],
-      "start": 0.11,
+      "start": 0.12,
       "startOffset": 0,
       "word": "We"
     },
     {
       "alignedWord": "have",
       "case": "success",
-      "end": 0.55,
+      "end": 0.56,
       "endOffset": 7,
       "phones": [
         {
-          "duration": 0.06,
+          "duration": 0.04,
           "phone": "hh_B"
         },
         {
-          "duration": 0.07,
+          "duration": 0.08,
           "phone": "ae_I"
         },
         {
@@ -39,14 +39,14 @@
           "phone": "v_E"
         }
       ],
-      "start": 0.34,
+      "start": 0.36,
       "startOffset": 3,
       "word": "have"
     },
     {
       "alignedWord": "a",
       "case": "success",
-      "end": 0.63,
+      "end": 0.64,
       "endOffset": 9,
       "phones": [
         {
@@ -54,18 +54,18 @@
           "phone": "ah_S"
         }
       ],
-      "start": 0.55,
+      "start": 0.56,
       "startOffset": 8,
       "word": "a"
     },
     {
       "alignedWord": "couple",
       "case": "success",
-      "end": 1.1400000000000001,
+      "end": 1.05,
       "endOffset": 16,
       "phones": [
         {
-          "duration": 0.11,
+          "duration": 0.1,
           "phone": "k_B"
         },
         {
@@ -73,81 +73,81 @@
           "phone": "ah_I"
         },
         {
-          "duration": 0.09,
+          "duration": 0.08,
           "phone": "p_I"
         },
         {
-          "duration": 0.07,
+          "duration": 0.05,
           "phone": "ah_I"
         },
         {
-          "duration": 0.16,
+          "duration": 0.1,
           "phone": "l_E"
         }
       ],
-      "start": 0.63,
+      "start": 0.64,
       "startOffset": 10,
       "word": "couple"
     },
     {
       "alignedWord": "different",
       "case": "success",
-      "end": 1.6400000000000001,
+      "end": 1.3900000000000001,
       "endOffset": 26,
       "phones": [
         {
-          "duration": 0.03,
+          "duration": 0.04,
           "phone": "d_B"
         },
         {
-          "duration": 0.07,
+          "duration": 0.1,
           "phone": "ih_I"
         },
         {
-          "duration": 0.11,
+          "duration": 0.06,
           "phone": "f_I"
         },
         {
-          "duration": 0.02,
+          "duration": 0.01,
           "phone": "r_I"
         },
         {
-          "duration": 0.07,
+          "duration": 0.05,
           "phone": "ah_I"
         },
         {
-          "duration": 0.05,
+          "duration": 0.02,
           "phone": "n_I"
         },
         {
-          "duration": 0.04,
+          "duration": 0.03,
           "phone": "t_E"
         }
       ],
-      "start": 1.25,
+      "start": 1.08,
       "startOffset": 17,
       "word": "different"
     },
     {
       "alignedWord": "instruments",
       "case": "success",
-      "end": 2.62,
+      "end": 2.04,
       "endOffset": 38,
       "phones": [
         {
-          "duration": 0.13,
+          "duration": 0.11,
           "phone": "ih_B"
         },
         {
-          "duration": 0.08,
+          "duration": 0.07,
           "phone": "n_I"
         },
         {
-          "duration": 0.05,
+          "duration": 0.06,
           "phone": "s_I"
         },
         {
-          "duration": 0.09,
+          "duration": 0.05,
           "phone": "t_I"
         },
         {
@@ -155,31 +155,31 @@
           "phone": "r_I"
         },
         {
-          "duration": 0.04,
+          "duration": 0.03,
           "phone": "ah_I"
         },
         {
-          "duration": 0.06,
+          "duration": 0.05,
           "phone": "m_I"
         },
         {
-          "duration": 0.09,
+          "duration": 0.08,
           "phone": "ah_I"
         },
         {
-          "duration": 0.03,
+          "duration": 0.08,
           "phone": "n_I"
         },
         {
-          "duration": 0.06,
+          "duration": 0.04,
           "phone": "t_I"
         },
         {
-          "duration": 0.24,
+          "duration": 0.01,
           "phone": "s_E"
         }
       ],
-      "start": 1.7,
+      "start": 1.41,
       "startOffset": 27,
       "word": "instruments"
     }

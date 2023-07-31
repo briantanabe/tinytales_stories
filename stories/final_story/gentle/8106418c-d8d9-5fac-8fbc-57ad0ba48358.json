@@ -4,62 +4,62 @@
     {
       "alignedWord": "thanks",
       "case": "success",
-      "end": 0.61,
+      "end": 0.37,
       "endOffset": 6,
       "phones": [
         {
-          "duration": 0.01,
+          "duration": 0.05,
           "phone": "th_B"
         },
         {
-          "duration": 0.1,
+          "duration": 0.11,
           "phone": "ae_I"
         },
         {
-          "duration": 0.08,
+          "duration": 0.09,
           "phone": "ng_I"
         },
         {
-          "duration": 0.07,
+          "duration": 0.04,
           "phone": "k_I"
         },
         {
-          "duration": 0.19,
+          "duration": 0.01,
           "phone": "s_E"
         }
       ],
-      "start": 0.16,
+      "start": 0.07,
       "startOffset": 0,
       "word": "Thanks"
     },
     {
       "alignedWord": "darcy",
       "case": "success",
-      "end": 1.21,
+      "end": 1.1800000000000002,
       "endOffset": 13,
       "phones": [
         {
-          "duration": 0.06,
+          "duration": 0.07,
           "phone": "d_B"
         },
         {
-          "duration": 0.07,
+          "duration": 0.06,
           "phone": "aa_I"
         },
         {
-          "duration": 0.11,
+          "duration": 0.1,
           "phone": "r_I"
         },
         {
-          "duration": 0.13,
+          "duration": 0.09,
           "phone": "s_I"
         },
         {
-          "duration": 0.18,
+          "duration": 0.21,
           "phone": "iy_E"
         }
       ],
-      "start": 0.66,
+      "start": 0.65,
       "startOffset": 8,
       "word": "Darcy"
     }

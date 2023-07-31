@@ -1,22 +1,22 @@
 {
-  "transcript": "Ariel",
+  "transcript": "ariel",
   "words": [
     {
       "alignedWord": "ariel",
       "case": "success",
-      "end": 0.67,
+      "end": 0.63,
       "endOffset": 5,
       "phones": [
         {
-          "duration": 0.09,
+          "duration": 0.1,
           "phone": "eh_B"
         },
         {
-          "duration": 0.1,
+          "duration": 0.08,
           "phone": "r_I"
         },
         {
-          "duration": 0.1,
+          "duration": 0.06,
           "phone": "iy_I"
         },
         {
@@ -24,13 +24,13 @@
           "phone": "ah_I"
         },
         {
-          "duration": 0.12,
+          "duration": 0.17,
           "phone": "l_E"
         }
       ],
-      "start": 0.17,
+      "start": 0.13,
       "startOffset": 0,
-      "word": "Ariel"
+      "word": "ariel"
     }
   ]
 }

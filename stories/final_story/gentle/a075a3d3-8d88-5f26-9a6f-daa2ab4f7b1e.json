@@ -8,7 +8,7 @@
       "endOffset": 6,
       "phones": [
         {
-          "duration": 0.07,
+          "duration": 0.09,
           "phone": "sh_B"
         },
         {
@@ -16,11 +16,11 @@
           "phone": "uh_I"
         },
         {
-          "duration": 0.09,
+          "duration": 0.08,
           "phone": "d_E"
         }
       ],
-      "start": 0.12,
+      "start": 0.11,
       "startOffset": 0,
       "word": "Should"
     },
@@ -42,19 +42,19 @@
     {
       "alignedWord": "apologize",
       "case": "success",
-      "end": 1.04,
+      "end": 0.9099999999999999,
       "endOffset": 18,
       "phones": [
         {
-          "duration": 0.08,
+          "duration": 0.07,
           "phone": "ah_B"
         },
         {
-          "duration": 0.07,
+          "duration": 0.1,
           "phone": "p_I"
         },
         {
-          "duration": 0.1,
+          "duration": 0.09,
           "phone": "aa_I"
         },
         {
@@ -66,15 +66,15 @@
           "phone": "ah_I"
         },
         {
-          "duration": 0.08,
+          "duration": 0.09,
           "phone": "jh_I"
         },
         {
-          "duration": 0.09,
+          "duration": 0.01,
           "phone": "ay_I"
         },
         {
-          "duration": 0.08,
+          "duration": 0.01,
           "phone": "z_E"
         }
       ],
@@ -85,7 +85,7 @@
     {
       "alignedWord": "to",
       "case": "success",
-      "end": 1.1500000000000001,
+      "end": 1.2200000000000002,
       "endOffset": 21,
       "phones": [
         {
@@ -93,34 +93,34 @@
           "phone": "t_B"
         },
         {
-          "duration": 0.05,
-          "phone": "ah_E"
+          "duration": 0.08,
+          "phone": "ih_E"
         }
       ],
-      "start": 1.04,
+      "start": 1.08,
       "startOffset": 19,
       "word": "to"
     },
     {
       "alignedWord": "tom",
       "case": "success",
-      "end": 1.42,
+      "end": 1.6,
       "endOffset": 25,
       "phones": [
         {
-          "duration": 0.08,
+          "duration": 0.09,
           "phone": "t_B"
         },
         {
-          "duration": 0.18,
+          "duration": 0.14,
           "phone": "aa_I"
         },
         {
-          "duration": 0.01,
+          "duration": 0.14,
           "phone": "m_E"
         }
       ],
-      "start": 1.15,
+      "start": 1.23,
       "startOffset": 22,
       "word": "Tom"
     }

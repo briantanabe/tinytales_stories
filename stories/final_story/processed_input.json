@@ -80,12 +80,12 @@
             "speaker": "campbell",
             "background": "classroom",
             "characters": {
-                "darcy": "1",
-                "tom": "3",
-                "varun": "5",
-                "jessica": "7",
-                "ariel": "9",
-                "campbell": "10"
+                "darcy": "0",
+                "tom": "1",
+                "varun": "3",
+                "jessica": "5",
+                "ariel": "7",
+                "campbell": "9"
             }
         },
         "b8ee356a-99a9-5c81-8b3d-1fca7133d492": {
@@ -104,10 +104,7 @@
             "text": "We\u2019ll choose instruments in the same order you arrived this morning",
             "previous": "a84ae203-39c5-5199-b5fb-9b2281dd70f8",
             "next": "535410fb-192a-5bb3-859d-4c4b455845e1",
-            "speaker": "campbell",
-            "emotions": {
-                "campbell": "wink"
-            }
+            "speaker": "campbell"
         },
         "535410fb-192a-5bb3-859d-4c4b455845e1": {
             "ending": "no",
@@ -144,7 +141,6 @@
             "next": "42fb0e85-248d-5e27-bf2e-35ea2c254752",
             "speaker": "darcy",
             "emotions": {
-                "darcy": "angry",
                 "tom": "confused"
             }
         },
@@ -175,14 +171,14 @@
             "decisionPoint": "no",
             "text": "Tom was so rude to you Darcy! ",
             "previous": "bb12e981-e525-592b-82b7-c26d20aefa0d",
-            "next": "93d6f2e0-8b93-5330-8775-bba2e6e1c3c1",
+            "next": "b2a2c803-7517-58ca-a64a-25a5cad9a9fd",
             "speaker": "varun",
             "background": "classroom_close_2",
             "characters": {
-                "varun": "1",
+                "varun": "0",
                 "jessica": "3",
-                "ariel": "5",
-                "darcy": "7"
+                "ariel": "6",
+                "darcy": "9"
             },
             "emotions": {
                 "darcy": "normal"
@@ -193,7 +189,7 @@
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "What are you talking about, Varun?",
-            "previous": "93d6f2e0-8b93-5330-8775-bba2e6e1c3c1",
+            "previous": "b2a2c803-7517-58ca-a64a-25a5cad9a9fd",
             "next": "061789bd-1f49-5402-a242-b760119fc9b7",
             "speaker": "jessica"
         },
@@ -364,12 +360,12 @@
                 "a98b099c-9269-5106-aa2d-efe4f1e79cce"
             ],
             "options": [
-                "Should I have a doughnut",
+                "Should I have this doughnut",
                 "an egg",
                 "or an apple?"
             ],
             "optionIDs": [
-                "e0d5ebc0-9adf-593d-9e54-dad7cb10fe66",
+                "ded799f1-0deb-5887-a20f-53606a3855c2",
                 "0bec8560-5ed9-59c8-8b9e-13da98f48b63",
                 "ae51d5a8-982e-587d-a02e-63b2a06674f1"
             ],
@@ -441,7 +437,10 @@
             "text": "I choose the tambourine!",
             "previous": "2214a0c3-3a92-5a02-b734-081da8b17c19",
             "next": "ceb110b3-d942-5e08-8ec5-1fa97d5f25bd",
-            "speaker": "tom"
+            "speaker": "tom",
+            "emotions": {
+                "darcy": "angry"
+            }
         },
         "42fb0e85-248d-5e27-bf2e-35ea2c254752": {
             "ending": "no",
@@ -461,11 +460,11 @@
             "next": "3fadd166-3c11-5958-977c-b699baa53ce0",
             "speaker": "darcy"
         },
-        "93d6f2e0-8b93-5330-8775-bba2e6e1c3c1": {
+        "b2a2c803-7517-58ca-a64a-25a5cad9a9fd": {
             "ending": "no",
             "collect_response": "no",
             "decisionPoint": "no",
-            "text": "You should just take the tambourine from him when she messes up.",
+            "text": "You should just take the tambourine from him when he messes up.",
             "previous": "3fadd166-3c11-5958-977c-b699baa53ce0",
             "next": "7a06ab77-6105-5e92-95d7-a784582be0c3",
             "speaker": "varun",
@@ -573,7 +572,7 @@
             "speaker": "darcy",
             "background": "classroom_close_1",
             "characters": {
-                "tom": "2",
+                "tom": "1",
                 "darcy": "3"
             }
         },
@@ -637,10 +636,12 @@
             "speaker": "campbell",
             "background": "classroom",
             "characters": {
-                "varun": "1",
-                "jessica": "3",
-                "ariel": "5",
-                "darcy": "7"
+                "darcy": "0",
+                "tom": "1",
+                "varun": "3",
+                "jessica": "5",
+                "ariel": "7",
+                "campbell": "9"
             }
         },
         "0015e4cf-fa2e-55ea-b1b2-10097869f963": {
@@ -698,10 +699,10 @@
             "speaker": "varun",
             "background": "classroom_close_1",
             "characters": {
-                "darcy": "2",
-                " varun": "4",
-                "jessica": "5",
-                "ariel": "6"
+                "varun": "0",
+                "jessica": "3",
+                "ariel": "6",
+                "darcy": "9"
             }
         },
         "05cbdcf8-8087-5262-a261-cf0aa6dabf1d": {
@@ -888,12 +889,12 @@
             "next": "2cb993db-aa81-5ad8-b063-619b6684510c",
             "speaker": "campbell",
             "characters": {
-                "darcy": "1",
-                "tom": "3",
-                "varun": "5",
-                "jessica": "7",
-                "ariel": "9",
-                "campbell": "10"
+                "darcy": "0",
+                "tom": "1",
+                "varun": "3",
+                "jessica": "5",
+                "ariel": "7",
+                "campbell": "9"
             }
         },
         "2cb993db-aa81-5ad8-b063-619b6684510c": {

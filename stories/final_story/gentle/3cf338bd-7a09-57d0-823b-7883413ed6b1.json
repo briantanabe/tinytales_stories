@@ -4,26 +4,26 @@
     {
       "alignedWord": "my",
       "case": "success",
-      "end": 0.39999999999999997,
+      "end": 0.51,
       "endOffset": 2,
       "phones": [
         {
-          "duration": 0.13,
+          "duration": 0.15,
           "phone": "m_B"
         },
         {
-          "duration": 0.22,
+          "duration": 0.21,
           "phone": "ay_E"
         }
       ],
-      "start": 0.05,
+      "start": 0.15,
       "startOffset": 0,
       "word": "My"
     },
     {
       "alignedWord": "turn",
       "case": "success",
-      "end": 0.9,
+      "end": 0.8200000000000001,
       "endOffset": 7,
       "phones": [
         {
@@ -31,15 +31,15 @@
           "phone": "t_B"
         },
         {
-          "duration": 0.25,
+          "duration": 0.01,
           "phone": "er_I"
         },
         {
-          "duration": 0.13,
+          "duration": 0.01,
           "phone": "n_E"
         }
       ],
-      "start": 0.4,
+      "start": 0.68,
       "startOffset": 3,
       "word": "turn"
     }

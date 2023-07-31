@@ -163,7 +163,7 @@
       ],
       "properties": {
         "background": "classroom",
-        "characters": "darcy:1,tom:3,varun:5,jessica:7,ariel:9,campbell:10"
+        "characters": "darcy:0,tom:1,varun:3,jessica:5,ariel:7,campbell:9"
       },
       "style": {}
     },
@@ -190,9 +190,7 @@
       "labels": [
         "campbell"
       ],
-      "properties": {
-        "emotions": "campbell:wink"
-      },
+      "properties": {},
       "style": {}
     },
     {
@@ -236,7 +234,7 @@
         "darcy"
       ],
       "properties": {
-        "emotions": "darcy:angry,tom:confused"
+        "emotions": "tom:confused"
       },
       "style": {}
     },
@@ -280,7 +278,7 @@
       ],
       "properties": {
         "background": "classroom_close_2",
-        "characters": "varun:1,jessica:3,ariel:5,darcy:7",
+        "characters": "varun:0,jessica:3,ariel:6,darcy:9",
         "emotions": "darcy:normal"
       },
       "style": {}
@@ -591,7 +589,9 @@
       "labels": [
         "tom"
       ],
-      "properties": {},
+      "properties": {
+        "emotions": "darcy:angry"
+      },
       "style": {}
     },
     {
@@ -626,7 +626,7 @@
         "x": 121.1692443681235,
         "y": 749.1202455612238
       },
-      "caption": "You should just take the tambourine from him when she messes up.",
+      "caption": "You should just take the tambourine from him when he messes up.",
       "labels": [
         "varun"
       ],
@@ -781,7 +781,7 @@
       ],
       "properties": {
         "background": "classroom_close_1",
-        "characters": "tom:2,darcy:3"
+        "characters": "tom:1,darcy:3"
       },
       "style": {}
     },
@@ -809,7 +809,7 @@
         "campbell"
       ],
       "properties": {
-        "characters": "tom:2,darcy:3, campbell:5"
+        "characters": "tom:1,darcy:3, campbell:5"
       },
       "style": {}
     },
@@ -864,7 +864,7 @@
       ],
       "properties": {
         "background": "classroom",
-        "characters": "varun:1,jessica:3,ariel:5,darcy:7"
+        "characters": "darcy:0,tom:1,varun:3,jessica:5,ariel:7,campbell:9"
       },
       "style": {}
     },
@@ -945,7 +945,7 @@
       ],
       "properties": {
         "background": "classroom_close_1",
-        "characters": "darcy:2, varun:4,jessica:5,ariel:6"
+        "characters": "varun:0,jessica:3,ariel:6,darcy:9"
       },
       "style": {}
     },
@@ -1213,7 +1213,7 @@
         "campbell"
       ],
       "properties": {
-        "characters": "darcy:1,tom:3,varun:5,jessica:7,ariel:9,campbell:10"
+        "characters": "darcy:0,tom:1,varun:3,jessica:5,ariel:7,campbell:9"
       },
       "style": {}
     },
@@ -2053,11 +2053,11 @@
     },
     {
       "id": "n127",
-      "fromId": "n38",
-      "toId": "n108",
-      "type": "Should I have a doughnut",
+      "type": "Should I have this doughnut",
+      "style": {},
       "properties": {},
-      "style": {}
+      "fromId": "n38",
+      "toId": "n108"
     },
     {
       "id": "n128",

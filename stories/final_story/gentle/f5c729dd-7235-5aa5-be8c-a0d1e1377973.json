@@ -4,7 +4,7 @@
     {
       "alignedWord": "i'm",
       "case": "success",
-      "end": 0.41000000000000003,
+      "end": 0.31,
       "endOffset": 3,
       "phones": [
         {
@@ -12,61 +12,61 @@
           "phone": "ay_B"
         },
         {
-          "duration": 0.01,
+          "duration": 0.11,
           "phone": "m_E"
         }
       ],
-      "start": 0.39,
+      "start": 0.19,
       "startOffset": 0,
       "word": "I\u2019m"
     },
     {
       "alignedWord": "sorry",
       "case": "success",
-      "end": 0.83,
+      "end": 0.8999999999999999,
       "endOffset": 9,
       "phones": [
         {
-          "duration": 0.12,
+          "duration": 0.14,
           "phone": "s_B"
         },
         {
-          "duration": 0.05,
+          "duration": 0.13,
           "phone": "aa_I"
         },
         {
-          "duration": 0.15,
+          "duration": 0.11,
           "phone": "r_I"
         },
         {
-          "duration": 0.09,
+          "duration": 0.21,
           "phone": "iy_E"
         }
       ],
-      "start": 0.42,
+      "start": 0.31,
       "startOffset": 4,
       "word": "sorry"
     },
     {
       "alignedWord": "tom",
       "case": "success",
-      "end": 1.3199999999999998,
+      "end": 1.5,
       "endOffset": 14,
       "phones": [
         {
-          "duration": 0.1,
+          "duration": 0.09,
           "phone": "t_B"
         },
         {
-          "duration": 0.22,
+          "duration": 0.18,
           "phone": "aa_I"
         },
         {
-          "duration": 0.17,
+          "duration": 0.18,
           "phone": "m_E"
         }
       ],
-      "start": 0.83,
+      "start": 1.05,
       "startOffset": 11,
       "word": "Tom"
     }

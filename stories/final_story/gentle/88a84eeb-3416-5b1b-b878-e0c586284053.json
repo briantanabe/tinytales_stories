@@ -4,61 +4,61 @@
     {
       "alignedWord": "what",
       "case": "success",
-      "end": 0.32,
+      "end": 0.33,
       "endOffset": 4,
       "phones": [
         {
-          "duration": 0.06,
+          "duration": 0.07,
           "phone": "w_B"
         },
         {
-          "duration": 0.05,
+          "duration": 0.07,
           "phone": "ah_I"
         },
         {
-          "duration": 0.07,
+          "duration": 0.08,
           "phone": "t_E"
         }
       ],
-      "start": 0.14,
+      "start": 0.11,
       "startOffset": 0,
       "word": "What"
     },
     {
       "alignedWord": "you",
       "case": "success",
-      "end": 0.52,
+      "end": 0.47000000000000003,
       "endOffset": 8,
       "phones": [
         {
-          "duration": 0.1,
+          "duration": 0.05,
           "phone": "y_B"
         },
         {
-          "duration": 0.1,
+          "duration": 0.09,
           "phone": "uw_E"
         }
       ],
-      "start": 0.32,
+      "start": 0.33,
       "startOffset": 5,
       "word": "you"
     },
     {
       "alignedWord": "just",
       "case": "success",
-      "end": 0.72,
+      "end": 0.69,
       "endOffset": 13,
       "phones": [
         {
-          "duration": 0.07,
+          "duration": 0.06,
           "phone": "jh_B"
         },
         {
-          "duration": 0.06,
+          "duration": 0.08,
           "phone": "ah_I"
         },
         {
-          "duration": 0.06,
+          "duration": 0.07,
           "phone": "s_I"
         },
         {
@@ -66,68 +66,68 @@
           "phone": "t_E"
         }
       ],
-      "start": 0.52,
+      "start": 0.47,
       "startOffset": 9,
       "word": "just"
     },
     {
       "alignedWord": "said",
       "case": "success",
-      "end": 1.1,
+      "end": 1.04,
       "endOffset": 18,
       "phones": [
         {
-          "duration": 0.13,
+          "duration": 0.12,
           "phone": "s_B"
         },
         {
-          "duration": 0.14,
+          "duration": 0.15,
           "phone": "eh_I"
         },
         {
-          "duration": 0.11,
+          "duration": 0.08,
           "phone": "d_E"
         }
       ],
-      "start": 0.72,
+      "start": 0.69,
       "startOffset": 14,
       "word": "said"
     },
     {
       "alignedWord": "was",
       "case": "success",
-      "end": 1.45,
+      "end": 1.31,
       "endOffset": 22,
       "phones": [
         {
-          "duration": 0.11,
+          "duration": 0.06,
           "phone": "w_B"
         },
         {
-          "duration": 0.05,
+          "duration": 0.08,
           "phone": "ah_I"
         },
         {
-          "duration": 0.07,
+          "duration": 0.13,
           "phone": "z_E"
         }
       ],
-      "start": 1.22,
+      "start": 1.04,
       "startOffset": 19,
       "word": "was"
     },
     {
       "alignedWord": "not",
       "case": "success",
-      "end": 1.67,
+      "end": 1.62,
       "endOffset": 26,
       "phones": [
         {
-          "duration": 0.05,
+          "duration": 0.13,
           "phone": "n_B"
         },
         {
-          "duration": 0.12,
+          "duration": 0.11,
           "phone": "aa_I"
         },
         {
@@ -135,18 +135,18 @@
           "phone": "t_E"
         }
       ],
-      "start": 1.45,
+      "start": 1.33,
       "startOffset": 23,
       "word": "not"
     },
     {
       "alignedWord": "very",
       "case": "success",
-      "end": 1.96,
+      "end": 1.91,
       "endOffset": 31,
       "phones": [
         {
-          "duration": 0.06,
+          "duration": 0.05,
           "phone": "v_B"
         },
         {
@@ -162,30 +162,30 @@
           "phone": "iy_E"
         }
       ],
-      "start": 1.67,
+      "start": 1.63,
       "startOffset": 27,
       "word": "very"
     },
     {
       "alignedWord": "nice",
       "case": "success",
-      "end": 2.49,
+      "end": 2.35,
       "endOffset": 36,
       "phones": [
         {
-          "duration": 0.09,
+          "duration": 0.08,
           "phone": "n_B"
         },
         {
-          "duration": 0.19,
+          "duration": 0.18,
           "phone": "ay_I"
         },
         {
-          "duration": 0.25,
+          "duration": 0.18,
           "phone": "s_E"
         }
       ],
-      "start": 1.96,
+      "start": 1.91,
       "startOffset": 32,
       "word": "nice"
     }

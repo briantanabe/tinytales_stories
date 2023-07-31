@@ -4,77 +4,77 @@
     {
       "alignedWord": "you're",
       "case": "success",
-      "end": 0.37,
+      "end": 0.33999999999999997,
       "endOffset": 6,
       "phones": [
         {
-          "duration": 0.1,
+          "duration": 0.09,
           "phone": "y_B"
         },
         {
-          "duration": 0.08,
+          "duration": 0.07,
           "phone": "uh_I"
         },
         {
-          "duration": 0.12,
+          "duration": 0.09,
           "phone": "r_E"
         }
       ],
-      "start": 0.07,
+      "start": 0.09,
       "startOffset": 0,
       "word": "You're"
     },
     {
       "alignedWord": "so",
       "case": "success",
-      "end": 0.75,
+      "end": 0.79,
       "endOffset": 9,
       "phones": [
         {
-          "duration": 0.2,
+          "duration": 0.19,
           "phone": "s_B"
         },
         {
-          "duration": 0.14,
+          "duration": 0.26,
           "phone": "ow_E"
         }
       ],
-      "start": 0.41,
+      "start": 0.34,
       "startOffset": 7,
       "word": "so"
     },
     {
       "alignedWord": "selfish",
       "case": "success",
-      "end": 1.47,
+      "end": 1.63,
       "endOffset": 17,
       "phones": [
         {
-          "duration": 0.12,
+          "duration": 0.16,
           "phone": "s_B"
         },
         {
-          "duration": 0.09,
+          "duration": 0.11,
           "phone": "eh_I"
         },
         {
-          "duration": 0.06,
+          "duration": 0.08,
           "phone": "l_I"
         },
         {
-          "duration": 0.11,
+          "duration": 0.1,
           "phone": "f_I"
         },
         {
-          "duration": 0.1,
+          "duration": 0.17,
           "phone": "ih_I"
         },
         {
-          "duration": 0.24,
+          "duration": 0.17,
           "phone": "sh_E"
         }
       ],
-      "start": 0.75,
+      "start": 0.84,
       "startOffset": 10,
       "word": "selfish"
     }

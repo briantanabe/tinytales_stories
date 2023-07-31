@@ -4,88 +4,88 @@
     {
       "alignedWord": "darcy",
       "case": "success",
-      "end": 0.69,
+      "end": 0.8099999999999999,
       "endOffset": 5,
       "phones": [
         {
-          "duration": 0.07,
+          "duration": 0.13,
           "phone": "d_B"
         },
         {
-          "duration": 0.09,
+          "duration": 0.07,
           "phone": "aa_I"
         },
         {
-          "duration": 0.11,
+          "duration": 0.1,
           "phone": "r_I"
         },
         {
-          "duration": 0.13,
+          "duration": 0.12,
           "phone": "s_I"
         },
         {
-          "duration": 0.19,
+          "duration": 0.27,
           "phone": "iy_E"
         }
       ],
-      "start": 0.1,
+      "start": 0.12,
       "startOffset": 0,
       "word": "Darcy"
     },
     {
       "alignedWord": "i",
       "case": "success",
-      "end": 1.1300000000000001,
+      "end": 1.0899999999999999,
       "endOffset": 8,
       "phones": [
         {
-          "duration": 0.23,
+          "duration": 0.12,
           "phone": "ay_S"
         }
       ],
-      "start": 0.9,
+      "start": 0.97,
       "startOffset": 7,
       "word": "I"
     },
     {
       "alignedWord": "noticed",
       "case": "success",
-      "end": 1.7799999999999998,
+      "end": 1.4700000000000002,
       "endOffset": 16,
       "phones": [
         {
-          "duration": 0.22,
+          "duration": 0.08,
           "phone": "n_B"
         },
         {
-          "duration": 0.14,
+          "duration": 0.11,
           "phone": "ow_I"
         },
         {
-          "duration": 0.05,
+          "duration": 0.04,
           "phone": "t_I"
         },
         {
-          "duration": 0.1,
+          "duration": 0.05,
           "phone": "ah_I"
         },
         {
-          "duration": 0.08,
+          "duration": 0.05,
           "phone": "s_I"
         },
         {
-          "duration": 0.06,
+          "duration": 0.05,
           "phone": "t_E"
         }
       ],
-      "start": 1.13,
+      "start": 1.09,
       "startOffset": 9,
       "word": "noticed"
     },
     {
       "alignedWord": "that",
       "case": "success",
-      "end": 1.94,
+      "end": 1.58,
       "endOffset": 21,
       "phones": [
         {
@@ -93,100 +93,104 @@
           "phone": "dh_B"
         },
         {
-          "duration": 0.06,
+          "duration": 0.03,
           "phone": "ah_I"
         },
         {
-          "duration": 0.07,
+          "duration": 0.05,
           "phone": "t_E"
         }
       ],
-      "start": 1.78,
+      "start": 1.47,
       "startOffset": 17,
       "word": "that"
     },
     {
       "alignedWord": "you",
       "case": "success",
-      "end": 2.14,
+      "end": 1.7200000000000002,
       "endOffset": 25,
       "phones": [
         {
-          "duration": 0.07,
+          "duration": 0.05,
           "phone": "y_B"
         },
         {
-          "duration": 0.13,
+          "duration": 0.09,
           "phone": "uw_E"
         }
       ],
-      "start": 1.94,
+      "start": 1.58,
       "startOffset": 22,
       "word": "you"
     },
     {
       "alignedWord": "haven't",
       "case": "success",
-      "end": 2.4899999999999998,
+      "end": 1.93,
       "endOffset": 33,
       "phones": [
         {
-          "duration": 0.1,
+          "duration": 0.04,
           "phone": "hh_B"
         },
         {
-          "duration": 0.08,
+          "duration": 0.06,
           "phone": "ae_I"
         },
         {
-          "duration": 0.04,
+          "duration": 0.01,
           "phone": "v_I"
         },
         {
-          "duration": 0.05,
+          "duration": 0.04,
           "phone": "ah_I"
         },
         {
-          "duration": 0.07,
-          "phone": "n_E"
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "t_E"
         }
       ],
-      "start": 2.15,
+      "start": 1.72,
       "startOffset": 26,
       "word": "haven't"
     },
     {
       "alignedWord": "apologized",
       "case": "success",
-      "end": 3.5,
+      "end": 2.63,
       "endOffset": 44,
       "phones": [
         {
-          "duration": 0.12,
+          "duration": 0.05,
           "phone": "ah_B"
         },
         {
-          "duration": 0.24,
+          "duration": 0.09,
           "phone": "p_I"
         },
         {
-          "duration": 0.12,
+          "duration": 0.1,
           "phone": "aa_I"
         },
         {
-          "duration": 0.07,
+          "duration": 0.06,
           "phone": "l_I"
         },
         {
-          "duration": 0.08,
+          "duration": 0.06,
           "phone": "ah_I"
         },
         {
-          "duration": 0.15,
+          "duration": 0.1,
           "phone": "jh_I"
         },
         {
-          "duration": 0.12,
+          "duration": 0.14,
           "phone": "ay_I"
         },
         {
@@ -198,49 +202,49 @@
           "phone": "d_E"
         }
       ],
-      "start": 2.5,
+      "start": 1.93,
       "startOffset": 34,
       "word": "apologized"
     },
     {
       "alignedWord": "to",
       "case": "success",
-      "end": 3.64,
+      "end": 2.77,
       "endOffset": 47,
       "phones": [
         {
-          "duration": 0.08,
+          "duration": 0.07,
           "phone": "t_B"
         },
         {
-          "duration": 0.04,
-          "phone": "ah_E"
+          "duration": 0.05,
+          "phone": "ih_E"
         }
       ],
-      "start": 3.52,
+      "start": 2.65,
       "startOffset": 45,
       "word": "to"
     },
     {
       "alignedWord": "tom",
       "case": "success",
-      "end": 4.08,
+      "end": 3.23,
       "endOffset": 51,
       "phones": [
         {
-          "duration": 0.15,
+          "duration": 0.1,
           "phone": "t_B"
         },
         {
-          "duration": 0.18,
+          "duration": 0.17,
           "phone": "aa_I"
         },
         {
-          "duration": 0.11,
+          "duration": 0.19,
           "phone": "m_E"
         }
       ],
-      "start": 3.64,
+      "start": 2.77,
       "startOffset": 48,
       "word": "Tom"
     }

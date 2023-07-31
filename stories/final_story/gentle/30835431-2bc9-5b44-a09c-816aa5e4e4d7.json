@@ -4,7 +4,7 @@
     {
       "alignedWord": "who",
       "case": "success",
-      "end": 0.18,
+      "end": 0.16999999999999998,
       "endOffset": 3,
       "phones": [
         {
@@ -16,14 +16,14 @@
           "phone": "uw_E"
         }
       ],
-      "start": 0.16,
+      "start": 0.15,
       "startOffset": 0,
       "word": "Who"
     },
     {
       "alignedWord": "should",
       "case": "success",
-      "end": 0.5,
+      "end": 0.55,
       "endOffset": 10,
       "phones": [
         {
@@ -31,41 +31,41 @@
           "phone": "sh_B"
         },
         {
-          "duration": 0.01,
+          "duration": 0.06,
           "phone": "uh_I"
         },
         {
-          "duration": 0.01,
+          "duration": 0.07,
           "phone": "d_E"
         }
       ],
-      "start": 0.39,
+      "start": 0.33,
       "startOffset": 4,
       "word": "should"
     },
     {
       "alignedWord": "i",
       "case": "success",
-      "end": 0.73,
+      "end": 0.7200000000000001,
       "endOffset": 12,
       "phones": [
         {
-          "duration": 0.08,
+          "duration": 0.17,
           "phone": "ay_S"
         }
       ],
-      "start": 0.65,
+      "start": 0.55,
       "startOffset": 11,
       "word": "I"
     },
     {
       "alignedWord": "agree",
       "case": "success",
-      "end": 1.0899999999999999,
+      "end": 1.1,
       "endOffset": 18,
       "phones": [
         {
-          "duration": 0.06,
+          "duration": 0.08,
           "phone": "ah_B"
         },
         {
@@ -81,30 +81,30 @@
           "phone": "iy_E"
         }
       ],
-      "start": 0.73,
+      "start": 0.72,
       "startOffset": 13,
       "word": "agree"
     },
     {
       "alignedWord": "with",
       "case": "success",
-      "end": 1.4500000000000002,
+      "end": 1.4100000000000001,
       "endOffset": 23,
       "phones": [
         {
-          "duration": 0.07,
+          "duration": 0.09,
           "phone": "w_B"
         },
         {
-          "duration": 0.2,
+          "duration": 0.15,
           "phone": "ih_I"
         },
         {
-          "duration": 0.09,
+          "duration": 0.07,
           "phone": "th_E"
         }
       ],
-      "start": 1.09,
+      "start": 1.1,
       "startOffset": 19,
       "word": "with"
     }
