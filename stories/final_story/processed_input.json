@@ -244,7 +244,10 @@
             "emotions": {
                 "darcy": "sad",
                 "tom": "sad"
-            }
+            },
+            "sounds": [
+                "tambourine"
+            ]
         },
         "a701ded8-c901-532b-9ee9-84e602c4c13b": {
             "ending": "no",
@@ -710,7 +713,11 @@
                 "jessica": "saxophone",
                 "ariel": "violin",
                 "varun": "clarinet"
-            }
+            },
+            "sounds": [
+                "orchestra",
+                " tambourine"
+            ]
         },
         "0015e4cf-fa2e-55ea-b1b2-10097869f963": {
             "ending": "no",
@@ -1025,7 +1032,10 @@
             "instruments": {
                 "tom": "tambourine",
                 "darcy": "flute"
-            }
+            },
+            "sounds": [
+                "orchestra"
+            ]
         },
         "2cb993db-aa81-5ad8-b063-619b6684510c": {
             "ending": "no",

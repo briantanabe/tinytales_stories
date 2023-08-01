@@ -120,6 +120,12 @@ def convert_arrow_json(input_file, output_file):
             for emotion in node['properties']['instruments'].split(','):
                 node_data["instruments"][emotion.split(':')[0]] = emotion.split(':')[1]
 
+        
+        if node['properties'] and "sounds" in node['properties']:
+            node_data["sounds"] = []
+            for sound in node['properties']['sounds'].split(','):
+                node_data["sounds"].append(sound)
+
     output_data = {'nodes': nodes}
     if start_node:
         output_data['startNode'] = start_node

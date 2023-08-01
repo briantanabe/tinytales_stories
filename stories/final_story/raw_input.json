@@ -336,7 +336,8 @@
       "properties": {
         "background": "classroom_close_1",
         "characters": "tom:1,darcy:3",
-        "emotions": "darcy:sad,tom:sad"
+        "emotions": "darcy:sad,tom:sad",
+        "sounds": "tambourine"
       },
       "style": {}
     },
@@ -882,7 +883,8 @@
         "background": "classroom",
         "characters": "darcy:0,tom:1,varun:3,jessica:5,ariel:7,campbell:9",
         "emotions": "darcy:angry",
-        "instruments": "tom:tambourine,darcy:flute,jessica:saxophone,ariel:violin,varun:clarinet"
+        "instruments": "tom:tambourine,darcy:flute,jessica:saxophone,ariel:violin,varun:clarinet",
+        "sounds": "orchestra, tambourine"
       },
       "style": {}
     },
@@ -1235,7 +1237,8 @@
       "properties": {
         "characters": "darcy:0,tom:1,campbell:9",
         "emotions": "darcy:angry",
-        "instruments": "tom:tambourine,darcy:flute"
+        "instruments": "tom:tambourine,darcy:flute",
+        "sounds": "orchestra"
       },
       "style": {}
     },
