@@ -804,7 +804,7 @@
         "x": -0.3344550787007279,
         "y": 1596.0920491623738
       },
-      "caption": "Darcy, I noticed that you haven't apologized to Tom.",
+      "caption": "Darcy, I see that you haven't apologized to Tom.",
       "labels": [
         "campbell"
       ],
@@ -1076,7 +1076,7 @@
         "x": 168.48077462165335,
         "y": 2821.9797962054295
       },
-      "caption": "That wasn't very nice of me",
+      "caption": "That wasn't nice of me",
       "labels": [
         "darcy"
       ],
@@ -1177,25 +1177,12 @@
       "style": {}
     },
     {
-      "id": "n99",
-      "position": {
-        "x": 622.9056805159086,
-        "y": 2611.9180659747144
-      },
-      "caption": "When we do something wrong, it's important to say sorry.",
-      "labels": [
-        "campbell"
-      ],
-      "properties": {},
-      "style": {}
-    },
-    {
       "id": "n100",
       "position": {
         "x": 774.380649147327,
         "y": 2611.9180659747144
       },
-      "caption": "I guess you're right, Ms. Campbell",
+      "caption": "You're right, Ms. Campbell",
       "labels": [
         "darcy"
       ],
@@ -1401,7 +1388,7 @@
         "x": 1480.069725403369,
         "y": 2611.9180659747144
       },
-      "caption": "That wasn’t very nice of me.",
+      "caption": "That wasn’t very nice.",
       "labels": [
         "darcy"
       ],
@@ -2005,22 +1992,6 @@
       "style": {}
     },
     {
-      "id": "n117",
-      "fromId": "n98",
-      "toId": "n99",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n118",
-      "fromId": "n99",
-      "toId": "n100",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
       "id": "n121",
       "fromId": "n94",
       "toId": "n102",
@@ -2283,6 +2254,14 @@
       "properties": {},
       "fromId": "n56",
       "toId": "n12"
+    },
+    {
+      "id": "n157",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n98",
+      "toId": "n100"
     }
   ]
 }

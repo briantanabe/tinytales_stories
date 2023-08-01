@@ -535,8 +535,8 @@
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "That wasn\u2019t very nice of me.",
-            "previous": "e5ec1b98-73b7-5704-96f9-ca4d3e548403",
-            "next": "eef85892-35a2-5872-9faf-5c9d48a21aa4",
+            "previous": "52c35869-e6a6-57c1-9ea1-b43228b7ee5d",
+            "next": "faacdea8-ce4b-57bd-b3bf-ab32909d8133",
             "speaker": "darcy"
         },
         "2214a0c3-3a92-5a02-b734-081da8b17c19": {
@@ -582,16 +582,16 @@
             "decisionPoint": "no",
             "text": "Oh... okay then.",
             "previous": "4f7e8073-cdd2-5219-b259-53154844d046",
-            "next": "5cc36e6e-dd87-52ff-b0b7-4e7f8c0ccc2c",
+            "next": "e1656df4-af17-57b3-9d5e-4532360ee048",
             "speaker": "tom"
         },
-        "5cc36e6e-dd87-52ff-b0b7-4e7f8c0ccc2c": {
+        "e1656df4-af17-57b3-9d5e-4532360ee048": {
             "ending": "no",
             "collect_response": "no",
             "decisionPoint": "no",
-            "text": "Darcy, I noticed that you haven't apologized to Tom.",
-            "previous": "a81ada9c-df2f-575f-bdf5-1b644d457c3e",
-            "next": "2261f6d2-485a-5aa8-84b4-0cebdb792335",
+            "text": "Darcy, I see that you haven't apologized to Tom.",
+            "previous": "ed28d55e-5801-5afb-bd5f-660033bac227",
+            "next": "013d264f-30cd-5e0c-b740-b9d7da085bdb",
             "speaker": "campbell",
             "characters": {
                 "tom": "1",
@@ -604,7 +604,7 @@
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "I thought we could just get on with the day...",
-            "previous": "5cc36e6e-dd87-52ff-b0b7-4e7f8c0ccc2c",
+            "previous": "e1656df4-af17-57b3-9d5e-4532360ee048",
             "next": "b2a3aa99-1905-5ae5-934b-352e2da8e922",
             "speaker": "campbell"
         },
@@ -613,8 +613,8 @@
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "When we do something wrong, it's important to say sorry.",
-            "previous": "c31fe425-c30f-5202-a40c-8dcf50c6c4e0",
-            "next": "507e75d0-64a3-54e1-b801-9034590d7172",
+            "previous": "013d264f-30cd-5e0c-b740-b9d7da085bdb",
+            "next": "2a6f8ece-bd94-586f-85e0-5a118868c2f3",
             "speaker": "campbell"
         },
         "2a6f8ece-bd94-586f-85e0-5a118868c2f3": {
@@ -801,18 +801,18 @@
             "decisionPoint": "no",
             "text": "Tom, I'm sorry for calling you selfish.",
             "previous": "a81ada9c-df2f-575f-bdf5-1b644d457c3e",
-            "next": "8cf59583-08c0-5563-861a-cfab0717f250",
+            "next": "095da6fe-3166-59c4-914a-88e18538b81e",
             "speaker": "darcy",
             "characters": {
                 "tom": "1",
                 "darcy": "3"
             }
         },
-        "8cf59583-08c0-5563-861a-cfab0717f250": {
+        "095da6fe-3166-59c4-914a-88e18538b81e": {
             "ending": "no",
             "collect_response": "no",
             "decisionPoint": "no",
-            "text": "That wasn't very nice of me",
+            "text": "That wasn't nice of me",
             "previous": "46686944-548f-5639-b0ad-39e89d8c7f74",
             "next": "8106418c-d8d9-5fac-8fbc-57ad0ba48358",
             "speaker": "darcy"
@@ -822,7 +822,7 @@
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "Thanks, Darcy. ",
-            "previous": "8cf59583-08c0-5563-861a-cfab0717f250",
+            "previous": "095da6fe-3166-59c4-914a-88e18538b81e",
             "next": "eb9add9d-4700-56f6-bab1-2ac6575fb4ee",
             "speaker": "tom"
         },
@@ -843,6 +843,20 @@
             "previous": "eb9add9d-4700-56f6-bab1-2ac6575fb4ee",
             "next": "f210fcc5-cd56-5dbb-91fc-6a0812701c8c",
             "speaker": "tom"
+        },
+        "5cc36e6e-dd87-52ff-b0b7-4e7f8c0ccc2c": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Darcy, I noticed that you haven't apologized to Tom.",
+            "previous": "a81ada9c-df2f-575f-bdf5-1b644d457c3e",
+            "next": "2261f6d2-485a-5aa8-84b4-0cebdb792335",
+            "speaker": "campbell",
+            "characters": {
+                "tom": "1",
+                "darcy": "3",
+                "campbell": "5"
+            }
         },
         "2261f6d2-485a-5aa8-84b4-0cebdb792335": {
             "ending": "no",
@@ -868,15 +882,15 @@
             "decisionPoint": "no",
             "text": "Its your turn to apologize as well.",
             "previous": "43a7b3e7-438b-5234-bce3-df19d7ee2cda",
-            "next": "b2a3aa99-1905-5ae5-934b-352e2da8e922",
+            "next": "c6fed41d-d6c9-51be-a312-7d096150876c",
             "speaker": "campbell"
         },
-        "507e75d0-64a3-54e1-b801-9034590d7172": {
+        "c6fed41d-d6c9-51be-a312-7d096150876c": {
             "ending": "no",
             "collect_response": "no",
             "decisionPoint": "no",
-            "text": "I guess you're right, Ms. Campbell",
-            "previous": "b2a3aa99-1905-5ae5-934b-352e2da8e922",
+            "text": "You're right, Ms. Campbell",
+            "previous": "c31fe425-c30f-5202-a40c-8dcf50c6c4e0",
             "next": "aaa2cdc1-dff9-5ea7-a92e-e7d35082dcdd",
             "speaker": "darcy"
         },
@@ -990,7 +1004,7 @@
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "I bet I could have made better decisions.",
-            "previous": "55f76da0-8011-5c68-9606-4da0776a1c70",
+            "previous": "5d53c2a9-8e9c-568a-a9a2-98fa0aa63155",
             "next": "fc025a6e-75c3-5be9-8063-1286188d306b",
             "speaker": "darcy"
         },
@@ -999,8 +1013,17 @@
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "I\u2019m sorry Tom. ",
-            "previous": "507e75d0-64a3-54e1-b801-9034590d7172",
+            "previous": "c6fed41d-d6c9-51be-a312-7d096150876c",
             "next": "e5ec1b98-73b7-5704-96f9-ca4d3e548403",
+            "speaker": "darcy"
+        },
+        "5d53c2a9-8e9c-568a-a9a2-98fa0aa63155": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "That wasn\u2019t very nice.",
+            "previous": "e5ec1b98-73b7-5704-96f9-ca4d3e548403",
+            "next": "eef85892-35a2-5872-9faf-5c9d48a21aa4",
             "speaker": "darcy"
         },
         "fc025a6e-75c3-5be9-8063-1286188d306b": {
@@ -1018,7 +1041,7 @@
             "decisionPoint": "no",
             "text": "I shouldn't have said you were selfish",
             "previous": "aaa2cdc1-dff9-5ea7-a92e-e7d35082dcdd",
-            "next": "55f76da0-8011-5c68-9606-4da0776a1c70",
+            "next": "5d53c2a9-8e9c-568a-a9a2-98fa0aa63155",
             "speaker": "darcy"
         }
     },
