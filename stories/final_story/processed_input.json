@@ -326,7 +326,7 @@
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "That\u2019s ok, I forgive you!",
-            "previous": "55f76da0-8011-5c68-9606-4da0776a1c70",
+            "previous": "55f33464-d452-5e1d-9d1f-384fc39744b7",
             "next": "84519325-5ea7-5c06-8b0d-19504bc22868",
             "speaker": "tom"
         },
@@ -535,8 +535,8 @@
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "That wasn\u2019t very nice of me.",
-            "previous": "52c35869-e6a6-57c1-9ea1-b43228b7ee5d",
-            "next": "faacdea8-ce4b-57bd-b3bf-ab32909d8133",
+            "previous": "4b2cfa1d-36a0-52a3-9056-10e58c7afd22",
+            "next": "2d239394-9422-5429-9bb4-5c2ad356368d",
             "speaker": "darcy"
         },
         "2214a0c3-3a92-5a02-b734-081da8b17c19": {
@@ -546,6 +546,15 @@
             "text": "Let\u2019s rewind and try again.",
             "previous": "2d239394-9422-5429-9bb4-5c2ad356368d",
             "next": "535410fb-192a-5bb3-859d-4c4b455845e1",
+            "speaker": "darcy"
+        },
+        "55f33464-d452-5e1d-9d1f-384fc39744b7": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "That wasn\u2019t ok for me to say.",
+            "previous": "52c35869-e6a6-57c1-9ea1-b43228b7ee5d",
+            "next": "faacdea8-ce4b-57bd-b3bf-ab32909d8133",
             "speaker": "darcy"
         },
         "97d163b7-923b-587d-8242-eb90a7edb23c": {
@@ -973,7 +982,7 @@
             "decisionPoint": "no",
             "text": "I\u2019m sorry for saying you'd be bad at the tambourine.",
             "previous": "67f9d5a3-a750-5b09-9431-97a4f945e89b",
-            "next": "55f76da0-8011-5c68-9606-4da0776a1c70",
+            "next": "55f33464-d452-5e1d-9d1f-384fc39744b7",
             "speaker": "darcy"
         },
         "0a926c65-ce26-5adf-add5-4d5497bbebc7": {
