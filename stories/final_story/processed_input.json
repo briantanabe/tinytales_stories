@@ -949,7 +949,7 @@
         },
         "85c72497-0cbe-524d-a769-52f20a346993": {
             "ending": "no",
-            "collect_response": "no",
+            "collect_response": "yes",
             "decisionPoint": "no",
             "text": "What should I say to Emma?",
             "previous": "34e943e1-3772-5c42-a4ee-c2b23b646e09",
