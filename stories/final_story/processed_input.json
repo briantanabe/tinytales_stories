@@ -948,11 +948,12 @@
             "speaker": "darcy"
         },
         "85c72497-0cbe-524d-a769-52f20a346993": {
-            "ending": "yes",
+            "ending": "no",
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "What should I say to Emma?",
             "previous": "34e943e1-3772-5c42-a4ee-c2b23b646e09",
+            "next": "92ccf159-caf6-5f80-9966-3da5bf7069d4",
             "speaker": "darcy"
         },
         "a98b099c-9269-5106-aa2d-efe4f1e79cce": {
@@ -1051,6 +1052,14 @@
             "text": "I shouldn't have said you were selfish",
             "previous": "aaa2cdc1-dff9-5ea7-a92e-e7d35082dcdd",
             "next": "5d53c2a9-8e9c-568a-a9a2-98fa0aa63155",
+            "speaker": "darcy"
+        },
+        "92ccf159-caf6-5f80-9966-3da5bf7069d4": {
+            "ending": "yes",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Thanks!",
+            "previous": "85c72497-0cbe-524d-a769-52f20a346993",
             "speaker": "darcy"
         }
     },
