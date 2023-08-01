@@ -1200,7 +1200,7 @@
         "campbell"
       ],
       "properties": {
-        "characters": "darcy:0,tom:1,varun:3,jessica:5,ariel:7,campbell:9"
+        "characters": "darcy:0,tom:1,campbell:9"
       },
       "style": {}
     },
@@ -1249,7 +1249,7 @@
         "x": 640.5803966635449,
         "y": 3075.055211998558
       },
-      "caption": "What should I say to Emma?",
+      "caption": "What should I say to Tom?",
       "labels": [
         "darcy",
         "collect_response"

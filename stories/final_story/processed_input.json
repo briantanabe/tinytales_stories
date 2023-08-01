@@ -914,9 +914,6 @@
             "characters": {
                 "darcy": "0",
                 "tom": "1",
-                "varun": "3",
-                "jessica": "5",
-                "ariel": "7",
                 "campbell": "9"
             }
         },
@@ -944,14 +941,14 @@
             "decisionPoint": "no",
             "text": "I wanna rock out!",
             "previous": "af2587fd-139d-5bd5-84d4-1cae52ef8576",
-            "next": "85c72497-0cbe-524d-a769-52f20a346993",
+            "next": "425d99a6-fed2-5aa1-84e4-2089caf1dc26",
             "speaker": "darcy"
         },
-        "85c72497-0cbe-524d-a769-52f20a346993": {
+        "425d99a6-fed2-5aa1-84e4-2089caf1dc26": {
             "ending": "no",
             "collect_response": "yes",
             "decisionPoint": "no",
-            "text": "What should I say to Emma?",
+            "text": "What should I say to Tom?",
             "previous": "34e943e1-3772-5c42-a4ee-c2b23b646e09",
             "next": "92ccf159-caf6-5f80-9966-3da5bf7069d4",
             "speaker": "darcy"
@@ -1059,7 +1056,7 @@
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "Thanks!",
-            "previous": "85c72497-0cbe-524d-a769-52f20a346993",
+            "previous": "425d99a6-fed2-5aa1-84e4-2089caf1dc26",
             "speaker": "darcy"
         }
     },

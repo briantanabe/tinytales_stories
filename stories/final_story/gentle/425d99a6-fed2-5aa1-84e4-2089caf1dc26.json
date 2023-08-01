@@ -1,56 +1,60 @@
 {
-  "transcript": "What should I say to Emma?",
+  "transcript": "What should I say to Tom?",
   "words": [
     {
       "alignedWord": "what",
       "case": "success",
-      "end": 0.5700000000000001,
+      "end": 0.47000000000000003,
       "endOffset": 4,
       "phones": [
         {
-          "duration": 0.2,
-          "phone": "w_B"
+          "duration": 0.04,
+          "phone": "hh_B"
         },
         {
-          "duration": 0.12,
+          "duration": 0.17,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.1,
           "phone": "ah_I"
         },
         {
-          "duration": 0.12,
+          "duration": 0.08,
           "phone": "t_E"
         }
       ],
-      "start": 0.13,
+      "start": 0.08,
       "startOffset": 0,
       "word": "What"
     },
     {
       "alignedWord": "should",
       "case": "success",
-      "end": 0.88,
+      "end": 0.6599999999999999,
       "endOffset": 11,
       "phones": [
         {
-          "duration": 0.15,
+          "duration": 0.08,
           "phone": "sh_B"
         },
         {
-          "duration": 0.05,
+          "duration": 0.04,
           "phone": "uh_I"
         },
         {
-          "duration": 0.08,
+          "duration": 0.07,
           "phone": "d_E"
         }
       ],
-      "start": 0.6,
+      "start": 0.47,
       "startOffset": 5,
       "word": "should"
     },
     {
       "alignedWord": "i",
       "case": "success",
-      "end": 0.99,
+      "end": 0.77,
       "endOffset": 13,
       "phones": [
         {
@@ -58,14 +62,14 @@
           "phone": "ay_S"
         }
       ],
-      "start": 0.88,
+      "start": 0.66,
       "startOffset": 12,
       "word": "I"
     },
     {
       "alignedWord": "say",
       "case": "success",
-      "end": 1.23,
+      "end": 1.04,
       "endOffset": 17,
       "phones": [
         {
@@ -73,55 +77,55 @@
           "phone": "s_B"
         },
         {
-          "duration": 0.1,
+          "duration": 0.13,
           "phone": "ey_E"
         }
       ],
-      "start": 1.02,
+      "start": 0.8,
       "startOffset": 14,
       "word": "say"
     },
     {
       "alignedWord": "to",
       "case": "success",
-      "end": 1.37,
+      "end": 1.06,
       "endOffset": 20,
       "phones": [
         {
-          "duration": 0.06,
+          "duration": 0.01,
           "phone": "t_B"
         },
         {
-          "duration": 0.08,
-          "phone": "ah_E"
+          "duration": 0.01,
+          "phone": "ih_E"
         }
       ],
-      "start": 1.23,
+      "start": 1.04,
       "startOffset": 18,
       "word": "to"
     },
     {
-      "alignedWord": "emma",
+      "alignedWord": "tom",
       "case": "success",
-      "end": 1.4900000000000002,
-      "endOffset": 25,
+      "end": 1.56,
+      "endOffset": 24,
       "phones": [
         {
-          "duration": 0.1,
-          "phone": "eh_B"
+          "duration": 0.09,
+          "phone": "t_B"
         },
         {
-          "duration": 0.01,
-          "phone": "m_I"
+          "duration": 0.19,
+          "phone": "aa_I"
         },
         {
-          "duration": 0.01,
-          "phone": "ah_E"
+          "duration": 0.22,
+          "phone": "m_E"
         }
       ],
-      "start": 1.37,
+      "start": 1.06,
       "startOffset": 21,
-      "word": "Emma"
+      "word": "Tom"
     }
   ]
 }
