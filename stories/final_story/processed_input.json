@@ -526,8 +526,8 @@
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "I\u2019m sorry, Tom. ",
-            "previous": "507e75d0-64a3-54e1-b801-9034590d7172",
-            "next": "e5ec1b98-73b7-5704-96f9-ca4d3e548403",
+            "previous": "2a6f8ece-bd94-586f-85e0-5a118868c2f3",
+            "next": "4b2cfa1d-36a0-52a3-9056-10e58c7afd22",
             "speaker": "darcy"
         },
         "55f76da0-8011-5c68-9606-4da0776a1c70": {
@@ -536,7 +536,7 @@
             "decisionPoint": "no",
             "text": "That wasn\u2019t very nice of me.",
             "previous": "e5ec1b98-73b7-5704-96f9-ca4d3e548403",
-            "next": "2d239394-9422-5429-9bb4-5c2ad356368d",
+            "next": "eef85892-35a2-5872-9faf-5c9d48a21aa4",
             "speaker": "darcy"
         },
         "2214a0c3-3a92-5a02-b734-081da8b17c19": {
@@ -545,7 +545,7 @@
             "decisionPoint": "no",
             "text": "Let\u2019s rewind and try again.",
             "previous": "2d239394-9422-5429-9bb4-5c2ad356368d",
-            "next": "7137e3e7-3401-5491-8517-2d1a7893a6df",
+            "next": "535410fb-192a-5bb3-859d-4c4b455845e1",
             "speaker": "darcy"
         },
         "97d163b7-923b-587d-8242-eb90a7edb23c": {
@@ -631,7 +631,7 @@
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "If everyone has chosen their instruments, let's start!",
-            "previous": "2214a0c3-3a92-5a02-b734-081da8b17c19",
+            "previous": "fc025a6e-75c3-5be9-8063-1286188d306b",
             "next": "0015e4cf-fa2e-55ea-b1b2-10097869f963",
             "speaker": "campbell",
             "background": "classroom",
@@ -877,7 +877,7 @@
             "decisionPoint": "no",
             "text": "I guess you're right, Ms. Campbell",
             "previous": "b2a3aa99-1905-5ae5-934b-352e2da8e922",
-            "next": "f5c729dd-7235-5aa5-be8c-a0d1e1377973",
+            "next": "aaa2cdc1-dff9-5ea7-a92e-e7d35082dcdd",
             "speaker": "darcy"
         },
         "f210fcc5-cd56-5dbb-91fc-6a0812701c8c": {
@@ -982,15 +982,42 @@
             "decisionPoint": "no",
             "text": "Can you apologize for what you said earlier?",
             "previous": "40fe78e7-1924-5de6-9d3c-ef1c46f11422",
-            "next": "f5c729dd-7235-5aa5-be8c-a0d1e1377973",
+            "next": "aaa2cdc1-dff9-5ea7-a92e-e7d35082dcdd",
             "speaker": "campbell"
+        },
+        "eef85892-35a2-5872-9faf-5c9d48a21aa4": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "I bet I could have made better decisions.",
+            "previous": "55f76da0-8011-5c68-9606-4da0776a1c70",
+            "next": "fc025a6e-75c3-5be9-8063-1286188d306b",
+            "speaker": "darcy"
+        },
+        "aaa2cdc1-dff9-5ea7-a92e-e7d35082dcdd": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "I\u2019m sorry Tom. ",
+            "previous": "507e75d0-64a3-54e1-b801-9034590d7172",
+            "next": "e5ec1b98-73b7-5704-96f9-ca4d3e548403",
+            "speaker": "darcy"
+        },
+        "fc025a6e-75c3-5be9-8063-1286188d306b": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Let\u2019s try that all again.",
+            "previous": "eef85892-35a2-5872-9faf-5c9d48a21aa4",
+            "next": "7137e3e7-3401-5491-8517-2d1a7893a6df",
+            "speaker": "darcy"
         },
         "e5ec1b98-73b7-5704-96f9-ca4d3e548403": {
             "ending": "no",
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "I shouldn't have said you were selfish",
-            "previous": "f5c729dd-7235-5aa5-be8c-a0d1e1377973",
+            "previous": "aaa2cdc1-dff9-5ea7-a92e-e7d35082dcdd",
             "next": "55f76da0-8011-5c68-9606-4da0776a1c70",
             "speaker": "darcy"
         }
