@@ -765,7 +765,7 @@
         "campbell"
       ],
       "properties": {
-        "characters": "tom:2,darcy:3, campbell:5"
+        "characters": "tom:2,darcy:3,campbell:5"
       },
       "style": {}
     },
