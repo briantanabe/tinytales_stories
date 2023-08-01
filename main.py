@@ -94,12 +94,12 @@ def convert_arrow_json(input_file, output_file):
         
         nodes[str(uuid.uuid5(uuid.NAMESPACE_DNS, node["caption"].strip().lower()))] = node_data
         if node['labels']:
-            if node['labels'][0] == "start":
-                start_node = str(uuid.uuid5(uuid.NAMESPACE_DNS, node["caption"].strip().lower()))
-            if node['labels'][0] == "collect_response":
-                node_data["collect_response"] = "yes"
             for label in node['labels']:
-                if label != "start" and label != "collect_response":
+                if label == "start":
+                    start_node = str(uuid.uuid5(uuid.NAMESPACE_DNS, node["caption"].strip().lower()))
+                elif label == "collect_response":
+                    node_data["collect_response"] = "yes"
+                else:
                     node_data["speaker"] = label
 
         if node['properties'] and "background" in node['properties']:
