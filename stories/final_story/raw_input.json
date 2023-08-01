@@ -809,7 +809,7 @@
         "campbell"
       ],
       "properties": {
-        "characters": "tom:1,darcy:3, campbell:5"
+        "characters": "tom:1,darcy:3,campbell:5"
       },
       "style": {}
     },
@@ -1133,7 +1133,7 @@
         "campbell"
       ],
       "properties": {
-        "characters": "tom:2,darcy:3, campbell:5"
+        "characters": "tom:2,darcy:3,campbell:5"
       },
       "style": {}
     },
@@ -1351,7 +1351,7 @@
         "campbell"
       ],
       "properties": {
-        "characters": "tom:2,darcy:3, campbell:5"
+        "characters": "tom:2,darcy:3,campbell:5"
       },
       "style": {}
     },
@@ -1493,11 +1493,11 @@
     },
     {
       "id": "n20",
-      "type": "Should I take the tambourine from Tom",
-      "style": {},
-      "properties": {},
       "fromId": "n23",
-      "toId": "n24"
+      "toId": "n24",
+      "type": "Should I take the tambourine from Tom",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n22",
@@ -1525,11 +1525,11 @@
     },
     {
       "id": "n30",
-      "type": "Should I apologize to Tom",
-      "style": {},
-      "properties": {},
       "fromId": "n23",
-      "toId": "n33"
+      "toId": "n33",
+      "type": "Should I apologize to Tom",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n32",
@@ -2053,11 +2053,11 @@
     },
     {
       "id": "n127",
-      "type": "Should I have this doughnut",
-      "style": {},
-      "properties": {},
       "fromId": "n38",
-      "toId": "n108"
+      "toId": "n108",
+      "type": "Should I have this doughnut",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n128",
@@ -2277,11 +2277,11 @@
     },
     {
       "id": "n155",
-      "type": "Or should I just move on",
-      "style": {},
-      "properties": {},
       "fromId": "n23",
-      "toId": "n60"
+      "toId": "n60",
+      "type": "Or should I just move on",
+      "properties": {},
+      "style": {}
     }
   ]
 }
