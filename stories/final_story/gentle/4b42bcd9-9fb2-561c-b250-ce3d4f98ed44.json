@@ -1,0 +1,188 @@
+{
+  "transcript": "Should I tell Tom he's bad at the tambourine",
+  "words": [
+    {
+      "alignedWord": "should",
+      "case": "success",
+      "end": 0.27,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.1,
+      "startOffset": 0,
+      "word": "Should"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.34,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.27,
+      "startOffset": 7,
+      "word": "I"
+    },
+    {
+      "alignedWord": "tell",
+      "case": "success",
+      "end": 0.52,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.42,
+      "startOffset": 9,
+      "word": "tell"
+    },
+    {
+      "alignedWord": "tom",
+      "case": "success",
+      "end": 0.91,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.64,
+      "startOffset": 14,
+      "word": "Tom"
+    },
+    {
+      "alignedWord": "he's",
+      "case": "success",
+      "end": 1.1400000000000001,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.92,
+      "startOffset": 18,
+      "word": "he's"
+    },
+    {
+      "alignedWord": "bad",
+      "case": "success",
+      "end": 1.5099999999999998,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.15,
+      "startOffset": 23,
+      "word": "bad"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 1.6,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.51,
+      "startOffset": 27,
+      "word": "at"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.7100000000000002,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.6,
+      "startOffset": 30,
+      "word": "the"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.08,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.37,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.71,
+      "startOffset": 34,
+      "word": "tambourine"
+    }
+  ]
+}

@@ -114,6 +114,11 @@ def convert_arrow_json(input_file, output_file):
             node_data["emotions"] = {}
             for emotion in node['properties']['emotions'].split(','):
                 node_data["emotions"][emotion.split(':')[0]] = emotion.split(':')[1]
+        
+        if node['properties'] and "instruments" in node['properties']:
+            node_data["instruments"] = {}
+            for emotion in node['properties']['instruments'].split(','):
+                node_data["instruments"][emotion.split(':')[0]] = emotion.split(':')[1]
 
     output_data = {'nodes': nodes}
     if start_node:

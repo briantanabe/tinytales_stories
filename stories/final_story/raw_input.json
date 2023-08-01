@@ -89,7 +89,7 @@
         "x": 1156.7712511263103,
         "y": 0
       },
-      "caption": "Let’s head to school, there’s a special activity planned for today",
+      "caption": "Let’s head to school.",
       "labels": [
         "darcy"
       ],
@@ -102,7 +102,7 @@
         "x": -4.217398885668643e-65,
         "y": 141.5
       },
-      "caption": "Today is music day and we get to pick instruments to learn for the next week!",
+      "caption": "Today is music day!",
       "labels": [
         "darcy"
       ],
@@ -173,7 +173,7 @@
         "x": 337.63045940070805,
         "y": 283
       },
-      "caption": "We have a couple different instruments.",
+      "caption": "We have a couple instruments.",
       "labels": [
         "campbell"
       ],
@@ -234,7 +234,8 @@
         "darcy"
       ],
       "properties": {
-        "emotions": "tom:confused"
+        "emotions": "tom:confused",
+        "instruments": "tom:tambourine"
       },
       "style": {}
     },
@@ -279,7 +280,7 @@
       "properties": {
         "background": "classroom_close_2",
         "characters": "varun:0,jessica:3,ariel:6,darcy:9",
-        "emotions": "darcy:normal"
+        "emotions": "darcy:sad"
       },
       "style": {}
     },
@@ -334,7 +335,8 @@
       ],
       "properties": {
         "background": "classroom_close_1",
-        "characters": "tom:1,darcy:3"
+        "characters": "tom:1,darcy:3",
+        "emotions": "darcy:sad,tom:sad"
       },
       "style": {}
     },
@@ -362,7 +364,8 @@
         "campbell"
       ],
       "properties": {
-        "characters": "tom:1,darcy:3,campbell:5"
+        "characters": "tom:1,darcy:3,campbell:5",
+        "emotions": "darcy:shock,tom:shock,campbell:angry"
       },
       "style": {}
     },
@@ -402,7 +405,9 @@
       "labels": [
         "campbell"
       ],
-      "properties": {},
+      "properties": {
+        "emotions": "campbell:normal"
+      },
       "style": {}
     },
     {
@@ -443,7 +448,8 @@
       ],
       "properties": {
         "background": "classroom_close_1",
-        "characters": "tom:2,darcy:3"
+        "characters": "tom:2,darcy:3",
+        "instruments": "tom:tambourine,darcy:flute"
       },
       "style": {}
     },
@@ -520,7 +526,7 @@
         "x": 871.7873965757859,
         "y": 141.49999999999997
       },
-      "caption": "Awesome! And we’re here!",
+      "caption": "Awesome!",
       "labels": [
         "darcy"
       ],
@@ -559,7 +565,7 @@
         "x": 516.0800428529734,
         "y": 283
       },
-      "caption": "But we only have one of each.",
+      "caption": "But only one of each.",
       "labels": [
         "campbell"
       ],
@@ -660,7 +666,9 @@
       "labels": [
         "campbell"
       ],
-      "properties": {},
+      "properties": {
+        "emotions": "darcy:sad,tom:sad"
+      },
       "style": {}
     },
     {
@@ -725,7 +733,9 @@
       "labels": [
         "darcy"
       ],
-      "properties": {},
+      "properties": {
+        "emotions": "tom:normal"
+      },
       "style": {}
     },
     {
@@ -781,7 +791,9 @@
       ],
       "properties": {
         "background": "classroom_close_1",
-        "characters": "tom:1,darcy:3"
+        "characters": "tom:1,darcy:3",
+        "emotions": "darcy:sad,tom:sad",
+        "instruments": "tom:tambourine,darcy:flute,jessica:saxophone,ariel:violin,varun:clarinet"
       },
       "style": {}
     },
@@ -809,7 +821,9 @@
         "campbell"
       ],
       "properties": {
-        "characters": "tom:1,darcy:3,campbell:5"
+        "characters": "tom:1,darcy:3,campbell:5",
+        "emotions": "darcy:shock,tom:shock,campbell:angry",
+        "instruments": "tom:tambourine,darcy:flute"
       },
       "style": {}
     },
@@ -821,7 +835,7 @@
       },
       "caption": "I thought we could just get on with the day...",
       "labels": [
-        "campbell"
+        "darcy"
       ],
       "properties": {},
       "style": {}
@@ -836,7 +850,9 @@
       "labels": [
         "campbell"
       ],
-      "properties": {},
+      "properties": {
+        "emotions": "campbell:normal"
+      },
       "style": {}
     },
     {
@@ -864,7 +880,9 @@
       ],
       "properties": {
         "background": "classroom",
-        "characters": "darcy:0,tom:1,varun:3,jessica:5,ariel:7,campbell:9"
+        "characters": "darcy:0,tom:1,varun:3,jessica:5,ariel:7,campbell:9",
+        "emotions": "darcy:angry",
+        "instruments": "tom:tambourine,darcy:flute,jessica:saxophone,ariel:violin,varun:clarinet"
       },
       "style": {}
     },
@@ -878,7 +896,9 @@
       "labels": [
         "darcy"
       ],
-      "properties": {},
+      "properties": {
+        "emotions": "tom:sad,varun:shock,jessica:shock,ariel:shock,campbell:shock"
+      },
       "style": {}
     },
     {
@@ -945,7 +965,8 @@
       ],
       "properties": {
         "background": "classroom_close_1",
-        "characters": "varun:0,jessica:3,ariel:6,darcy:9"
+        "characters": "varun:0,jessica:3,ariel:6,darcy:9",
+        "emotions": "darcy:sad"
       },
       "style": {}
     },
@@ -959,7 +980,9 @@
       "labels": [
         "varun"
       ],
-      "properties": {},
+      "properties": {
+        "emotions": "jessica:shock"
+      },
       "style": {}
     },
     {
@@ -1038,7 +1061,9 @@
         "darcy"
       ],
       "properties": {
-        "characters": "darcy:1,tom:3"
+        "characters": "darcy:1,tom:3",
+        "emotions": "tom:sad",
+        "instruments": "tom:tambourine,darcy:flute"
       },
       "style": {}
     },
@@ -1066,7 +1091,9 @@
         "darcy"
       ],
       "properties": {
-        "characters": "tom:1,darcy:3"
+        "characters": "tom:1,darcy:3",
+        "emotions": "darcy:sad,tom:sad",
+        "instruments": "tom:tambourine,darcy:flute"
       },
       "style": {}
     },
@@ -1093,7 +1120,9 @@
       "labels": [
         "tom"
       ],
-      "properties": {},
+      "properties": {
+        "emotions": "darcy:happy,tom:happy"
+      },
       "style": {}
     },
     {
@@ -1133,7 +1162,9 @@
         "campbell"
       ],
       "properties": {
-        "characters": "tom:1,darcy:3,campbell:5"
+        "characters": "tom:1,darcy:3,campbell:5",
+        "emotions": "darcy:shock,tom:shock,campbell:angry",
+        "instruments": "tom:tambourine,darcy:flute"
       },
       "style": {}
     },
@@ -1160,7 +1191,9 @@
       "labels": [
         "campbell"
       ],
-      "properties": {},
+      "properties": {
+        "emotions": "darcy:sad"
+      },
       "style": {}
     },
     {
@@ -1200,7 +1233,9 @@
         "campbell"
       ],
       "properties": {
-        "characters": "darcy:0,tom:1,campbell:9"
+        "characters": "darcy:0,tom:1,campbell:9",
+        "emotions": "darcy:angry",
+        "instruments": "tom:tambourine,darcy:flute"
       },
       "style": {}
     },
@@ -1240,7 +1275,9 @@
       "labels": [
         "darcy"
       ],
-      "properties": {},
+      "properties": {
+        "emotions": "darcy:sad"
+      },
       "style": {}
     },
     {
@@ -1261,9 +1298,9 @@
       "id": "n108",
       "position": {
         "x": 743.3943800451818,
-        "y": -170.50724130967026
+        "y": -170.50724130967023
       },
-      "caption": "Great choice, thanks!",
+      "caption": "Yum, today must be special!",
       "labels": [
         "darcy"
       ],
@@ -1293,7 +1330,7 @@
         "x": 743.3943800451818,
         "y": -48.88768091561403
       },
-      "caption": "Great choice, thanks!",
+      "caption": "A healthy choice! Thanks!",
       "labels": [
         "darcy"
       ],
@@ -1339,7 +1376,8 @@
         "campbell"
       ],
       "properties": {
-        "characters": "tom:1,darcy:3,campbell:5"
+        "characters": "tom:1,darcy:3,campbell:5",
+        "emotions": "tom:sad,campbell:angry,darcy:sad"
       },
       "style": {}
     },
@@ -1433,6 +1471,32 @@
         "darcy"
       ],
       "properties": {}
+    },
+    {
+      "id": "n121",
+      "position": {
+        "x": 1318.4204882648396,
+        "y": 0
+      },
+      "caption": "There’s a special activity planned for today",
+      "style": {},
+      "labels": [
+        "darcy"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n122",
+      "position": {
+        "x": 87.94090624179645,
+        "y": 192.27270589148083
+      },
+      "caption": "We get to pick instruments to learn!",
+      "style": {},
+      "labels": [
+        "darcy"
+      ],
+      "properties": {}
     }
   ],
   "relationships": [
@@ -1440,22 +1504,6 @@
       "id": "n0",
       "fromId": "n0",
       "toId": "n1",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n4",
-      "fromId": "n4",
-      "toId": "n5",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n5",
-      "fromId": "n5",
-      "toId": "n6",
       "type": "",
       "properties": {},
       "style": {}
@@ -1934,19 +1982,19 @@
     },
     {
       "id": "n99",
-      "fromId": "n81",
-      "toId": "n82",
-      "type": "varun",
+      "type": "Should I tell Tom he's bad at the tambourine",
+      "style": {},
       "properties": {},
-      "style": {}
+      "fromId": "n81",
+      "toId": "n82"
     },
     {
       "id": "n106",
-      "fromId": "n81",
-      "toId": "n88",
-      "type": "jessica",
+      "type": "Should I apologize for calling Tom selfish",
+      "style": {},
       "properties": {},
-      "style": {}
+      "fromId": "n81",
+      "toId": "n88"
     },
     {
       "id": "n107",
@@ -1969,14 +2017,6 @@
       "fromId": "n90",
       "toId": "n91",
       "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n113",
-      "fromId": "n81",
-      "toId": "n95",
-      "type": "ariel",
       "properties": {},
       "style": {}
     },
@@ -2283,6 +2323,46 @@
       "properties": {},
       "fromId": "n107",
       "toId": "n120"
+    },
+    {
+      "id": "n159",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n4",
+      "toId": "n121"
+    },
+    {
+      "id": "n160",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n121",
+      "toId": "n5"
+    },
+    {
+      "id": "n161",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n5",
+      "toId": "n122"
+    },
+    {
+      "id": "n162",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n122",
+      "toId": "n6"
+    },
+    {
+      "id": "n163",
+      "type": "Or should I just move on?",
+      "style": {},
+      "properties": {},
+      "fromId": "n81",
+      "toId": "n95"
     }
   ]
 }

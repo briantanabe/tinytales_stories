@@ -21,22 +21,22 @@
             "next": "d1c35e3a-d5cb-5830-81dc-75d015f90a76",
             "speaker": "darcy"
         },
-        "49db0e61-0fca-5947-a560-64857d201852": {
+        "e241e7f5-2011-51b6-a35a-6dcf2d21c246": {
             "ending": "no",
             "collect_response": "no",
             "decisionPoint": "no",
-            "text": "Let\u2019s head to school, there\u2019s a special activity planned for today",
+            "text": "Let\u2019s head to school.",
             "previous": "a98b099c-9269-5106-aa2d-efe4f1e79cce",
-            "next": "3a0fa16b-c89f-56fd-bab0-e710a4b8f3bf",
+            "next": "e0096e55-b8dd-5e21-8619-035b612c5abc",
             "speaker": "darcy"
         },
-        "3a0fa16b-c89f-56fd-bab0-e710a4b8f3bf": {
+        "1c7072bd-475a-5864-b9ab-8d85df52110b": {
             "ending": "no",
             "collect_response": "no",
             "decisionPoint": "no",
-            "text": "Today is music day and we get to pick instruments to learn for the next week!",
-            "previous": "49db0e61-0fca-5947-a560-64857d201852",
-            "next": "5a1ae6dd-bbc2-50ee-b9ca-c9d2e71caa03",
+            "text": "Today is music day!",
+            "previous": "e0096e55-b8dd-5e21-8619-035b612c5abc",
+            "next": "fac20ff8-b570-5515-a8f2-c455aa527a71",
             "speaker": "darcy",
             "background": "car",
             "characters": {
@@ -48,7 +48,7 @@
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "I\u2019m so excited!",
-            "previous": "3a0fa16b-c89f-56fd-bab0-e710a4b8f3bf",
+            "previous": "fac20ff8-b570-5515-a8f2-c455aa527a71",
             "next": "9e33daa7-0f8c-5903-9c51-5f478b4bf31e",
             "speaker": "darcy"
         },
@@ -58,7 +58,7 @@
             "decisionPoint": "no",
             "text": "Can you help me play the tambourine?",
             "previous": "9e33daa7-0f8c-5903-9c51-5f478b4bf31e",
-            "next": "c7befd36-f86e-5028-8a43-8ceedba7b514",
+            "next": "7af14e4f-eaff-581b-a403-e530caf583b8",
             "speaker": "darcy"
         },
         "612da785-ab31-5ead-a690-04741dd1be2f": {
@@ -88,13 +88,13 @@
                 "campbell": "9"
             }
         },
-        "b8ee356a-99a9-5c81-8b3d-1fca7133d492": {
+        "015a52c9-965f-56dd-94e4-50a85ef97a2a": {
             "ending": "no",
             "collect_response": "no",
             "decisionPoint": "no",
-            "text": "We have a couple different instruments.",
+            "text": "We have a couple instruments.",
             "previous": "0f137c05-1dd5-5ae1-b602-1913e54863d2",
-            "next": "a84ae203-39c5-5199-b5fb-9b2281dd70f8",
+            "next": "70f27132-8d90-5398-82d8-4f8ec099df0a",
             "speaker": "campbell"
         },
         "b6be54a4-2a6f-5341-b770-3b3216128577": {
@@ -102,7 +102,7 @@
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "We\u2019ll choose instruments in the same order you arrived this morning",
-            "previous": "a84ae203-39c5-5199-b5fb-9b2281dd70f8",
+            "previous": "70f27132-8d90-5398-82d8-4f8ec099df0a",
             "next": "535410fb-192a-5bb3-859d-4c4b455845e1",
             "speaker": "campbell"
         },
@@ -142,6 +142,9 @@
             "speaker": "darcy",
             "emotions": {
                 "tom": "confused"
+            },
+            "instruments": {
+                "tom": "tambourine"
             }
         },
         "e7e0e948-6d93-5f0e-90cd-f0e036874c86": {
@@ -181,7 +184,7 @@
                 "darcy": "9"
             },
             "emotions": {
-                "darcy": "normal"
+                "darcy": "sad"
             }
         },
         "7a06ab77-6105-5e92-95d7-a784582be0c3": {
@@ -237,6 +240,10 @@
             "characters": {
                 "tom": "1",
                 "darcy": "3"
+            },
+            "emotions": {
+                "darcy": "sad",
+                "tom": "sad"
             }
         },
         "a701ded8-c901-532b-9ee9-84e602c4c13b": {
@@ -260,6 +267,11 @@
                 "tom": "1",
                 "darcy": "3",
                 "campbell": "5"
+            },
+            "emotions": {
+                "darcy": "shock",
+                "tom": "shock",
+                "campbell": "angry"
             }
         },
         "afac0b76-f4f6-56bb-a844-db38dbd8e639": {
@@ -287,7 +299,10 @@
             "text": "So let\u2019s apologize to Tom ok?",
             "previous": "be142cd7-737a-59b5-90d0-84fa08310fbe",
             "next": "6fadcbed-c202-52be-836a-fcb4cc19cee2",
-            "speaker": "campbell"
+            "speaker": "campbell",
+            "emotions": {
+                "campbell": "normal"
+            }
         },
         "6fadcbed-c202-52be-836a-fcb4cc19cee2": {
             "ending": "no",
@@ -319,6 +334,10 @@
             "characters": {
                 "tom": "2",
                 "darcy": "3"
+            },
+            "instruments": {
+                "tom": "tambourine",
+                "darcy": "flute"
             }
         },
         "faacdea8-ce4b-57bd-b3bf-ab32909d8133": {
@@ -355,9 +374,9 @@
             "text": "Can you help me pick out breakfast?",
             "previous": "23c54a53-b812-5c32-a326-a6b2b08805aa",
             "next": [
+                "9c824784-1079-50d7-ac31-864f6d3f4e89",
                 "a98b099c-9269-5106-aa2d-efe4f1e79cce",
-                "a98b099c-9269-5106-aa2d-efe4f1e79cce",
-                "a98b099c-9269-5106-aa2d-efe4f1e79cce"
+                "f488c224-d9b8-5181-aa53-a2755f2e49ec"
             ],
             "options": [
                 "Should I have this doughnut",
@@ -385,11 +404,11 @@
             "next": "96b28ecc-99a1-55a0-b05e-120a58aa2fac",
             "speaker": "darcy"
         },
-        "c7befd36-f86e-5028-8a43-8ceedba7b514": {
+        "7af14e4f-eaff-581b-a403-e530caf583b8": {
             "ending": "no",
             "collect_response": "no",
             "decisionPoint": "no",
-            "text": "Awesome! And we\u2019re here!",
+            "text": "Awesome!",
             "previous": "96b28ecc-99a1-55a0-b05e-120a58aa2fac",
             "next": "0eddd30a-03be-5992-a900-c86cf3a98654",
             "speaker": "darcy"
@@ -399,7 +418,7 @@
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "Let\u2019s go inside, we\u2019re already late.",
-            "previous": "c7befd36-f86e-5028-8a43-8ceedba7b514",
+            "previous": "7af14e4f-eaff-581b-a403-e530caf583b8",
             "next": "612da785-ab31-5ead-a690-04741dd1be2f",
             "speaker": "darcy"
         },
@@ -409,15 +428,15 @@
             "decisionPoint": "no",
             "text": "Are we ready for music day?",
             "previous": "b91d0a4e-3c24-5499-bf2c-382b154cc418",
-            "next": "b8ee356a-99a9-5c81-8b3d-1fca7133d492",
+            "next": "015a52c9-965f-56dd-94e4-50a85ef97a2a",
             "speaker": "campbell"
         },
-        "a84ae203-39c5-5199-b5fb-9b2281dd70f8": {
+        "70f27132-8d90-5398-82d8-4f8ec099df0a": {
             "ending": "no",
             "collect_response": "no",
             "decisionPoint": "no",
-            "text": "But we only have one of each.",
-            "previous": "b8ee356a-99a9-5c81-8b3d-1fca7133d492",
+            "text": "But only one of each.",
+            "previous": "015a52c9-965f-56dd-94e4-50a85ef97a2a",
             "next": "b6be54a4-2a6f-5341-b770-3b3216128577",
             "speaker": "campbell"
         },
@@ -492,7 +511,11 @@
             "text": "What you just said was not very nice.",
             "previous": "b8f699e6-0557-530c-86b6-f95273493651",
             "next": "0d66461b-0c0b-5efd-8361-e9167f78a1ce",
-            "speaker": "campbell"
+            "speaker": "campbell",
+            "emotions": {
+                "darcy": "sad",
+                "tom": "sad"
+            }
         },
         "3cf338bd-7a09-57d0-823b-7883413ed6b1": {
             "ending": "no",
@@ -537,7 +560,10 @@
             "text": "That wasn\u2019t very nice of me.",
             "previous": "4b2cfa1d-36a0-52a3-9056-10e58c7afd22",
             "next": "2d239394-9422-5429-9bb4-5c2ad356368d",
-            "speaker": "darcy"
+            "speaker": "darcy",
+            "emotions": {
+                "tom": "normal"
+            }
         },
         "2214a0c3-3a92-5a02-b734-081da8b17c19": {
             "ending": "no",
@@ -583,6 +609,17 @@
             "characters": {
                 "tom": "1",
                 "darcy": "3"
+            },
+            "emotions": {
+                "darcy": "sad",
+                "tom": "sad"
+            },
+            "instruments": {
+                "tom": "tambourine",
+                "darcy": "flute",
+                "jessica": "saxophone",
+                "ariel": "violin",
+                "varun": "clarinet"
             }
         },
         "ed28d55e-5801-5afb-bd5f-660033bac227": {
@@ -606,6 +643,15 @@
                 "tom": "1",
                 "darcy": "3",
                 "campbell": "5"
+            },
+            "emotions": {
+                "darcy": "shock",
+                "tom": "shock",
+                "campbell": "angry"
+            },
+            "instruments": {
+                "tom": "tambourine",
+                "darcy": "flute"
             }
         },
         "013d264f-30cd-5e0c-b740-b9d7da085bdb": {
@@ -615,7 +661,7 @@
             "text": "I thought we could just get on with the day...",
             "previous": "e1656df4-af17-57b3-9d5e-4532360ee048",
             "next": "b2a3aa99-1905-5ae5-934b-352e2da8e922",
-            "speaker": "campbell"
+            "speaker": "darcy"
         },
         "b2a3aa99-1905-5ae5-934b-352e2da8e922": {
             "ending": "no",
@@ -624,7 +670,10 @@
             "text": "When we do something wrong, it's important to say sorry.",
             "previous": "013d264f-30cd-5e0c-b740-b9d7da085bdb",
             "next": "2a6f8ece-bd94-586f-85e0-5a118868c2f3",
-            "speaker": "campbell"
+            "speaker": "campbell",
+            "emotions": {
+                "campbell": "normal"
+            }
         },
         "2a6f8ece-bd94-586f-85e0-5a118868c2f3": {
             "ending": "no",
@@ -651,6 +700,16 @@
                 "jessica": "5",
                 "ariel": "7",
                 "campbell": "9"
+            },
+            "emotions": {
+                "darcy": "angry"
+            },
+            "instruments": {
+                "tom": "tambourine",
+                "darcy": "flute",
+                "jessica": "saxophone",
+                "ariel": "violin",
+                "varun": "clarinet"
             }
         },
         "0015e4cf-fa2e-55ea-b1b2-10097869f963": {
@@ -660,7 +719,14 @@
             "text": "Tom, you're playing too loud!",
             "previous": "7137e3e7-3401-5491-8517-2d1a7893a6df",
             "next": "22fcf488-3a71-53ee-95a2-9fd70d69399b",
-            "speaker": "darcy"
+            "speaker": "darcy",
+            "emotions": {
+                "tom": "sad",
+                "varun": "shock",
+                "jessica": "shock",
+                "ariel": "shock",
+                "campbell": "shock"
+            }
         },
         "22fcf488-3a71-53ee-95a2-9fd70d69399b": {
             "ending": "no",
@@ -712,6 +778,9 @@
                 "jessica": "3",
                 "ariel": "6",
                 "darcy": "9"
+            },
+            "emotions": {
+                "darcy": "sad"
             }
         },
         "05cbdcf8-8087-5262-a261-cf0aa6dabf1d": {
@@ -721,7 +790,10 @@
             "text": "You should say, \"I'm sorry you're bad at the tambourine.\"",
             "previous": "e09b30db-c28e-5a59-8b77-f3dc3dcc52a5",
             "next": "8ff23661-e2cd-550f-996a-46247215137a",
-            "speaker": "varun"
+            "speaker": "varun",
+            "emotions": {
+                "jessica": "shock"
+            }
         },
         "8ff23661-e2cd-550f-996a-46247215137a": {
             "ending": "no",
@@ -771,14 +843,14 @@
                 "5cc36e6e-dd87-52ff-b0b7-4e7f8c0ccc2c"
             ],
             "options": [
-                "varun",
-                "jessica",
-                "ariel"
+                "Should I tell Tom he's bad at the tambourine",
+                "Should I apologize for calling Tom selfish",
+                "Or should I just move on?"
             ],
             "optionIDs": [
-                "c8a40313-8029-52ff-8a3f-8faca137e51a",
-                "029e04ee-c7aa-5f54-b2de-0b16b7c269bc",
-                "6058329a-7c47-56b5-84d1-3c55165f6b61"
+                "4b42bcd9-9fb2-561c-b250-ce3d4f98ed44",
+                "2f984409-2195-585a-80e1-45aa367820b5",
+                "bf89415a-99ac-5709-b066-9e27d864dfa0"
             ],
             "speaker": "darcy"
         },
@@ -793,6 +865,13 @@
             "characters": {
                 "darcy": "1",
                 "tom": "3"
+            },
+            "emotions": {
+                "tom": "sad"
+            },
+            "instruments": {
+                "tom": "tambourine",
+                "darcy": "flute"
             }
         },
         "40fe78e7-1924-5de6-9d3c-ef1c46f11422": {
@@ -815,6 +894,14 @@
             "characters": {
                 "tom": "1",
                 "darcy": "3"
+            },
+            "emotions": {
+                "darcy": "sad",
+                "tom": "sad"
+            },
+            "instruments": {
+                "tom": "tambourine",
+                "darcy": "flute"
             }
         },
         "095da6fe-3166-59c4-914a-88e18538b81e": {
@@ -833,7 +920,11 @@
             "text": "Thanks, Darcy. ",
             "previous": "095da6fe-3166-59c4-914a-88e18538b81e",
             "next": "eb9add9d-4700-56f6-bab1-2ac6575fb4ee",
-            "speaker": "tom"
+            "speaker": "tom",
+            "emotions": {
+                "darcy": "happy",
+                "tom": "happy"
+            }
         },
         "eb9add9d-4700-56f6-bab1-2ac6575fb4ee": {
             "ending": "no",
@@ -865,6 +956,15 @@
                 "tom": "1",
                 "darcy": "3",
                 "campbell": "5"
+            },
+            "emotions": {
+                "darcy": "shock",
+                "tom": "shock",
+                "campbell": "angry"
+            },
+            "instruments": {
+                "tom": "tambourine",
+                "darcy": "flute"
             }
         },
         "2261f6d2-485a-5aa8-84b4-0cebdb792335": {
@@ -883,7 +983,10 @@
             "text": "Darcy, you called Tom selfish.",
             "previous": "2261f6d2-485a-5aa8-84b4-0cebdb792335",
             "next": "c31fe425-c30f-5202-a40c-8dcf50c6c4e0",
-            "speaker": "campbell"
+            "speaker": "campbell",
+            "emotions": {
+                "darcy": "sad"
+            }
         },
         "c31fe425-c30f-5202-a40c-8dcf50c6c4e0": {
             "ending": "no",
@@ -915,6 +1018,13 @@
                 "darcy": "0",
                 "tom": "1",
                 "campbell": "9"
+            },
+            "emotions": {
+                "darcy": "angry"
+            },
+            "instruments": {
+                "tom": "tambourine",
+                "darcy": "flute"
             }
         },
         "2cb993db-aa81-5ad8-b063-619b6684510c": {
@@ -942,7 +1052,10 @@
             "text": "I wanna rock out!",
             "previous": "af2587fd-139d-5bd5-84d4-1cae52ef8576",
             "next": "425d99a6-fed2-5aa1-84e4-2089caf1dc26",
-            "speaker": "darcy"
+            "speaker": "darcy",
+            "emotions": {
+                "darcy": "sad"
+            }
         },
         "425d99a6-fed2-5aa1-84e4-2089caf1dc26": {
             "ending": "no",
@@ -953,13 +1066,37 @@
             "next": "92ccf159-caf6-5f80-9966-3da5bf7069d4",
             "speaker": "darcy"
         },
+        "9c824784-1079-50d7-ac31-864f6d3f4e89": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "Yum, today must be special!",
+            "previous": "d1c35e3a-d5cb-5830-81dc-75d015f90a76",
+            "next": "e241e7f5-2011-51b6-a35a-6dcf2d21c246",
+            "speaker": "darcy",
+            "characters": {
+                "darcy": "2"
+            }
+        },
         "a98b099c-9269-5106-aa2d-efe4f1e79cce": {
             "ending": "no",
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "Great choice, thanks!",
             "previous": "d1c35e3a-d5cb-5830-81dc-75d015f90a76",
-            "next": "49db0e61-0fca-5947-a560-64857d201852",
+            "next": "e241e7f5-2011-51b6-a35a-6dcf2d21c246",
+            "speaker": "darcy",
+            "characters": {
+                "darcy": "2"
+            }
+        },
+        "f488c224-d9b8-5181-aa53-a2755f2e49ec": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "A healthy choice! Thanks!",
+            "previous": "d1c35e3a-d5cb-5830-81dc-75d015f90a76",
+            "next": "e241e7f5-2011-51b6-a35a-6dcf2d21c246",
             "speaker": "darcy",
             "characters": {
                 "darcy": "2"
@@ -995,6 +1132,11 @@
                 "tom": "1",
                 "darcy": "3",
                 "campbell": "5"
+            },
+            "emotions": {
+                "tom": "sad",
+                "campbell": "angry",
+                "darcy": "sad"
             }
         },
         "1b6442f5-619e-55a2-8e41-ac2e08bcc9f1": {
@@ -1057,6 +1199,24 @@
             "decisionPoint": "no",
             "text": "Thanks!",
             "previous": "425d99a6-fed2-5aa1-84e4-2089caf1dc26",
+            "speaker": "darcy"
+        },
+        "e0096e55-b8dd-5e21-8619-035b612c5abc": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "There\u2019s a special activity planned for today",
+            "previous": "e241e7f5-2011-51b6-a35a-6dcf2d21c246",
+            "next": "1c7072bd-475a-5864-b9ab-8d85df52110b",
+            "speaker": "darcy"
+        },
+        "fac20ff8-b570-5515-a8f2-c455aa527a71": {
+            "ending": "no",
+            "collect_response": "no",
+            "decisionPoint": "no",
+            "text": "We get to pick instruments to learn!",
+            "previous": "1c7072bd-475a-5864-b9ab-8d85df52110b",
+            "next": "5a1ae6dd-bbc2-50ee-b9ca-c9d2e71caa03",
             "speaker": "darcy"
         }
     },

@@ -1,37 +1,37 @@
 {
-  "transcript": "We have a couple different instruments.",
+  "transcript": "We have a couple instruments.",
   "words": [
     {
       "alignedWord": "we",
       "case": "success",
-      "end": 0.36,
+      "end": 0.5,
       "endOffset": 2,
       "phones": [
         {
-          "duration": 0.12,
+          "duration": 0.16,
           "phone": "w_B"
         },
         {
-          "duration": 0.12,
+          "duration": 0.21,
           "phone": "iy_E"
         }
       ],
-      "start": 0.12,
+      "start": 0.13,
       "startOffset": 0,
       "word": "We"
     },
     {
       "alignedWord": "have",
       "case": "success",
-      "end": 0.56,
+      "end": 0.8500000000000001,
       "endOffset": 7,
       "phones": [
         {
-          "duration": 0.04,
+          "duration": 0.13,
           "phone": "hh_B"
         },
         {
-          "duration": 0.08,
+          "duration": 0.13,
           "phone": "ae_I"
         },
         {
@@ -39,107 +39,68 @@
           "phone": "v_E"
         }
       ],
-      "start": 0.36,
+      "start": 0.51,
       "startOffset": 3,
       "word": "have"
     },
     {
       "alignedWord": "a",
       "case": "success",
-      "end": 0.64,
+      "end": 0.9099999999999999,
       "endOffset": 9,
       "phones": [
         {
-          "duration": 0.08,
+          "duration": 0.06,
           "phone": "ah_S"
         }
       ],
-      "start": 0.56,
+      "start": 0.85,
       "startOffset": 8,
       "word": "a"
     },
     {
       "alignedWord": "couple",
       "case": "success",
-      "end": 1.05,
+      "end": 1.23,
       "endOffset": 16,
       "phones": [
         {
-          "duration": 0.1,
+          "duration": 0.08,
           "phone": "k_B"
-        },
-        {
-          "duration": 0.08,
-          "phone": "ah_I"
-        },
-        {
-          "duration": 0.08,
-          "phone": "p_I"
         },
         {
           "duration": 0.05,
           "phone": "ah_I"
         },
         {
-          "duration": 0.1,
+          "duration": 0.06,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
           "phone": "l_E"
         }
       ],
-      "start": 0.64,
+      "start": 0.91,
       "startOffset": 10,
       "word": "couple"
     },
     {
-      "alignedWord": "different",
-      "case": "success",
-      "end": 1.3900000000000001,
-      "endOffset": 26,
-      "phones": [
-        {
-          "duration": 0.04,
-          "phone": "d_B"
-        },
-        {
-          "duration": 0.1,
-          "phone": "ih_I"
-        },
-        {
-          "duration": 0.06,
-          "phone": "f_I"
-        },
-        {
-          "duration": 0.01,
-          "phone": "r_I"
-        },
-        {
-          "duration": 0.05,
-          "phone": "ah_I"
-        },
-        {
-          "duration": 0.02,
-          "phone": "n_I"
-        },
-        {
-          "duration": 0.03,
-          "phone": "t_E"
-        }
-      ],
-      "start": 1.08,
-      "startOffset": 17,
-      "word": "different"
-    },
-    {
       "alignedWord": "instruments",
       "case": "success",
-      "end": 2.04,
-      "endOffset": 38,
+      "end": 1.87,
+      "endOffset": 28,
       "phones": [
         {
-          "duration": 0.11,
+          "duration": 0.12,
           "phone": "ih_B"
         },
         {
-          "duration": 0.07,
+          "duration": 0.06,
           "phone": "n_I"
         },
         {
@@ -159,7 +120,7 @@
           "phone": "ah_I"
         },
         {
-          "duration": 0.05,
+          "duration": 0.06,
           "phone": "m_I"
         },
         {
@@ -171,7 +132,7 @@
           "phone": "n_I"
         },
         {
-          "duration": 0.04,
+          "duration": 0.01,
           "phone": "t_I"
         },
         {
@@ -179,8 +140,8 @@
           "phone": "s_E"
         }
       ],
-      "start": 1.41,
-      "startOffset": 27,
+      "start": 1.26,
+      "startOffset": 17,
       "word": "instruments"
     }
   ]

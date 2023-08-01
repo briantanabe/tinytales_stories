@@ -1,0 +1,32 @@
+{
+  "transcript": "Awesome!",
+  "words": [
+    {
+      "alignedWord": "awesome",
+      "case": "success",
+      "end": 1.24,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.38,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.29,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 0,
+      "word": "Awesome"
+    }
+  ]
+}
