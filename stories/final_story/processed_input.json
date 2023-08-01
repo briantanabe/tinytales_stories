@@ -65,7 +65,7 @@
             "ending": "no",
             "collect_response": "no",
             "decisionPoint": "no",
-            "text": " Ms.campbell will be looking for me!",
+            "text": " Ms. Campbell will be looking for me!",
             "previous": "0eddd30a-03be-5992-a900-c86cf3a98654",
             "next": "b91d0a4e-3c24-5499-bf2c-382b154cc418",
             "speaker": "darcy"
@@ -111,7 +111,7 @@
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "Oh dear, I was late this morning.",
-            "previous": "b6be54a4-2a6f-5341-b770-3b3216128577",
+            "previous": "2214a0c3-3a92-5a02-b734-081da8b17c19",
             "next": "b29ec030-a8f9-5147-a23d-9bd7d77b2f3b",
             "speaker": "darcy",
             "background": "classroom_close_1",
@@ -257,7 +257,7 @@
             "next": "88a84eeb-3416-5b1b-b878-e0c586284053",
             "speaker": "campbell",
             "characters": {
-                "tom": "2",
+                "tom": "1",
                 "darcy": "3",
                 "campbell": "5"
             }
@@ -435,7 +435,7 @@
             "collect_response": "no",
             "decisionPoint": "no",
             "text": "I choose the tambourine!",
-            "previous": "2214a0c3-3a92-5a02-b734-081da8b17c19",
+            "previous": "69c7e725-0366-51d6-99c1-8dcb90665173",
             "next": "ceb110b3-d942-5e08-8ec5-1fa97d5f25bd",
             "speaker": "tom",
             "emotions": {
@@ -559,7 +559,7 @@
             "characters": {
                 "tom": "2",
                 "darcy": "3",
-                "campbell": "5"
+                " campbell": "5"
             }
         },
         "4f7e8073-cdd2-5219-b259-53154844d046": {
@@ -594,7 +594,7 @@
             "next": "2261f6d2-485a-5aa8-84b4-0cebdb792335",
             "speaker": "campbell",
             "characters": {
-                "tom": "2",
+                "tom": "1",
                 "darcy": "3",
                 "campbell": "5"
             }
@@ -621,7 +621,7 @@
             "ending": "no",
             "collect_response": "no",
             "decisionPoint": "no",
-            "text": "I guess you're right, Ms.campbell...",
+            "text": "I guess you're right, Ms. Campbell...",
             "previous": "b2a3aa99-1905-5ae5-934b-352e2da8e922",
             "next": "f5c729dd-7235-5aa5-be8c-a0d1e1377973",
             "speaker": "darcy"
@@ -783,7 +783,7 @@
             "speaker": "darcy",
             "characters": {
                 "darcy": "1",
-                "tom": "2"
+                "tom": "3"
             }
         },
         "40fe78e7-1924-5de6-9d3c-ef1c46f11422": {
@@ -804,7 +804,7 @@
             "next": "8cf59583-08c0-5563-861a-cfab0717f250",
             "speaker": "darcy",
             "characters": {
-                "tom": "2",
+                "tom": "1",
                 "darcy": "3"
             }
         },
@@ -875,7 +875,7 @@
             "ending": "no",
             "collect_response": "no",
             "decisionPoint": "no",
-            "text": "I guess you're right, Ms.campbell",
+            "text": "I guess you're right, Ms. Campbell",
             "previous": "b2a3aa99-1905-5ae5-934b-352e2da8e922",
             "next": "f5c729dd-7235-5aa5-be8c-a0d1e1377973",
             "speaker": "darcy"
@@ -971,7 +971,7 @@
             "next": "40fe78e7-1924-5de6-9d3c-ef1c46f11422",
             "speaker": "campbell",
             "characters": {
-                "tom": "2",
+                "tom": "1",
                 "darcy": "3",
                 "campbell": "5"
             }

@@ -362,7 +362,7 @@
         "campbell"
       ],
       "properties": {
-        "characters": "tom:2,darcy:3, campbell:5"
+        "characters": "tom:1,darcy:3,campbell:5"
       },
       "style": {}
     },
@@ -1038,7 +1038,7 @@
         "darcy"
       ],
       "properties": {
-        "characters": "darcy:1,tom:2"
+        "characters": "darcy:1,tom:3"
       },
       "style": {}
     },
@@ -1066,7 +1066,7 @@
         "darcy"
       ],
       "properties": {
-        "characters": "tom:2,darcy:3"
+        "characters": "tom:1,darcy:3"
       },
       "style": {}
     },
@@ -1133,7 +1133,7 @@
         "campbell"
       ],
       "properties": {
-        "characters": "tom:2,darcy:3,campbell:5"
+        "characters": "tom:1,darcy:3,campbell:5"
       },
       "style": {}
     },
@@ -1264,7 +1264,8 @@
       },
       "caption": "What should I say to Emma?",
       "labels": [
-        "darcy"
+        "darcy",
+        "collect_response"
       ],
       "properties": {},
       "style": {}
@@ -1351,7 +1352,7 @@
         "campbell"
       ],
       "properties": {
-        "characters": "tom:2,darcy:3,campbell:5"
+        "characters": "tom:1,darcy:3,campbell:5"
       },
       "style": {}
     },
@@ -2124,14 +2125,6 @@
       "style": {}
     },
     {
-      "id": "n136",
-      "fromId": "n56",
-      "toId": "n45",
-      "type": "",
-      "properties": {},
-      "style": {}
-    },
-    {
       "id": "n137",
       "fromId": "n63",
       "toId": "n65",
@@ -2282,6 +2275,14 @@
       "type": "Or should I just move on",
       "properties": {},
       "style": {}
+    },
+    {
+      "id": "n156",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n56",
+      "toId": "n12"
     }
   ]
 }
